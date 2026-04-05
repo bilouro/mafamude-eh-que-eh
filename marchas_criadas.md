@@ -14,3 +14,4 @@
 | 6 | [Toda a Gente Dá Aqui](marchas/marcha06.md) | Mafamude é cantada como lugar de encontro, onde sinais, zonas e memórias da freg |
 | 7 | [Mafamude Bate Certo](marchas/marcha07.md) | Mafamude é apresentada como uma freguesia de muitos pulsos — memória paroquial,  |
 | 8 | [Mafamude Levanta Estandartes](marchas/marcha08.md) | Mafamude sobe à rua de estandarte erguido, juntando fé, folclore, grupos e memór |
+| 9 | [Mafamude, Janela em Janela](marchas/marcha09.md) | Mafamude acende-se de dentro para fora: a noite começa nas casas, passa pelas ja |

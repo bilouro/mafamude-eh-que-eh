@@ -803,7 +803,7 @@ Diferenciação face a marchas já feitas:
 Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas gastas porque não depende apenas do santo, não depende do arraial genérico, não depende de património transformado em visita guiada e não vive só de exaltação vaga do bairro. O que oferece de próprio é uma imagem muito utilizável e pouco banal: Mafamude a levantar os seus estandartes humanos e a transformar essa pluralidade num só brio popular.
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a melhor via é procurar um eixo muito visual, nocturno e coral que nasça da Mafamude habitada, e não do arraial genérico. A leitura do género ajuda: em Gaia, as marchas podem partir de um tema comum com subtemas por marcha; em Lisboa, o concurso valoriza explicitamente coreografia, figurino, cenografia, letra e música. Isso favorece conceitos com imagem mestra simples, desdobrável e imediatamente legível em desfile. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
 
