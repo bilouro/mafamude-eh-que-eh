@@ -113,7 +113,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 ## Economia e Trabalho → [economia_trabalho.md](economia_trabalho.md)
 
-- [ ] Que profissões históricas eram dominantes em Mafamude — pescadores, barqueiros, operários, agricultores?
+- [x] Que profissões históricas eram dominantes em Mafamude — pescadores, barqueiros, operários, agricultores?
 - [ ] Que indústrias, fábricas ou armazéns existiram em Mafamude ao longo da história?
 - [ ] Que comércio tradicional ainda existe ou existiu em Mafamude?
 - [ ] Como afectou a proximidade ao Porto a economia e os hábitos de trabalho de Mafamude?
