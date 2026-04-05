@@ -40,3 +40,12 @@ Com rigor histórico, eu não diria que 'peixe do Douro, vinho de Gaia e hortíc
 **Pontos não confirmados:** Quais hortícolas concretos eram reputados como típicos de Mafamude.; Existência de pratos mafamudenses especificamente ligados ao peixe do Douro.; Qualquer produção vínica própria de Mafamude que justifique a expressão 'vinho de Gaia' em sentido estritamente local.  
 
 ---
+## Que festas ou feiras gastronómicas acontecem ou aconteceram em Mafamude?
+
+Com segurança, a festa mais claramente associada a Mafamude é a de Santo Ovídio, de caráter religioso e popular. Já quanto a feiras gastronómicas propriamente ditas, não consigo confirmá-las com confiança a partir de fontes fortes e independentes. Em termos rigorosos, o que está melhor documentado é a tradição festiva ligada a Santo Ovídio; a existência de uma feira gastronómica própria de Mafamude permanece incerta e exigiria verificação adicional em programas locais, imprensa e arquivos municipais.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758, freguesia de Mafamude; Igreja Paroquial de Mafamude / Igreja de Santo Ovídio; Paróquia de Mafamude - Santo Ovídio  
+**Pontos não confirmados:** A existência de uma feira gastronómica histórica própria de Mafamude.; A continuidade anual e a designação exata de eventuais eventos gastronómicos recentes realizados em Mafamude.  
+
+---
