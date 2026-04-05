@@ -32,3 +32,12 @@ Com segurança documental, o grupo musical que consigo confirmar como claramente
 **Pontos não confirmados:** Uma lista exaustiva de músicos individuais naturais de Mafamude.; A identificação segura de outras bandas ou grupos musicais originários de Mafamude além do Orfeão de Mafamude.  
 
 ---
+## Que murais, esculturas ou arte urbana existem no espaço público de Mafamude?
+
+Com base nas fontes institucionais e patrimoniais que consigo sustentar com segurança, não posso confirmar uma lista exaustiva de murais, esculturas ou arte urbana existentes hoje no espaço público de Mafamude. A documentação disponível é dispersa e, no caso da arte urbana, muito mutável. Portanto, a resposta mais rigorosa é que não há, nas fontes consultadas, base suficientemente sólida para enumerar sem risco de erro quais obras públicas se situam especificamente em Mafamude. Se pretender, a forma correta de avançar é fazer um levantamento verificável por zonas de Mafamude, cruzando cartografia administrativa, fontes municipais e confirmação local datada.
+
+**Confiança:** Low  
+**Fontes:** Carta Administrativa Oficial de Portugal (CAOP); Portal do Município de Vila Nova de Gaia: Cultura e Património; SIPA - Sistema de Informação para o Património Arquitectónico  
+**Pontos não confirmados:** Murais ou intervenções urbanas recentes em Mafamude não ficaram independentemente confirmados.; Não ficou confirmada uma lista atualizada de esculturas de espaço público especificamente dentro dos limites de Mafamude.; A permanência e localização exata de eventuais obras de arte urbana continuam incertas sem verificação local.  
+
+---
