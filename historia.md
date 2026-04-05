@@ -23,3 +23,12 @@ Com prudência documental, Mafamude parece ter-se desenvolvido no período medie
 **Pontos não confirmados:** Primeira menção documental medieval exata de Mafamude.; Identificação segura dos principais senhorios e respetiva cronologia entre os séculos XIII e XV.; Inventário detalhado das propriedades medievais da localidade.  
 
 ---
+## Qual foi o papel da Igreja de São Cristóvão na história de Mafamude desde a sua fundação?
+
+Com a cautela necessária, o que se pode afirmar com segurança é que a Igreja de São Cristóvão teve, na história de Mafamude, o papel de igreja paroquial e centro institucional da comunidade. A data exata da sua fundação não ficou confirmada nas fontes aqui reunidas. Contudo, a sua existência está documentalmente atestada pelo menos em 1758, e os registos paroquiais mostram que nela se concentravam funções decisivas: culto regular, baptismos, casamentos, óbitos e, portanto, a organização religiosa e documental da freguesia. Em termos históricos, o seu papel principal foi estruturar a vida coletiva de Mafamude e preservar parte essencial da memória local. O que permanece incerto é a cronologia da fundação e a relação exata entre o eventual templo mais antigo e o edifício hoje conhecido.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758: freguesia de São Cristóvão de Mafamude; Igreja Paroquial de Mafamude / Igreja de São Cristóvão; Registos paroquiais de Mafamude; Inventário e descrição arquivística da Paróquia de Mafamude  
+**Pontos não confirmados:** Ano exato da fundação da igreja; Eventual fundador ou primeira campanha construtiva; Cronologia precisa das fases mais antigas do edifício  
+
+---
