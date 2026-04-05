@@ -23,3 +23,12 @@ A resposta historicamente segura é cautelosa: com as fontes gerais mais fiávei
 **Pontos não confirmados:** Nomes e datas de pequenas fábricas, oficinas e armazéns de Mafamude nos séculos XIX e XX.; Inventário cronológico completo das atividades industriais e de armazenagem dentro dos limites históricos da freguesia.; Atribuição paroquial exata de estabelecimentos situados em áreas limítrofes como as Devesas.  
 
 ---
+## Que comércio tradicional ainda existe ou existiu em Mafamude?
+
+Com prudência histórica, não posso confirmar aqui uma lista segura de casas comerciais tradicionais ainda ativas em Mafamude. O que a documentação e o contexto urbano tornam mais provável é a existência histórica de comércio de proximidade, como mercearias, padarias, talhos, tabernas ou casas de vinho, drogarias ou farmácias e pequenas oficinas com venda ao público. Para dizer quais ainda existem, ou para nomear estabelecimentos concretos, seria necessário um levantamento direto em anuários comerciais, licenças camarárias e imprensa local.
+
+**Confiança:** Medium  
+**Fontes:** Recenseamentos Gerais da População; Anuário Comercial de Portugal; Arquivo Municipal de Vila Nova de Gaia; Memórias Paroquiais de 1758: Mafamude; Portugal Antigo e Moderno  
+**Pontos não confirmados:** Nomes de lojas antigas específicas de Mafamude.; Continuidade desses estabelecimentos até ao presente.; Datas exatas de fundação e encerramento.  
+
+---
