@@ -32,3 +32,12 @@ Os exemplos historicamente mais seguros em Mafamude são estes: 1) a envolvente 
 **Pontos não confirmados:** A existência de outros jardins ou pequenos espaços públicos antigos em Mafamude carece de confirmação documental específica nas fontes consultadas.; A classificação de cada caso como 'parque', 'jardim' ou 'espaço público histórico' pode variar conforme o critério adotado.  
 
 ---
+## Que mercados, feiras ou espaços de comércio tradicional marcaram a vida de Mafamude?
+
+A resposta mais segura é prudente: não consigo confirmar, com base robusta, uma grande feira histórica própria de Mafamude claramente documentada e consensual. O que parece ter pesado mais na vida local foi o comércio quotidiano ligado aos espaços urbanos da freguesia, sobretudo a zona de Santo Ovídio, e provavelmente também a utilização dos mercados do centro urbano de Gaia pelos moradores de Mafamude. Se a intenção é identificar feiras com nome próprio, datas e localização exata dentro de Mafamude, isso permanece incerto e exigiria pesquisa adicional em atas municipais, regulamentos de mercados, imprensa local e documentação paroquial.
+
+**Confiança:** Low  
+**Fontes:** Memórias Paroquiais de 1758: Mafamude; Portugal Antigo e Moderno; Dicionário Corográfico de Portugal Continental e Insular; Grande Enciclopédia Portuguesa e Brasileira  
+**Pontos não confirmados:** Existência de uma feira periódica formal de Mafamude com nome e calendário próprios.; Identificação do mercado municipal mais usado pelos moradores de Mafamude em cada período histórico.; Eventuais feiras associadas a festas religiosas locais na área de Santo Ovídio ou da freguesia.  
+
+---
