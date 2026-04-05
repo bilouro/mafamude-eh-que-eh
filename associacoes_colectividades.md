@@ -31,3 +31,12 @@ Não posso confirmar com confiança, com base em evidência suficientemente veri
 **Pontos não confirmados:** Nomes exatos de grupos de teatro de Mafamude; Nomes exatos de ranchos folclóricos de Mafamude; Nomes exatos de grupos corais de Mafamude; Períodos de atividade e eventual continuidade institucional desses grupos  
 
 ---
+## Que movimentos de moradores, associações de bairro ou organizações cívicas actuaram em Mafamude?
+
+Com segurança, posso dizer que em Mafamude existiu e existe um tecido associativo local, sobretudo de natureza cívico-social, recreativa e paroquial. Entre as entidades que consigo documentar com maior segurança mínima estão o Clube de Mafamude e o Centro Social Paroquial de Mafamude. Já quanto a movimentos de moradores ou associações de bairro em sentido estrito, não consigo confirmar com confiança, a partir das fontes aqui reunidas, uma lista nominal sólida e historicamente fechada. Portanto, a resposta mais rigorosa é que Mafamude teve organizações cívicas locais bem identificáveis, mas a história específica das comissões de moradores e associações de bairro permanece incompleta sem pesquisa adicional em arquivos municipais, imprensa local e registos associativos.
+
+**Confiança:** Low  
+**Fontes:** União das Freguesias de Mafamude e Vilar do Paraíso (sítio oficial); Câmara Municipal de Vila Nova de Gaia (informação institucional sobre associativismo local); Clube de Mafamude (informação institucional); Centro Social Paroquial de Mafamude (informação institucional); Diocese do Porto / Paróquia de Mafamude (informação institucional)  
+**Pontos não confirmados:** Lista exaustiva de movimentos de moradores em Mafamude.; Nomes, datas de fundação e cronologia de atuação de eventuais associações de bairro específicas.; Peso histórico relativo de cada coletividade na mobilização cívica local.  
+
+---
