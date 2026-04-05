@@ -41,3 +41,12 @@ Com segurança, posso afirmar que os símbolos oficiais de uma freguesia portugu
 **Pontos não confirmados:** A blasonação exata do brasão da antiga freguesia de Mafamude.; A existência de um lema oficialmente aprovado para Mafamude.  
 
 ---
+## Como evoluiu a organização administrativa de Mafamude desde 1834 até à união de freguesias?
+
+A evolução administrativa documentável de Mafamude, entre 1834 e a união de freguesias, foi sobretudo de continuidade. No contexto das reformas liberais iniciadas em 1834 e juridicamente consolidadas em 1835-1836, Mafamude ficou enquadrada no concelho de Vila Nova de Gaia, no distrito do Porto. Pelo menos desde o recenseamento de 1864, e ainda nos de 1911 e 2011, aparece como freguesia autónoma desse concelho, sem que as fontes aqui consultadas mostrem mudança de concelho ou de distrito. A mudança estrutural relevante ocorreu apenas em 2013, quando a Lei n.º 11-A/2013 extinguiu a freguesia administrativa autónoma de Mafamude e a agregou a Vilar do Paraíso, formando a União das Freguesias de Mafamude e Vilar do Paraíso.
+
+**Confiança:** Medium  
+**Fontes:** Decreto de 18 de julho de 1835; Decreto de 6 de novembro de 1836; Recenseamento Geral da População do Reino de Portugal no 1.º de janeiro de 1864; Recenseamento da População de Portugal no 1.º de dezembro de 1911; Censos 2011; Lei n.º 11-A/2013  
+**Pontos não confirmados:** A data exata e única em que a reorganização liberal passou a produzir todos os seus efeitos locais em Mafamude não pode ser fixada com plena segurança apenas com as fontes aqui reunidas.; Não foram aqui rastreados exaustivamente todos os diplomas intermédios de detalhe administrativo não equivalentes a mudança de freguesia, concelho ou distrito.  
+
+---
