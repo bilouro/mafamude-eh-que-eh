@@ -23,3 +23,12 @@ Com a segurança que consigo sustentar, os exemplos mais firmes são estes: a Ca
 **Pontos não confirmados:** Lista exaustiva de quintas desaparecidas de Mafamude.; Identificação segura de outros solares ou casas senhoriais além dos casos acima.; Atribuição territorial absolutamente precisa da Quinta do Cravel à Mafamude histórica.  
 
 ---
+## Que parques, jardins ou espaços públicos históricos existem em Mafamude?
+
+Os exemplos historicamente mais seguros em Mafamude são estes: 1) a envolvente de Santo Ovídio, isto é, o antigo núcleo paroquial em torno da igreja de Mafamude, que funciona historicamente como espaço público antigo; 2) o jardim histórico da Casa Barbot; 3) o jardim da Casa-Museu Teixeira Lopes. Convém, porém, distinguir categorias: Santo Ovídio é um espaço público histórico em sentido urbano; já Casa Barbot e Casa-Museu Teixeira Lopes são jardins históricos ligados a imóveis patrimoniais, hoje com uso público ou cultural. Nas fontes consultadas, não encontrei prova igualmente sólida para uma lista extensa de parques históricos propriamente ditos dentro de Mafamude.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758: Mafamude; Igreja Paroquial de Mafamude / Igreja de Santo Ovídio; Casa Barbot / Biblioteca Municipal de Gaia; Casa Barbot; Casa-Museu Teixeira Lopes / Atelier António Teixeira Lopes; Casa-Museu Teixeira Lopes  
+**Pontos não confirmados:** A existência de outros jardins ou pequenos espaços públicos antigos em Mafamude carece de confirmação documental específica nas fontes consultadas.; A classificação de cada caso como 'parque', 'jardim' ou 'espaço público histórico' pode variar conforme o critério adotado.  
+
+---
