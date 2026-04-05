@@ -100,3 +100,11 @@ Em termos estritamente documentais, Mafamude aparece primeiro como uma **paróqu
 - DGAL — Portal Autárquico — Mafamude (Vila Nova de Gaia) — [portalautarquico.dgal.gov.pt](https://portalautarquico.dgal.gov.pt/pt-PT/entidades-locais/freguesias/mafamude--vila-nova-de-gaia-/)
 - GAIURB — Relatório 2.1: Evolução Demográfica e Base Sócio-Económica — [gaiurb.pt](https://www.gaiurb.pt/gaiurb/uploads/document/file/261/evolucao_demografica_e_base_socio_economica.pdf)
 - INE — Censos 2011 Resultados Definitivos — [mapas.ine.pt](https://mapas.ine.pt/map.phtml?config=default)
+- https://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=19945&utm_source=openai
+- https://jfmafamude.pt/historia/
+- https://www.gaiurb.pt/gaiurb/uploads/document/file/261/evolucao_demografica_e_base_socio_economica.pdf?utm_source=openai
+- https://www.cm-carrazedadeansiaes.pt/cmcarrazedadeansiaes/uploads/writer_file/document/4111/censos2011_rdefinitivos_norte_3.pdf?utm_source=openai
+- https://files.dre.pt/gratuitos/1s/2013/01/01901.pdf
+- https://www.cne.pt/sites/default/files/dl/legis_lei_25a_2025.pdf
+- https://files.dre.pt/1s/2021/11/23102/0000200554.pdf?utm_source=openai
+- https://portalautarquico.dgal.gov.pt/pt-PT/entidades-locais/freguesias/mafamude--vila-nova-de-gaia-/
