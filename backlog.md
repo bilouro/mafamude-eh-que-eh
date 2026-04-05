@@ -62,7 +62,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 ## Festas e Tradições → [festas_tradicoes.md](festas_tradicoes.md)
 
-- [ ] Como se celebra ou celebrava a Festa de São Cristóvão (padroeiro) em Mafamude — história e rituais?
+- [x] Como se celebra ou celebrava a Festa de São Cristóvão (padroeiro) em Mafamude — história e rituais?
 - [ ] Como era o São João em Mafamude — tradições específicas, arraiais, fogueiras, costumes locais?
 - [ ] Que romarias, procissões ou festas religiosas marcavam o calendário de Mafamude?
 - [ ] Que tradições populares (cantigas, jogos, costumes sazonais) existiam em Mafamude?
