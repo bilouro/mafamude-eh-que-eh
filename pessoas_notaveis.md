@@ -14,3 +14,12 @@ Com segurança documental, o nome que posso apontar é o do escultor António Te
 **Pontos não confirmados:** Uma lista mais extensa de personalidades especificamente de Mafamude.; A atribuição da freguesia de Mafamude a figuras biografadas apenas como naturais ou residentes em Vila Nova de Gaia.  
 
 ---
+## Que figuras políticas ou religiosas estão historicamente associadas a Mafamude?
+
+Com base em fontes institucionais seguras, as figuras historicamente mais claramente associadas a Mafamude são sobretudo religiosas: São Cristóvão, por ser o orago da antiga freguesia, e Santo Ovídio, devido ao culto local e ao topónimo/templo de Santo Ovídio em Mafamude. Quanto a figuras políticas, não posso confirmar com confiança, a partir das fontes aqui usadas, nomes específicos com ligação histórica inequívoca e própria a Mafamude.
+
+**Confiança:** Medium  
+**Fontes:** Igreja Paroquial de Mafamude / Igreja de São Cristóvão; Paróquia de São Cristóvão de Mafamude; Capela/Igreja de Santo Ovídio; Toponímia e património local de Santo Ovídio  
+**Pontos não confirmados:** Uma lista segura de figuras políticas especificamente ligadas a Mafamude.; A caracterização detalhada da origem e cronologia inicial do culto de Santo Ovídio em Mafamude.  
+
+---
