@@ -47,3 +47,12 @@ Com segurança, posso dizer que o Concurso das Marchas de São João de Vila Nov
 **Pontos não confirmados:** Lista exata dos critérios de avaliação em vigor; Ponderação ou pontuação de cada critério; Regras técnicas detalhadas de participação na edição atual; Existência de alterações recentes ao formato do concurso  
 
 ---
+## Como se compara o concurso de Gaia com as Marchas de Santo António de Lisboa em termos de formato e tradição?
+
+Assumindo que o "concurso de Gaia" é o concurso de marchas populares de Vila Nova de Gaia, a comparação mais segura é esta: no formato, Gaia aproxima-se das Marchas de Lisboa porque também assenta em grupos organizados, apresentação pública, figurinos, coreografia e apreciação competitiva. A diferença principal está na escala e na tradição. Em Lisboa, as Marchas de Santo António são uma tradição urbana muito mais antiga, fortemente institucionalizada, ligada aos bairros históricos e central nas Festas da cidade. Em Gaia, o que consigo confirmar com segurança é sobretudo um concurso ou festival local de marchas populares, de âmbito mais local e com menor peso histórico-documental público. Portanto, Gaia parece adotar o modelo das marchas populares; Lisboa representa a tradição mais consolidada, codificada e simbolicamente central.
+
+**Confiança:** Medium  
+**Fontes:** Marchas Populares de Lisboa; Marchas Populares de Lisboa; Um Lugar na Cidade: Quotidiano, Memória e Representação no Bairro da Bica; Agenda cultural municipal: Marchas Populares de Vila Nova de Gaia  
+**Pontos não confirmados:** A designação exata do evento de Gaia a que a pergunta se refere.; A data de origem e a continuidade histórica do concurso de Gaia.; Qualquer equivalência forte entre a antiguidade de Gaia e a de Lisboa.  
+
+---
