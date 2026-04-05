@@ -1109,7 +1109,7 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente de 
 Diferenciação face a marchas já feitas: Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas porque não depende apenas do santo, não vive do arraial genérico, não transforma património em visita guiada e não cai em exaltação abstracta do bairro. O que oferece de distintivo é um emblema muito concreto e pouco banal dentro de Mafamude: o Cedro como sinal toponímico e afectivo convertido em grande imagem de marcha. Isso dá ao compositor, ao figurinista e ao encenador um eixo novo, identitário, visual e muito utilizável.
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer dos sinais de Mafamude com maior rendimento de rua, de coro e de imagem. A leitura pública do género confirma que a marcha ganha força quando parte de um tema muito legível, com identidade local clara e tradução imediata em letra, figurino, cenografia e coreografia. Em Mafamude, o peso público de Santo Ovídio, a presença das colectividades nas festas, a utilização do Largo Estevão Torres para momentos de folclore e a própria ressonância autárquica da expressão Feira Antiga nesse largo abrem um caminho novo e popular para o conceito. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
 
