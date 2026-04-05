@@ -16,10 +16,6 @@
 | 8 | [Mafamude Levanta Estandartes](marchas/marcha08.md) | Mafamude sobe à rua de estandarte erguido, juntando fé, folclore, grupos e memór |
 | 9 | [Mafamude, Janela em Janela](marchas/marcha09.md) | Mafamude acende-se de dentro para fora: a noite começa nas casas, passa pelas ja |
 | 10 | [Mafamude Tem Chão](marchas/marcha10.md) | Mafamude é cantada como terra de base funda e passo firme, onde memória, rua, fé |
-| 10 | [Mafamude Tem Chão](marchas/marcha10.md) | Mafamude surge como freguesia de base funda e passo firme: um chão vivo onde mem |
 | 11 | [Mafamude, Cedro ao Alto](marchas/marcha11.md) | Mafamude é cantada como um cedro popular de porte alto, extraído da toponímia re |
-| 11 | [Mafamude, Cedro ao Alto](marchas/marcha11.md) | Mafamude surge como um cedro popular: firme nas raízes, largo na memória e vivo  |
 | 12 | [Mafamude Dá Pregão](marchas/marcha12.md) | Mafamude surge como praça viva onde a identidade local se anuncia em pregão, se  |
-| 12 | [Mafamude Dá Pregão](marchas/marcha12.md) | Mafamude transforma-se numa praça viva onde memória, devoção, cultura e povo ent |
 | 13 | [Mafamude Dá Fruto](marchas/marcha13.md) | Mafamude é cantada como terra de continuidade fecunda: das antigas quintas e do  |
-| 13 | [Mafamude Dá Fruto](marchas/marcha13.md) | Mafamude é cantada como terra de continuidade fecunda: da antiga matriz de quint |
