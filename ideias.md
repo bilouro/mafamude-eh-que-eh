@@ -504,7 +504,7 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta proposta protege-se bem contra fórmulas saturadas porque não depende do arraial genérico, não vive apenas do santo, não se limita a exaltação vaga do bairro e não transforma património em discurso turístico. O eixo do retrato vivo dá singularidade, permite uma forte assinatura visual e mantém Mafamude no centro absoluto do conceito.
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a melhor matéria-prima não está numa imagem decorativa nem numa festa genérica de rua. O eixo mais fértil é Mafamude como lugar de encontro e confluência: São Cristóvão como raiz paroquial viva, Santo Ovídio como núcleo público muito reconhecível, Laborim como nome interno forte da freguesia e Monte da Virgem como ponto de referência identificável dentro do imaginário local. A partir daqui, a proposta pode dizer Mafamude sem a transformar em mapa nem em aula de história. ([mafamude.porto.ecclesia.pt](https://mafamude.porto.ecclesia.pt/?utm_source=openai))
 
