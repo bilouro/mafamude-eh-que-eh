@@ -14,3 +14,12 @@ Com segurança, posso dizer apenas isto: em Mafamude, a Festa de São Cristóvã
 **Pontos não confirmados:** Sequência ritual exata da festa em Mafamude.; Antiguidade comprovada de procissão, novena ou arraial.; Existência documentada de bênção de automóveis, motoristas ou viajantes em Mafamude.; Data local da festa em todos os períodos históricos.  
 
 ---
+## Como era o São João em Mafamude — tradições específicas, arraiais, fogueiras, costumes locais?
+
+Com prudência histórica, eu não afirmaria hoje um repertório de tradições especificamente mafamudenses do São João sem documentação local direta. O que está bem sustentado é o enquadramento regional: em Mafamude, como no conjunto de Gaia e do Porto, o São João terá sido vivido sobretudo em moldes populares de vizinhança e de rua, com arraiais, convívio noturno e, muito provavelmente, fogueiras e outros costumes joaninos correntes. Mas os pontos estritamente locais — quais os sítios, que grupos organizavam a festa, se havia práticas próprias da freguesia — não ficam confirmados com segurança nas fontes aqui citadas. Em suma: o mais seguro é falar de participação de Mafamude no São João portuense/gaiense, e não de um modelo mafamudense singular já bem documentado.
+
+**Confiança:** Medium  
+**Fontes:** Festas Cíclicas em Portugal; Etnografia Portuguesa; São João do Porto  
+**Pontos não confirmados:** Arraiais identificáveis por nome ou lugar dentro de Mafamude; Existência de fogueira pública regular em Mafamude; Costumes exclusivos ou distintivos da freguesia  
+
+---
