@@ -49,3 +49,12 @@ A ligação historicamente mais segura de Soares dos Reis a Mafamude e a Vila No
 **Pontos não confirmados:** Residência estável de Soares dos Reis em Mafamude.; Existência de atelier próprio de Soares dos Reis em Mafamude sem documentação adicional.  
 
 ---
+## Que figuras locais do séc. XX marcaram a vida social, cultural ou económica de Mafamude?
+
+Com base em fontes que permitem confirmação relativamente segura, as figuras mais bem documentadas para Mafamude no século XX são sobretudo do campo cultural. Destaca-se, em primeiro lugar, António Teixeira Lopes, cuja casa-ateliê em Mafamude se tornou um polo cultural duradouro de Vila Nova de Gaia. Em segundo lugar, Diogo de Macedo, ligado ao mesmo núcleo museológico e à vida artística gaienses, é também uma figura relevante para a memória cultural local. Para a vida social e económica de Mafamude, não consegui confirmar com igual segurança documental uma lista curta de personalidades especificamente mafamudenses; nessa matéria, as fontes fortes disponíveis são mais escassas ou referem Gaia em geral, e não Mafamude em sentido estrito.
+
+**Confiança:** Medium  
+**Fontes:** Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo; Casa-atelier Teixeira Lopes / Casa-Museu Teixeira Lopes; António Teixeira Lopes; Diogo de Macedo  
+**Pontos não confirmados:** Permanece por confirmar, com base documental forte e independente, uma seleção segura de figuras sociais e económicas especificamente de Mafamude para todo o século XX.; A eventual inclusão de outros nomes dependeria de um critério mais estreito, por exemplo paroquial, associativo, empresarial ou político.  
+
+---
