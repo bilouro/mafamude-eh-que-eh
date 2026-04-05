@@ -905,3 +905,118 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se com clareza da
 
 Diferenciação face a marchas já feitas: Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas gastas porque não depende apenas do arraial genérico, não vive só do santo, não transforma património em visita guiada e não se limita ao elogio abstracto do bairro. O que oferece de próprio é uma imagem forte, nocturna e muito marchável: Mafamude a acender-se janela em janela até ficar inteira na rua.
 ```
+
+- [ ]
+```text
+Leitura da direcção inicial: Como o campo inicial vem vazio, a nova proposta deve nascer do material de Mafamude com mais peso identitário e melhor rendimento de desfile. A leitura do género ajuda a afinar a escolha: em Gaia, a edição de 2025 trabalhou um tema comum com subtemas por marcha, e em Lisboa o tema da Grande Marcha serve de inspiração a coreografias e figurinos, num universo em que letra, música, coreografia, cenografia e figurino pesam de forma decisiva. Isso favorece conceitos com imagem central simples, física, visual e imediatamente cantável. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
+
+Oportunidades criativas identificadas:
+- usar Mafamude como terra de chão próprio, firme e reconhecível, em vez de mais uma freguesia apenas “em festa”
+- transformar a evolução de Mafamude, de antiga matriz paroquial e periurbana para freguesia urbana e central, numa imagem popular de chão vivido e não numa cronologia seca
+- aproveitar a força de São Cristóvão, Santo Ovídio e da Casa-Museu Teixeira Lopes como marcos assentes em Mafamude, sem cair em inventário patrimonial ([mafamude.porto.ecclesia.pt](https://mafamude.porto.ecclesia.pt/?utm_source=openai))
+- criar um refrão muito forte a partir de uma expressão curta e física: pertença, firmeza, passo, raiz, rua
+- dar ao desfile uma gramática visual muito fértil: terra, pedra, calçada, passo, marca, rasto, raiz, frente, bairro
+- construir um orgulho local que não flutua em abstracção: Mafamude marcha porque tem chão
+
+Riscos de repetição a evitar:
+- não repetir a marcha genérica de arraial e rua sem eixo próprio
+- não regressar ao universo já explorado da oficina, escultura, barro, cinzel e obra colectiva
+- não repetir a dramaturgia do adro que se abre em avenida
+- não voltar ao topónimo como motor principal da ideia
+- não cair em jardim, retrato, encontro, compasso, estandarte ou janela, porque esses campos já foram trabalhados
+- não transformar “chão” em assunto pesado, triste ou excessivamente solene
+- não fazer uma marcha sobre pavimento, obras ou urbanismo literal; o chão é símbolo de pertença, memória e firmeza popular
+
+Título provisório:
+Mafamude Tem Chão
+
+titulo_provisorio: Mafamude Tem Chão
+
+Conceito central:
+Mafamude é apresentada como freguesia de base funda e passo firme. O seu chão guardou memória, mudança, casas, fé, cultura e bairro; na noite de São João, esse mesmo chão não fica por baixo e calado, sobe ao passo do povo e transforma-se em marcha.
+
+conceito_central: Mafamude como terra de chão vivo, onde a memória local sustenta o passo colectivo e dá à freguesia uma força popular muito própria.
+
+Ângulo criativo:
+Em vez de mostrar Mafamude por um objecto, por um postal ou por uma simples exaltação da festa, a proposta mostra-a pelo que a sustenta. O foco não está no que paira por cima; está naquilo que aguenta gerações, mudanças e pertenças. Mafamude surge como lugar onde cada passo assenta em história vivida, em bairro real e em orgulho de freguesia.
+
+angulo_criativo: usar a ideia de chão como base física e emocional de Mafamude, ligando raiz antiga, transformação urbana e brio popular numa só imagem marchável.
+
+Imagem mestra:
+No início, o chão de Mafamude aparece quase silencioso: terra antiga, pedra, rua, marcas de passagem. À medida que a marcha cresce, esse chão parece acordar debaixo dos pés. O que era base torna-se força. O que era memória torna-se impulso. No refrão, Mafamude inteira parece levantar-se do próprio chão e avançar com ele no corpo.
+
+imagem_mestra: o chão de Mafamude a ganhar cor, passo e voz até se transformar numa grande frente popular de firmeza e orgulho.
+
+Palavras-chave:
+- Mafamude
+- chão
+- passo
+- raiz
+- pedra
+- rua
+- firmeza
+- bairro
+- memória
+- rasto
+- povo
+- brio
+
+palavras_chave: [Mafamude, chão, passo, raiz, pedra, rua, firmeza, bairro, memória, rasto, povo, brio]
+
+Premissa:
+A letra e a encenação devem defender que Mafamude não é uma festa pousada num lugar indiferente. É uma freguesia com chão próprio. Um chão onde assentam a continuidade comunitária de São Cristóvão, a visibilidade popular de Santo Ovídio, a memória cultural da Casa-Museu Teixeira Lopes e a transformação de um território antigo numa malha urbana viva. A marcha deve fazer sentir que, quando Mafamude sai, não sai sem base: traz o seu chão consigo. ([mafamude.porto.ecclesia.pt](https://mafamude.porto.ecclesia.pt/?utm_source=openai))
+
+Porque funciona como marcha:
+Funciona porque tem uma frase-base muito simples e muito forte. “Mafamude tem chão” soa a identidade, coragem e pertença. É popular, decorável e abre espaço para um refrão colectivo imediato. Além disso, permite um arco claro: da base ao levantamento, do contido ao explosivo, do chão ao corpo inteiro da freguesia. Cenicamente, dá unidade visual; musicalmente, dá sílabas fortes; dramaturgicamente, dá progressão. E diferencia-se bem das fórmulas mais gastas de santo, postal, arraial ou elogio vago ao bairro.
+
+Arco dramático sugerido:
+- Início: Mafamude aparece assente, funda, quase dita pela base e não pelo brilho.
+- Desenvolvimento: surgem as marcas desse chão: memória, bairro, casas, fé, cultura, transformação.
+- Viragem: o chão deixa de ser apenas suporte e passa a empurrar a marcha para a frente.
+- Explosão de refrão: Mafamude afirma-se de passo firme, como terra que sabe onde pisa.
+- Fecho: a freguesia termina unida, levantada e inteira, como se o seu chão se tivesse tornado voz colectiva.
+
+Elementos de Mafamude a integrar:
+- São Cristóvão de Mafamude, como raiz comunitária e institucional viva da freguesia. ([mafamude.porto.ecclesia.pt](https://mafamude.porto.ecclesia.pt/?utm_source=openai))
+- Santo Ovídio, como foco público e festivo reconhecível em Mafamude, útil para trazer o conceito à rua e ao presente. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2022/08/25/festas-em-honra-de-santo-ovidio/?utm_source=openai))
+- Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo, não para regressar ao tema da escultura, mas como prova de casa, memória cultural e permanência no território. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/museus/?utm_source=openai))
+- transformação histórica de Mafamude de espaço antigo para freguesia urbana e central, tratada como firmeza e continuidade, nunca como lição histórica
+- ecos de antigos lugares, quintas, ruas e zonas internas, se ajudarem a colorir a letra, mas sem a transformar em mapa
+- sentimento de pertença local acima de enumerações
+
+Ganchos de refrão sugeridos:
+ganchos_de_refrao_sugeridos:
+- gancho_curto: Mafamude tem chão
+  intencao: criar uma frase-identidade muito forte, popular e imediatamente memorizável
+  observacao: deve ser o eixo principal do refrão, com apoio coral logo na primeira audição
+- gancho_curto: Chão firme, Mafamude
+  intencao: reforçar brio, segurança e passo colectivo
+  observacao: excelente como resposta do coro ou segunda linha de refrão
+- gancho_curto: No teu chão vai a marcha
+  intencao: ligar directamente território e desfile
+  observacao: bom para ponte ou arranque de refrão, com desenho melódico ascendente
+- gancho_curto: Do teu chão nasce o brio
+  intencao: unir base, orgulho e energia popular
+  observacao: usar como linha complementar, não necessariamente como slogan principal
+
+Orientações para o compositor:
+orientacoes_para_o_compositor:
+- o_que_a_letra_deve_valorizar: pertença, firmeza, raiz local, bairro vivo, transformação sustentada, orgulho mafamudense e sensação física de passo bem assente
+- equilibrio_entre_historia_e_festa: a história deve entrar apenas como profundidade do chão; a festa tem de mandar no andamento, na cor e na comunicação imediata
+- tipo_de_refrao_desejado: refrão muito coral, de frase curta, com o nome Mafamude em posição forte e com sensação de avanço confiante
+- estrutura_recomendada_da_marcha: abertura mais assente e marcada; estrofe de enraizamento; segunda estrofe de crescimento e levantamento; ponte curta de preparação; refrão explosivo; fecho com reafirmação do slogan principal
+- observacoes_de_cantabilidade: privilegiar palavras curtas e concretas como chão, passo, rua, pedra, raiz, brio, povo; evitar versos longos; Mafamude deve cair em apoio melódico firme e orgulhoso
+- o_que_evitar_na_letra: tecnicismo urbanístico, nostalgia rural em excesso, linguagem pesada de fundação ou solo, enumeração de património, tom museológico, clichés de arraial e qualquer formulação que pudesse servir outra freguesia sem grande alteração
+
+Potencial cénico:
+potencial_cenico:
+- cores_ou_ambientes_sugeridos: terracota, pedra clara, marfim, azul-noite, vermelho popular e dourado quente para a explosão final
+- imagens_de_desfile: chão que “acorda” sob o passo; frentes inicialmente mais baixas e assentes que depois se levantam; desenho coreográfico com marcas, trilhos, rastos ou linhas de avanço
+- elementos_visuais_opcionais: padrões gráficos inspirados em terra, pedra e calçada sem literalismo excessivo; adereços que sugiram base, raiz e firmeza; transição visual do mate para o luminoso; saias, coletes ou painéis com linguagem de estrato, rasto ou marca de passo
+
+Diferenciação face a ideias anteriores:
+Esta proposta afasta-se claramente das ideias já trabalhadas. Não faz de Mafamude uma oficina, nem uma obra, nem um nome que chama, nem um jardim escondido, nem um retrato que ganha cor, nem um ponto de encontro, nem um compasso, nem um estandarte, nem uma cadeia de janelas acesas. O seu centro é outro: base e pertença. A dramaturgia não nasce da abertura, da convocação, da revelação ou do acendimento; nasce da firmeza. Mafamude não aparece aqui como imagem solta. Aparece como terra onde se pisa com orgulho.
+
+Diferenciação face a marchas já feitas:
+Como não foram fornecidas marchas_ja_feitas, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas porque não depende apenas do santo, não vive do arraial genérico, não transforma património em visita guiada e não cai na simples exaltação abstracta do bairro. O que oferece de distintivo é uma frase-base muito própria e muito marchável: Mafamude tem chão. Isso dá ao compositor, ao figurinista e ao encenador um eixo claro, popular, visual e identitário.
+```
