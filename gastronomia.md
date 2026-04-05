@@ -23,3 +23,11 @@ Com o grau de cautela exigido por fontes seguras, não consigo confirmar a exist
 **Pontos não confirmados:** A eventual existência de especialidades locais hoje esquecidas ou apenas preservadas na memória oral.; A fama histórica de alguma padaria ou pastelaria concreta de Mafamude sem documentação independente robusta.  
 
 ---
+## Que tascas, cafés, tabernas ou restaurantes históricos existiram ou existem em Mafamude?
+
+Não posso, com segurança histórica, listar nesta resposta nomes concretos de tascas, cafés, tabernas ou restaurantes históricos de Mafamude. Para o fazer com rigor seria necessária verificação em fontes próprias deste tipo de matéria, como anuários comerciais, licenças municipais, imprensa local e diretórios de época. Sem essa confirmação, qualquer lista seria especulativa.
+
+**Confiança:** Low  
+**Pontos não confirmados:** Nomes específicos de estabelecimentos históricos de Mafamude.; Datas de abertura, encerramento ou continuidade de casas antigas.; Quais desses estabelecimentos ainda existem atualmente.  
+
+---
