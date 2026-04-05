@@ -22,3 +22,4 @@
 | 12 | [Mafamude Dá Pregão](marchas/marcha12.md) | Mafamude surge como praça viva onde a identidade local se anuncia em pregão, se  |
 | 12 | [Mafamude Dá Pregão](marchas/marcha12.md) | Mafamude transforma-se numa praça viva onde memória, devoção, cultura e povo ent |
 | 13 | [Mafamude Dá Fruto](marchas/marcha13.md) | Mafamude é cantada como terra de continuidade fecunda: das antigas quintas e do  |
+| 13 | [Mafamude Dá Fruto](marchas/marcha13.md) | Mafamude é cantada como terra de continuidade fecunda: da antiga matriz de quint |
