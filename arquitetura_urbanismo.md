@@ -41,3 +41,12 @@ Com prudência histórica, as zonas de Mafamude com identidade própria mais def
 **Pontos não confirmados:** Uma lista fechada e historicamente consensual de todos os bairros ou zonas internas de Mafamude.; A classificação de Laborim e de Monte da Virgem como bairros históricos antigos em sentido estrito.  
 
 ---
+## Como se manifesta a tensão entre o rural e o urbano na arquitectura e urbanismo de Mafamude?
+
+A forma historicamente mais segura de responder é esta: em Mafamude, a tensão entre o rural e o urbano manifesta-se pela sobreposição de uma antiga base paroquial e agrária com uma urbanização posterior muito intensa. Na arquitectura, isso vê-se na coexistência de remanescentes de quintas, muros, igreja paroquial e edifícios de pequena escala com habitação coletiva, comércio e equipamentos de linguagem claramente urbana. No urbanismo, a tensão não aparece como uma fronteira nítida, mas como a incorporação de vestígios da paisagem rural dentro de uma malha hoje predominantemente urbana e metropolitana. Portanto, Mafamude não deve ser descrita como ainda rural; deve antes ser entendida como um espaço urbano consolidado que conserva fragmentos materiais da sua matriz rural anterior.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758: São Cristóvão de Mafamude, Vila Nova de Gaia; Plano Diretor Municipal de Vila Nova de Gaia; Censos 2011: Resultados definitivos por freguesia; Carta de Uso e Ocupação do Solo de Portugal Continental (COS); SIPA: Quinta do Cravel; SIPA: Igreja Paroquial de Mafamude / Igreja de São Cristóvão  
+**Pontos não confirmados:** A datação exacta de muitos edifícios de baixa escala e de alguns vestígios morfológicos locais não pode ser confirmada com segurança sem estudo de detalhe.; A importância relativa de cada fase de transformação urbana dentro de Mafamude permanece variável e não deve ser simplificada em excesso.  
+
+---

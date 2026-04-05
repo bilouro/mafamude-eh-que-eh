@@ -107,7 +107,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que casas típicas, villas, quintas ou solares são representativos da arquitectura de Mafamude?
 - [x] Como se transformou o tecido urbano de Mafamude ao longo do séc. XX — bairros, demolições, expansão?
 - [x] Que bairros históricos ou zonas com identidade própria existem dentro de Mafamude?
-- [ ] Como se manifesta a tensão entre o rural e o urbano na arquitectura e urbanismo de Mafamude?
+- [x] Como se manifesta a tensão entre o rural e o urbano na arquitectura e urbanismo de Mafamude?
 
 ---
 
