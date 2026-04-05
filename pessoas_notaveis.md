@@ -23,3 +23,12 @@ Com base em fontes institucionais seguras, as figuras historicamente mais claram
 **Pontos não confirmados:** Uma lista segura de figuras políticas especificamente ligadas a Mafamude.; A caracterização detalhada da origem e cronologia inicial do culto de Santo Ovídio em Mafamude.  
 
 ---
+## Que desportistas notáveis são naturais ou estão associados a Mafamude?
+
+Com segurança documental, o nome individual que posso apontar é Rui Jorge, antigo internacional de futebol, associado a Mafamude por ter iniciado o percurso no Clube de Futebol de Mafamude. Além disso, Mafamude tem uma associação desportiva relevante ao andebol feminino de alto nível através do Colégio de Gaia, sediado em Mafamude, por onde passaram várias atletas de projeção. Já uma lista mais ampla de naturais de Mafamude não deve ser dada sem verificação adicional, porque muitas fontes indicam apenas Vila Nova de Gaia e não a freguesia específica.
+
+**Confiança:** Medium  
+**Fontes:** Perfil de Rui Jorge; Ficha do Clube de Futebol de Mafamude; Colégio de Gaia; Competition records for Colégio de Gaia  
+**Pontos não confirmados:** Não confirmo aqui, com a mesma segurança, outros nomes individuais além de Rui Jorge.; Não confirmo uma lista fechada de desportistas naturais de Mafamude com base apenas nas fontes consultadas nesta resposta.  
+
+---

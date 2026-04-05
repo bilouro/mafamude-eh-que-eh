@@ -31,7 +31,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 - [x] Que artistas, escritores ou intelectuais nasceram ou viveram em Mafamude?
 - [x] Que figuras políticas ou religiosas estão historicamente associadas a Mafamude?
-- [ ] Que desportistas notáveis são naturais ou estão associados a Mafamude?
+- [x] Que desportistas notáveis são naturais ou estão associados a Mafamude?
 - [ ] Que personalidades populares, folclóricas ou lendárias fazem parte da memória colectiva de Mafamude?
 - [ ] Qual a ligação de Soares dos Reis a Mafamude e a Vila Nova de Gaia?
 - [ ] Que figuras locais do séc. XX marcaram a vida social, cultural ou económica de Mafamude?
