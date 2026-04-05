@@ -14,3 +14,12 @@ No contexto de Vila Nova de Gaia, Mafamude teve grande peso sobretudo como área
 **Pontos não confirmados:** A expressão exata da sua "posição" depende do critério adotado: geográfico, administrativo, demográfico ou funcional.; O peso estatístico atual de Mafamude isoladamente não é sempre disponibilizado de forma autónoma nas séries correntes, devido à união administrativa com Vilar do Paraíso.  
 
 ---
+## Que relação histórica e administrativa existe entre Mafamude e a Câmara Municipal de Gaia?
+
+A relação histórica e administrativa entre Mafamude e a Câmara Municipal de Gaia é, fundamentalmente, uma relação de pertença municipal. Mafamude aparece nas fontes modernas e contemporâneas como freguesia do concelho de Vila Nova de Gaia; por isso, a Câmara Municipal de Vila Nova de Gaia é o órgão executivo do município em cujo território Mafamude se insere. Desde 2013, Mafamude deixou de ser freguesia autónoma e passou a integrar a União das Freguesias de Mafamude e Vilar do Paraíso, mas continuou sempre no mesmo concelho. Em termos rigorosos, Mafamude não é uma entidade do mesmo nível da Câmara: a primeira é uma realidade freguesa/local, e a segunda é o órgão executivo municipal. Para uma cronologia mais recuada da integração de Mafamude em Gaia, eu não a confirmaria sem pesquisa arquivística adicional.
+
+**Confiança:** Medium  
+**Fontes:** Lei n.º 11-A/2013; Lei n.º 75/2013; Carta Administrativa Oficial de Portugal; Portugal: Diccionario Historico, Chorographico, Heraldico, Biographico, Bibliographico, Numismatico e Artistico; Portugal Antigo e Moderno  
+**Pontos não confirmados:** A data exata e a evolução detalhada da integração de Mafamude no concelho de Gaia em períodos anteriores à época contemporânea.; Alterações históricas específicas de limites territoriais internos, se existiram, entre Mafamude e freguesias vizinhas.  
+
+---
