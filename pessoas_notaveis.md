@@ -40,3 +40,12 @@ Não posso indicar com segurança nomes de personalidades populares, folclórica
 **Pontos não confirmados:** Nomes concretos de figuras populares locais.; Eventuais personagens lendárias associadas especificamente a Mafamude.; O grau real da sua presença na memória colectiva da freguesia.  
 
 ---
+## Qual a ligação de Soares dos Reis a Mafamude e a Vila Nova de Gaia?
+
+A ligação historicamente mais segura de Soares dos Reis a Mafamude e a Vila Nova de Gaia é sobretudo indireta, mas relevante: Soares dos Reis, escultor portuense, foi mestre e referência decisiva para António Teixeira Lopes, artista estreitamente ligado a Gaia. Em Mafamude, a Casa-Museu Teixeira Lopes é o principal lugar local onde essa filiação artística e essa memória foram preservadas. Assim, Gaia, e particularmente Mafamude, ligam-se a Soares dos Reis sobretudo pela sua influência artística e pela memória museológica, não por uma naturalidade local. Não consigo confirmar com confiança, nas fontes aqui usadas, que Soares dos Reis tenha tido residência permanente em Mafamude.
+
+**Confiança:** Medium  
+**Fontes:** Soares dos Reis; Soares dos Reis; Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo; Casa-Museu Teixeira Lopes / Casa-Atelier do Escultor António Teixeira Lopes  
+**Pontos não confirmados:** Residência estável de Soares dos Reis em Mafamude.; Existência de atelier próprio de Soares dos Reis em Mafamude sem documentação adicional.  
+
+---
