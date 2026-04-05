@@ -14,3 +14,12 @@ A resposta mais segura é que, historicamente, Mafamude foi sobretudo uma fregue
 **Pontos não confirmados:** Falta uma série ocupacional paroquial completa que permita dizer com precisão em que momento os operários ultrapassaram os agricultores.; As percentagens exatas de cada profissão em Mafamude não foram confirmadas com segurança nas fontes aqui usadas.  
 
 ---
+## Que indústrias, fábricas ou armazéns existiram em Mafamude ao longo da história?
+
+A resposta historicamente segura é cautelosa: com as fontes gerais mais fiáveis que posso citar aqui, não consigo confirmar uma lista fechada e verificável de indústrias, fábricas ou armazéns especificamente de Mafamude ao longo de toda a sua história. O que se sustenta melhor é que Mafamude aparece nas fontes antigas sobretudo como freguesia rural/periurbana, e que alguns dos estabelecimentos industriais mais famosos de Gaia que por vezes se confundem com Mafamude pertencem documentalmente a zonas vizinhas, sobretudo Santa Marinha; o exemplo mais claro é a Fábrica de Cerâmica das Devesas, inventariada pela SIPA em Santa Marinha. Portanto, para Mafamude em sentido estrito, eu não afirmaria como certo um elenco de fábricas históricas sem um levantamento próprio em arquivos municipais, licenças industriais, matrizes prediais e anuários comerciais.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758: Mafamude; Portugal Antigo e Moderno, entrada 'Mafamude'; Carta Administrativa Oficial de Portugal; SIPA - Fábrica de Cerâmica das Devesas  
+**Pontos não confirmados:** Nomes e datas de pequenas fábricas, oficinas e armazéns de Mafamude nos séculos XIX e XX.; Inventário cronológico completo das atividades industriais e de armazenagem dentro dos limites históricos da freguesia.; Atribuição paroquial exata de estabelecimentos situados em áreas limítrofes como as Devesas.  
+
+---
