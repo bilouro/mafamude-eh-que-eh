@@ -419,3 +419,87 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das
 
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas porque não depende apenas do santo, não depende apenas do arraial, não depende apenas do património artístico e não depende de exaltação vaga do bairro. O que a distingue é a imagem concreta e mafamudense de uma freguesia que abre os seus jardins interiores e se mostra em povo. Essa base é suficientemente popular para marchar e suficientemente própria para não soar intercambiável com outra freguesia.
 ```
+
+- [ ]
+```text
+Leitura da direcção inicial: Como o campo inicial vem vazio, a nova proposta deve nascer do cruzamento entre o material factual mais fértil de Mafamude e a lógica pública do género. A leitura das marchas em Gaia e Lisboa mostra que os conceitos mais fortes são os que se percebem logo em vários planos ao mesmo tempo — letra, música, figurino, cenografia e coreografia — e que funcionam como afirmação de identidade, pertença e orgulho. Em Gaia, a edição de 2025 trabalhou mesmo um tema comum com subtemas para cada marcha, o que confirma a utilidade de uma imagem central muito clara e facilmente desdobrável. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
+
+Oportunidades criativas identificadas:
+- usar Mafamude como retrato vivo, em vez de apenas bairro em festa ou memória parada
+- transformar arquivo, fotografia, retrato, moldura, cor e revelação numa linguagem popular e marchável
+- cruzar passado e presente sem aula de história: o antigo aparece como imagem, o presente aparece como movimento
+- tirar partido de elementos concretos de Mafamude ligados à memória visual e cultural, mas sem cair no tom de museu
+- criar um refrão onde Mafamude não é só nome cantado: é imagem que ganha cor e se põe a andar
+- oferecer à equipa cénica um arco muito forte: do sépia ao colorido, do parado ao vivo, do retrato à rua
+
+Riscos de repetição a evitar:
+- não repetir o campo da escultura, das mãos, da oficina, do barro, do cinzel e da obra colectiva
+- não repetir a dramaturgia de expansão do adro para a avenida
+- não repetir a ideia do topónimo como mecanismo principal de chamada-resposta
+- não repetir a imagem do jardim, do portão e da floração interior
+- não cair em nostalgia parada, postal antigo ou passeio guiado por património
+- não usar linguagem técnica de fotografia em excesso, para não afastar o tom popular
+- não transformar Mafamude numa ideia genérica de memória que serviria qualquer freguesia
+
+Título provisório:
+titulo_provisorio: Mafamude, Retrato Vivo
+
+Conceito central:
+conceito_central: Mafamude surge como um retrato que nunca ficou fechado na moldura. Guardou memória, mudou de rosto ao longo do tempo e, na noite de São João, revela-se inteira em movimento, cor, passo e voz.
+
+Ângulo criativo:
+angulo_criativo: Em vez de celebrar Mafamude apenas como terra antiga ou apenas como freguesia urbana, a proposta apresenta-a como imagem viva que atravessa gerações. Não é a fotografia velha a ser admirada; é Mafamude a sair do retrato e a desfilar, provando que a sua memória ainda mexe.
+
+Imagem mestra:
+imagem_mestra: Um retrato antigo de Mafamude, primeiro quase em sépia e quieto, começa a ganhar luz, cor e corpo. As ruas, os lugares e as pessoas saem da moldura, entram na noite popular e transformam-se numa marcha viva.
+
+Palavras-chave:
+palavras_chave: [Mafamude, retrato, revelação, moldura, cor, memória, rua, rosto, luz, passo, bairro, orgulho]
+
+Premissa: A marcha deve defender que Mafamude tem muitas camadas de tempo, muitos rostos e muitos sinais de pertença, mas nenhum deles ficou preso ao passado. A sua memória não está fechada em gaveta, vitrina ou fotografia antiga: reaparece em cada lugar reconhecível, em cada encontro comunitário e no orgulho com que a freguesia se mostra. O retrato final não é de uma casa, de um santo ou de um edifício isolado; é de Mafamude inteira, em povo.
+
+Porque funciona como marcha: Funciona porque dá uma metáfora muito clara, muito visual e imediatamente traduzível em música e desfile. O contraste entre retrato parado e retrato vivo cria um arco forte; a passagem do sépia para a cor ajuda figurino e cenografia; a ideia de revelação ajuda a construção musical; e o nome Mafamude pode cair num refrão afirmativo sem precisar de ser o único motor do tema. Além disso, evita a banalidade do arraial genérico e mantém-se num território muito identitário e cénico.
+
+Arco dramático sugerido:
+- Início: Mafamude aparece recolhida, como memória antiga ainda dentro da moldura.
+- Desenvolvimento: começam a reconhecer-se sinais, rostos, ruas, lugares e pulsação comunitária.
+- Viragem: a imagem mexe; o que era retrato torna-se presença viva.
+- Explosão de refrão: Mafamude revela-se inteira, com cor, voz e orgulho.
+- Fecho: todos os fragmentos se juntam num grande retrato colectivo, agora já completamente em marcha.
+
+Elementos de Mafamude a integrar: Entre os elementos mais férteis para sustentar esta ideia estão a Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo em Mafamude, o Arquivo Municipal Sophia de Mello Breyner também identificado em Mafamude, a visibilidade pública das festas de Santo Ovídio e a presença do folclore local integrado nesse ambiente festivo. A estes podem somar-se, com medida, São Cristóvão como raiz paroquial, e nomes internos como Laborim ou Monte da Virgem como diferentes rostos da mesma Mafamude. Tudo isto serve para dar espessura ao conceito de retrato vivo, sem inventário excessivo e sem transformar pontos não confirmados em factos. ([cm-gaia.pt](https://www.cm-gaia.pt/fotos/editor2/turismo/brochuras_desdobraveis/192510_folhetosturisticos_cmgaia2019_pt_v5_2020_jan_28_153901_r.pdf))
+
+Ganchos de refrão sugeridos:
+ganchos_de_refrao_sugeridos:
+- gancho_curto: Mafamude, retrato vivo
+  intencao: fixar a frase-identidade principal, simples, nobre e muito memorizável
+  observacao: bom para refrão aberto, com subida melódica clara na palavra vivo
+- gancho_curto: Revela-se, Mafamude
+  intencao: dar verbo de acção ao tema e sensação de aparecimento festivo
+  observacao: ideal como arranque de refrão ou ponte antes da explosão principal
+- gancho_curto: Ganhou cor Mafamude
+  intencao: traduzir musicalmente a passagem da memória para a festa
+  observacao: forte como segunda linha ou resposta do coro
+- gancho_curto: Quem te vê não te esquece
+  intencao: sublinhar impacto emocional e orgulho local
+  observacao: usar como frase complementar, não necessariamente como slogan central
+
+Orientações para o compositor:
+orientacoes_para_o_compositor:
+- o_que_a_letra_deve_valorizar: a ideia de memória que regressa em vida, os vários rostos de Mafamude, o encontro entre lugares antigos e bairro presente, a cor popular e o orgulho colectivo
+- equilibrio_entre_historia_e_festa: a história deve entrar apenas como fundo imagético; a festa tem de mandar no andamento, no brilho e na energia coral
+- tipo_de_refrao_desejado: refrão muito visual e afirmativo, com Mafamude em posição de ataque forte e uma frase-síntese fácil de decorar à primeira audição
+- estrutura_recomendada_da_marcha: primeira estrofe mais desenhada e contida; segunda estrofe já com sinais de movimento; ponte curta de revelação; refrão amplo e repetível; fecho com reforço do retrato colectivo
+- observacoes_de_cantabilidade: privilegiar palavras concretas e abertas como cor, luz, rua, rosto, vivo, passo; evitar versos longos; colocar Mafamude em acento musical seguro; deixar espaço para respostas do coro
+- o_que_evitar_na_letra: linguagem de catálogo, excesso de nomes próprios, nostalgia lamurienta, tecnicismo fotográfico, enumeração seca de património, tom de visita guiada e qualquer formulação que pudesse servir outra freguesia sem alteração
+
+Potencial cénico:
+potencial_cenico:
+- cores_ou_ambientes_sugeridos: abertura em sépia, marfim e dourado envelhecido; evolução para vermelho popular, azul-noite, cobre, branco-luz e apontamentos vivos de festa
+- imagens_de_desfile: molduras que se abrem, poses que ganham movimento, grupos inicialmente mais estáticos que depois se soltam, frente final como grande retrato colectivo em marcha
+- elementos_visuais_opcionais: leques ou painéis em forma de moldura, jogos de flash e revelação, papelaria gráfica inspirada em fotografias antigas, adereços que evoquem álbum e retrato sem excesso literal, transição visual do preto-e-branco para a cor
+
+Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das ideias já trabalhadas. Não usa Mafamude como oficina ou escultura viva; não usa a expansão do adro para a avenida; não faz do nome o principal dispositivo sonoro; e não trabalha o jardim escondido que se abre. Aqui, o campo simbólico é outro: imagem, retrato, revelação, cor e memória em movimento. O resultado é um tema novo para letra, refrão, figurino e coreografia.
+
+Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta proposta protege-se bem contra fórmulas saturadas porque não depende do arraial genérico, não vive apenas do santo, não se limita a exaltação vaga do bairro e não transforma património em discurso turístico. O eixo do retrato vivo dá singularidade, permite uma forte assinatura visual e mantém Mafamude no centro absoluto do conceito.
+```
