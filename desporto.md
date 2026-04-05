@@ -23,3 +23,12 @@ Com o grau de prova exigido, não consigo confirmar com segurança uma lista de 
 **Pontos não confirmados:** Ligação residencial, escolar ou clubística de desportistas de Gaia a Mafamude.; Existência de outros desportistas notáveis explicitamente identificados em fontes sólidas como naturais de Mafamude.  
 
 ---
+## Que instalações desportivas históricas existiram ou existem em Mafamude?
+
+Com segurança documental, consigo apontar sobretudo duas realidades em Mafamude: o Pavilhão Municipal de Gaia, como equipamento desportivo coberto de uso municipal, e os espaços/equipamentos de prática desportiva integrados no Parque da Lavandeira. Fora destes casos, não tenho confirmação suficiente para listar com a mesma segurança campos de clubes ou outros recintos desportivos mais antigos especificamente situados em Mafamude. Assim, o que está melhor documentado é um património desportivo sobretudo contemporâneo e de enquadramento municipal.
+
+**Confiança:** Medium  
+**Fontes:** Atlas Desportivo Nacional; Carta Administrativa Oficial de Portugal; Plano Diretor Municipal de Vila Nova de Gaia: Carta de Equipamentos Desportivos; Parque da Lavandeira; Pavilhão Municipal de Gaia  
+**Pontos não confirmados:** Datas exatas de inauguração e eventuais fases construtivas das instalações referidas.; Existência, localização precisa e cronologia de campos de jogos ou recintos desportivos mais antigos hoje desaparecidos dentro dos limites de Mafamude.  
+
+---
