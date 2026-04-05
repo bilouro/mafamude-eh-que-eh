@@ -40,3 +40,11 @@ Com segurança, posso dizer que em Mafamude existiu e existe um tecido associati
 **Pontos não confirmados:** Lista exaustiva de movimentos de moradores em Mafamude.; Nomes, datas de fundação e cronologia de atuação de eventuais associações de bairro específicas.; Peso histórico relativo de cada coletividade na mobilização cívica local.  
 
 ---
+## Que colectividades de Mafamude participam ou participaram nas marchas de São João?
+
+Com o grau de rigor exigido, não posso confirmar com segurança quais colectividades de Mafamude participam ou participaram nas marchas de São João. A participação varia conforme o ano e deve ser verificada em programas oficiais das festas, imprensa local contemporânea e documentação associativa. Se indicar um período concreto e se pretende as marchas de Gaia ou as do Porto, a questão pode ser respondida de forma mais segura e verificável.
+
+**Confiança:** Low  
+**Pontos não confirmados:** Nomes específicos de colectividades de Mafamude participantes; Continuidade ou regularidade da participação; Âmbito exato das marchas em causa  
+
+---

@@ -77,7 +77,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que associações culturais, recreativas ou filarmónicas marcaram a vida de Mafamude?
 - [x] Que grupos de teatro, ranchos folclóricos ou grupos corais existem ou existiram em Mafamude?
 - [x] Que movimentos de moradores, associações de bairro ou organizações cívicas actuaram em Mafamude?
-- [ ] Que colectividades de Mafamude participam ou participaram nas marchas de São João?
+- [x] Que colectividades de Mafamude participam ou participaram nas marchas de São João?
 
 ---
 
