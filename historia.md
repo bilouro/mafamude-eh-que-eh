@@ -50,3 +50,12 @@ Em termos historicamente mais seguros, a industrialização do século XIX e do 
 **Pontos não confirmados:** Número exato de fábricas e operários em Mafamude no período em causa.; Identificação segura dos ramos industriais predominantes dentro da própria freguesia.; Medição quantitativa do efeito direto do polo das Devesas sobre Mafamude.  
 
 ---
+## Que acontecimentos históricos marcantes (guerras, epidemias, cheias, conflitos) afectaram Mafamude?
+
+Os acontecimentos historicamente mais sólidos com impacto em Mafamude são sobretudo dois ciclos bélicos: a Segunda Invasão Francesa de 1809 e o Cerco do Porto na Guerra Civil de 1832-1833. Ambos atingiram diretamente Gaia, especialmente a zona estratégica da Serra do Pilar, e por isso é muito plausível que Mafamude tenha sofrido efeitos de movimentação de tropas, requisições, insegurança e perturbação da vida local. No plano sanitário, a gripe pneumónica de 1918-1919 atingiu seguramente a região do Porto-Gaia e muito provavelmente Mafamude, embora eu não possa dar números locais sem registos da freguesia. Quanto a cheias, não encontrei confirmação robusta de uma grande inundação identificada pela historiografia como acontecimento especificamente marcante de Mafamude; esse tipo de desastre está muito melhor documentado para as zonas ribeirinhas de Gaia. Em suma: guerras de 1809 e 1832-1833, sim, com boa base contextual; pneumónica de 1918-1919, muito provável mas carecendo de prova paroquial; cheias e outros conflitos específicos de Mafamude, por agora, permanecem incertos.
+
+**Confiança:** Medium  
+**Fontes:** Mosteiro da Serra do Pilar; Dicionário de História de Portugal; História de Portugal, vol. III; A epidemia esquecida: olhar sobre a pneumónica de 1918-1919 em Portugal; Estatísticas Demográficas  
+**Pontos não confirmados:** Episódios militares ocorridos especificamente dentro de Mafamude.; Números de mortalidade local em Mafamude durante a pneumónica.; Confirmação de surtos de cólera em Mafamude com base documental direta.; Existência de uma cheia histórica especificamente atribuível a Mafamude.  
+
+---
