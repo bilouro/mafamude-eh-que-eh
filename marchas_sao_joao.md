@@ -38,3 +38,12 @@ Não posso confirmar com confiança, com base em fontes verificáveis identifica
 **Pontos não confirmados:** Lista concreta de temas usados em anos específicos.; Letras ou refrões associados a edições determinadas.; Conceitos cénicos, figurinos ou narrativas criativas de cada marcha.  
 
 ---
+## Qual é o formato e critérios do concurso Marchas de São João de Vila Nova de Gaia?
+
+Com segurança, posso dizer que o Concurso das Marchas de São João de Vila Nova de Gaia é um concurso concelhio integrado nas Festas de São João, no qual marchas associadas a coletividades locais se apresentam publicamente perante um júri, havendo classificação e prémios. Quanto aos critérios, não consigo confirmá-los com confiança em detalhe sem citar o regulamento anual em vigor. A formulação mais prudente é esta: o júri aprecia a qualidade global da marcha e a sua execução artística, mas a lista exata de critérios, a ponderação de cada um e as regras de participação devem ser verificadas no regulamento/normas da edição correspondente emitido pela Câmara Municipal e/ou pela Federação das Colectividades.
+
+**Confiança:** Low  
+**Fontes:** Agenda e programação institucional das Festas de São João de Vila Nova de Gaia; Divulgação institucional do Concurso de Marchas de São João de Vila Nova de Gaia  
+**Pontos não confirmados:** Lista exata dos critérios de avaliação em vigor; Ponderação ou pontuação de cada critério; Regras técnicas detalhadas de participação na edição atual; Existência de alterações recentes ao formato do concurso  
+
+---
