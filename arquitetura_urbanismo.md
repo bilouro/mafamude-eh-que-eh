@@ -14,3 +14,12 @@ Em Mafamude, não se pode apontar com segurança um único estilo dominante para
 **Pontos não confirmados:** Falta um levantamento exaustivo, por estilos, de todo o edificado de Mafamude.; A classificação estilística fina de alguns imóveis varia conforme o inventário ou o autor.  
 
 ---
+## Que casas típicas, villas, quintas ou solares são representativos da arquitectura de Mafamude?
+
+Com base documental segura, a casa mais claramente representativa da arquitectura residencial histórica de Mafamude é a Casa Barbot. É o exemplo melhor identificado nas fontes patrimoniais e encaixa bem no perfil de villa ou palacete urbano associado ao crescimento de Gaia entre o final do século XIX e o início do século XX. Num plano mais amplo, a antiga Quinta do Cravel é importante para representar o mundo das quintas históricas de Mafamude. Fora destes casos, eu seria cauteloso: Mafamude foi muito urbanizada e a documentação disponível aponta mais para antigas quintas suburbanas e moradias burguesas do que para um conjunto bem preservado de 'casas típicas' rurais ou de verdadeiros solares em sentido estrito.
+
+**Confiança:** Medium  
+**Fontes:** Ficha do SIPA sobre a Casa Barbot; Página institucional do Município de Vila Nova de Gaia sobre a Casa Barbot; Página institucional do Município de Vila Nova de Gaia sobre a Quinta do Cravel / Parque associado; Peças municipais de planeamento e património de Vila Nova de Gaia relativas ao património edificado  
+**Pontos não confirmados:** Não confirmei com igual segurança uma lista extensa de outras casas ou solares específicos de Mafamude.; A aplicação do termo 'solar' a imóveis de Mafamude exige prova histórica própria e não deve ser inferida apenas pela aparência arquitectónica.; A Quinta do Cravel está identificada como quinta histórica relevante, mas a sua descrição arquitectónica detalhada requer consulta patrimonial adicional.  
+
+---
