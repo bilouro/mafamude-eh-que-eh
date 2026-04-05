@@ -211,3 +211,104 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente da 
 
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas: não depende apenas do santo, não depende apenas da noite de São João, não depende do museu, não depende da festa de rua genérica. Oferece um conceito claro, visual e cantável, centrado em Mafamude como terra que cresce sem perder a alma, o que dá ao compositor, à cenografia e ao figurino um eixo original e utilizável.
 ```
+
+- [ ]
+```text
+Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer do que mais distingue Mafamude e do que o género das marchas mais recompensa publicamente: uma imagem central clara, identidade local legível, refrão de coro imediato e tradução forte em coreografia, figurino, cenografia, letra e musicalidade. Em Gaia, as marchas recentes mostram também a utilidade de um subtema muito reconhecível dentro de um quadro festivo forte; em Lisboa, a própria estrutura pública do concurso evidencia que a ideia tem de funcionar ao mesmo tempo em voz, corpo e imagem. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
+
+Oportunidades criativas identificadas:
+- transformar o próprio nome Mafamude no motor musical da marcha
+- usar a força sonora do topónimo como primeira imagem de identidade, em vez de partir de um objecto ou de um santo
+- criar uma marcha de chamada e resposta: Mafamude chama e o povo responde
+- ligar nome antigo, bairro vivo e orgulho presente sem cair em explicações eruditas
+- dar ao compositor uma base muito coral, com sílabas fortes e memorizáveis
+- permitir que lugares de Mafamude apareçam como ecos internos da mesma voz colectiva
+- construir um desfile em que a freguesia não é apenas vista: é ouvida
+
+Riscos de repetição a evitar:
+- não repetir o universo da escultura, do atelier, das mãos, da obra e do cinzel, porque esse eixo já foi explorado
+- não repetir a lógica espacial do adro que se abre em avenida, porque esse arco já foi trabalhado
+- não transformar a marcha numa aula sobre etimologia ou história do topónimo
+- não cair em exotismo gratuito à volta da antiguidade do nome
+- não fazer um simples grito de bancada sem imagética própria de Mafamude
+- não cair no genérico Mafamude em festa, que serviria a qualquer freguesia
+
+Título provisório: Mafamude, Nome que Chama
+
+titulo_provisorio: Mafamude, Nome que Chama
+
+Conceito central: A marcha apresenta Mafamude como uma terra cujo nome não é apenas designação; é chamamento. Um nome antigo, raro e sonoro que, quando é dito em voz alta, convoca bairro, memória, lugares, gente e orgulho.
+
+conceito_central: Mafamude como nome vivo que chama o seu povo e transforma identidade em coro.
+
+Ângulo criativo: Em vez de começar por património material ou por uma narrativa histórica linear, a proposta faz do topónimo Mafamude o primeiro instrumento da marcha. O nome entra como batida, senha e bandeira. A freguesia inteira aparece como resposta viva a essa chamada.
+
+angulo_criativo: usar a sonoridade e a singularidade do nome Mafamude para construir uma marcha de chamada colectiva, eco local e afirmação popular.
+
+Imagem mestra: Ouve-se Mafamude uma primeira vez, quase como sinal ao longe. Depois, de vários pontos da freguesia, começam a chegar passos, vozes, cores e respostas. No fim, percebe-se que o nome não estava sozinho: dentro dele já vinha o povo inteiro.
+
+imagem_mestra: um nome lançado ao ar que regressa multiplicado em coro, passo e orgulho de Mafamude.
+
+Palavras-chave:
+- Mafamude
+- nome
+- chamada
+- voz
+- eco
+- coro
+- bairro
+- pertença
+- memória viva
+- orgulho
+- passo
+- resposta
+
+palavras_chave: [Mafamude, nome, chamada, voz, eco, coro, bairro, pertença, memória viva, orgulho, passo, resposta]
+
+Premissa: A letra e a encenação devem defender que Mafamude tem um nome com peso, identidade e pulsação própria. Esse nome atravessa o tempo e continua capaz de juntar pessoas, lugares e energias diferentes numa só voz. A marcha não fala de Mafamude como peça de museu nem como cenário abstracto; fala de Mafamude como nome que ainda tem força para levantar a rua.
+
+Porque funciona como marcha: Funciona porque põe o topónimo no centro do mecanismo musical e cénico. Mafamude tem sílabas fortes, boa recitação colectiva e potencial de chamada-resposta, o que ajuda a criar refrão imediato. Além disso, a observação pública das marchas mostra que os conceitos mais fortes são os que conseguem ser simultaneamente identidade, pertença, imagem e espectáculo; essa é precisamente a base desta proposta. A própria linguagem institucional das marchas de Lisboa define-as como símbolo de identidade, pertença e orgulho, e as classificações especiais mostram o valor decisivo de letra, musicalidade, figurino, cenografia e coreografia. ([egeac.pt](https://egeac.pt/ja-ha-tema-para-a-grande-marcha-de-lisboa-2026/?utm_source=openai))
+
+Arco dramático sugerido:
+- Início: o nome Mafamude surge quase como senha, sinal ou toque de reunião.
+- Desenvolvimento: o nome começa a ganhar corpo; dele saem vozes, passos e respostas de dentro da freguesia.
+- Viragem: o que era som torna-se povo; o que era palavra torna-se desfile.
+- Explosão de refrão: Mafamude já não é apenas dito, é cantado por todos.
+- Fecho: consagração coral do nome, como se a freguesia inteira coubesse dentro dele e o devolvesse maior.
+
+Elementos de Mafamude a integrar: O material factual aconselha a usar sinais reconhecíveis mas não excessivamente dispersos. Devem entrar, de forma selectiva, a antiguidade simbólica do topónimo; Santo Ovídio como foco comunitário e festivo confirmado no presente local; Laborim e Monte da Virgem como lugares internos com boa força evocativa; e a Casa-Museu Teixeira Lopes/Galerias Diogo de Macedo como prova de memória cultural existente em Mafamude, sem deixar que o tema descambe para o conceito de museu. O tecido associativo e folclórico também pode ser convocado como metáfora de vozes que respondem ao chamamento do nome. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2022/08/25/festas-em-honra-de-santo-ovidio/?utm_source=openai))
+
+Ganchos de refrão sugeridos:
+ganchos_de_refrao_sugeridos:
+- gancho_curto: Ma-fa-mu-de
+  intencao: transformar o topónimo em pulsação rítmica e assinatura imediata da marcha
+  observacao: ideal em desenho de chamada e resposta, com acentos bem marcados e coro forte
+- gancho_curto: Quando Mafamude chama
+  intencao: abrir espaço para a resposta colectiva do povo e da freguesia
+  observacao: muito útil como primeiro disparo do refrão
+- gancho_curto: É Mafamude em voz cheia
+  intencao: afirmar orgulho, projecção e corpo coral
+  observacao: funciona bem como segunda linha de refrão ou remate
+- gancho_curto: Chama o nome, vem o povo
+  intencao: ligar topónimo e comunidade numa fórmula simples e popular
+  observacao: bom para ponte ou para reforço final, não precisa de ser o slogan principal
+
+Orientações para o compositor:
+orientacoes_para_o_compositor:
+- o_que_a_letra_deve_valorizar: a força sonora do nome Mafamude, o sentimento de pertença, a resposta colectiva do bairro, a união entre memória e presente e a ideia de voz comum
+- equilibrio_entre_historia_e_festa: a história deve entrar apenas como profundidade do nome e da memória; a festa tem de comandar o andamento, o brilho e a comunicação imediata
+- tipo_de_refrao_desejado: refrão de chamada-resposta, com o topónimo logo no primeiro impacto, muito coral, muito aberto e fácil de decorar à primeira audição
+- estrutura_recomendada_da_marcha: abertura curta e marcada com o nome; estrofe de convocação; estrofe de respostas da freguesia; ponte ascendente; refrão explosivo; fecho com repetição forte do topónimo
+- observacoes_de_cantabilidade: trabalhar a divisão silábica Ma-fa-mu-de como percussão verbal; usar frases curtas; privilegiar vogais abertas; deixar espaço para coro responder; evitar construções longas e literárias
+- o_que_evitar_na_letra: lição etimológica, excesso de datas, enumeração seca de lugares, tom de conferência, exotismo histórico, fórmulas genéricas de arraial e qualquer verso que pudesse servir indistintamente a outra freguesia
+
+Potencial cénico:
+potencial_cenico:
+- cores_ou_ambientes_sugeridos: azul-noite profundo, cobre ou dourado velho, marfim, vermelho popular e apontamentos de luz quente para sugerir voz que se acende
+- imagens_de_desfile: quatro pulsações ou quatro acentos a abrirem a marcha; grupos que respondem uns aos outros; frente coreográfica que cresce como eco; sensação de palavra que ganha corpo humano
+- elementos_visuais_opcionais: arcos, estandartes ou leques inspirados no desenho das sílabas do nome sem literalismo infantil; ondas gráficas de som; lanternas que acendem por camadas; jogo entre voz lançada e voz devolvida
+
+Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das anteriores em três níveis. Primeiro, não usa a metáfora plástica da oficina, da escultura ou da obra feita de gente. Segundo, não usa a dramaturgia espacial do adro que se abre em avenida. Terceiro, troca a imagem de crescimento físico pela imagem de convocação sonora. O eixo agora é o nome e a voz. Isso dá ao compositor outro tipo de refrão, outra mecânica rítmica e outro imaginário cénico.
+
+Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas: não depende do arraial genérico, não depende apenas do santo, não depende de inventário histórico nem de património transformado em visita guiada. O seu centro é muito específico e difícil de confundir com outra freguesia: Mafamude como nome que chama e freguesia que responde.
+```
