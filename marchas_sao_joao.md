@@ -30,3 +30,11 @@ Não posso confirmar com confiança, apenas com base em evidência historicament
 **Pontos não confirmados:** Lista cronológica dos organizadores.; Identificação nominal de cada colectividade responsável.; Mudanças de organização entre diferentes anos ou décadas.  
 
 ---
+## Que temas, letras ou conceitos criativos foram usados em edições anteriores das marchas de Mafamude?
+
+Não posso confirmar com confiança, com base em fontes verificáveis identificadas nesta resposta, que temas, letras ou conceitos criativos foram usados em edições anteriores das marchas de Mafamude. Para responder com rigor histórico, seria necessário consultar documentação de cada edição, como programas oficiais, cartazes, notícias da imprensa local, gravações das atuações e arquivos das coletividades ou da câmara municipal.
+
+**Confiança:** Low  
+**Pontos não confirmados:** Lista concreta de temas usados em anos específicos.; Letras ou refrões associados a edições determinadas.; Conceitos cénicos, figurinos ou narrativas criativas de cada marcha.  
+
+---
