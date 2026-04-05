@@ -1021,7 +1021,7 @@ Diferenciação face a marchas já feitas:
 Como não foram fornecidas marchas_ja_feitas, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas porque não depende apenas do santo, não vive do arraial genérico, não transforma património em visita guiada e não cai na simples exaltação abstracta do bairro. O que oferece de distintivo é uma frase-base muito própria e muito marchável: Mafamude tem chão. Isso dá ao compositor, ao figurinista e ao encenador um eixo claro, popular, visual e identitário.
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer de um sinal realmente mafamudense, visual, popular e útil para refrão. A leitura pública do género mostra que tanto em Gaia como em Lisboa resultam melhor os temas que se deixam traduzir logo em coreografia, figurino, cenografia e letra; em Gaia, as Marchas de São João de 2025 tiveram um tema comum com subtemas por marcha, e em Lisboa o júri aprecia, entre outros aspectos, coreografia, figurino, música, letra e fidelidade ao tema. Em Mafamude, a recorrência real do nome Cedro em lugares e entidades locais — como a Alameda do Cedro, o Centro de Recreio Popular dos Trabalhadores da Alameda do Cedro e a Quinta do Cedro — oferece um emblema muito fértil e pouco gasto, que pode ser usado poeticamente sem inventar factos. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
 
