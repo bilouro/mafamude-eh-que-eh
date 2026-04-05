@@ -123,7 +123,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 ## Religião e Espiritualidade → [religiao.md](religiao.md)
 
-- [ ] Qual é a história completa da Paróquia de São Cristóvão de Mafamude — fundação, párocos notáveis, momentos marcantes?
+- [x] Qual é a história completa da Paróquia de São Cristóvão de Mafamude — fundação, párocos notáveis, momentos marcantes?
 - [ ] Que outras capelas, cruzeiros ou locais de devoção existem ou existiram em Mafamude?
 - [ ] Que irmandades, confrarias ou associações religiosas actuaram em Mafamude ao longo da história?
 - [ ] Que santos, devoções ou cultos populares são específicos de Mafamude?
