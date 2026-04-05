@@ -32,3 +32,12 @@ De forma verificável, Mafamude transformou-se, ao longo do século XX, de fregu
 **Pontos não confirmados:** Lista completa dos bairros criados, remodelados ou desaparecidos em Mafamude ao longo do século XX.; Cronologia exata das principais demolições e substituições parcelares.; Peso relativo, caso a caso, da habitação pública, cooperativa e privada na expansão de Mafamude.  
 
 ---
+## Que bairros históricos ou zonas com identidade própria existem dentro de Mafamude?
+
+Com prudência histórica, as zonas de Mafamude com identidade própria mais defensáveis nas fontes são Santo Ovídio, Laborim e Monte da Virgem. A mais solidamente documentada como núcleo histórico é Santo Ovídio. Laborim também revela continuidade local forte, sobretudo nas designações Laborim de Cima e Laborim de Baixo. Monte da Virgem é uma zona muito reconhecível de Mafamude, mas a sua força identitária é mais evidente em época contemporânea. Se a pergunta for entendida em sentido estrito, convém acrescentar que Mafamude não parece ter uma lista histórica oficial de "bairros"; o mais rigoroso é falar em lugares e zonas com identidade própria.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758: Mafamude; Igreja Paroquial de Mafamude / Igreja de Santo Ovídio; Geoportal Municipal de Vila Nova de Gaia; Portugal Antigo e Moderno; Carta Militar de Portugal  
+**Pontos não confirmados:** Uma lista fechada e historicamente consensual de todos os bairros ou zonas internas de Mafamude.; A classificação de Laborim e de Monte da Virgem como bairros históricos antigos em sentido estrito.  
+
+---
