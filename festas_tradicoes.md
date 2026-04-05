@@ -32,3 +32,12 @@ Com base nas fontes mais seguras que consigo sustentar, a devoção mais clarame
 **Pontos não confirmados:** datas exatas anuais das festas; lista completa das procissões locais; continuidade do mesmo calendário religioso em todos os períodos históricos  
 
 ---
+## Que tradições populares (cantigas, jogos, costumes sazonais) existiam em Mafamude?
+
+Não consigo confirmar com segurança, nesta resposta, uma lista de tradições populares especificamente documentadas para Mafamude. O que pode ser dito com prudência é que Mafamude, por integração histórica no espaço de Vila Nova de Gaia e do noroeste português, provavelmente participou em práticas populares comuns da região, como cantares sazonais, festas e procissões paroquiais, cantigas infantis e jogos tradicionais. No entanto, sem recolhas etnográficas locais ou estudos monográficos cruzados, isso deve ser entendido como enquadramento regional provável, e não como inventário comprovado de tradições próprias de Mafamude.
+
+**Confiança:** Low  
+**Fontes:** Etnografia Portuguesa; Cancioneiro Popular Português; Inventário Nacional do Património Cultural Imaterial  
+**Pontos não confirmados:** Nomes concretos de cantigas usadas em Mafamude.; Jogos populares especificamente atestados em Mafamude.; Costumes sazonais próprios e distintivos da localidade.  
+
+---
