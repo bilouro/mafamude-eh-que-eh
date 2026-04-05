@@ -41,7 +41,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 ## Lugares e Património → [lugares_patrimonio.md](lugares_patrimonio.md)
 
 - [x] Qual é a história completa da Igreja de São Cristóvão de Mafamude — construção, obras, espólio artístico?
-- [ ] Que edifícios históricos, solares ou quintas existiram ou existem em Mafamude?
+- [x] Que edifícios históricos, solares ou quintas existiram ou existem em Mafamude?
 - [ ] Que parques, jardins ou espaços públicos históricos existem em Mafamude?
 - [ ] Que mercados, feiras ou espaços de comércio tradicional marcaram a vida de Mafamude?
 - [ ] Que locais históricos de Mafamude foram demolidos ou transformados ao longo do séc. XX?

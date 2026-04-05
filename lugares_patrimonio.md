@@ -14,3 +14,12 @@ Não é possível dar, com segurança historiográfica, uma história completa d
 **Pontos não confirmados:** Data exata da campanha principal de construção do edifício atual.; Cronologia completa das obras e remodelações posteriores.; Catálogo crítico do espólio artístico com autorias, datas e proveniências seguras.  
 
 ---
+## Que edifícios históricos, solares ou quintas existiram ou existem em Mafamude?
+
+Com a segurança que consigo sustentar, os exemplos mais firmes são estes: a Casa Barbot, edifício histórico ainda existente em Mafamude, e a Quinta do Cravel, antiga quinta hoje preservada no topónimo e no atual parque da área administrativa de Mafamude e Vilar do Paraíso. Fora destes casos, é provável que tenham existido outras quintas e casas de recreio em Mafamude, mas não considero historicamente seguro apresentar aqui uma lista fechada sem consulta sistemática de inventários patrimoniais, cartografia antiga e documentação predial. Também não identifiquei, nas fontes usadas, um solar antigo de Mafamude que possa nomear com o mesmo grau de certeza.
+
+**Confiança:** Medium  
+**Fontes:** Casa Barbot; Casa Barbot; Parque da Quinta do Cravel; Carta patrimonial e instrumentos territoriais do Município de Vila Nova de Gaia; Carta Administrativa Oficial de Portugal  
+**Pontos não confirmados:** Lista exaustiva de quintas desaparecidas de Mafamude.; Identificação segura de outros solares ou casas senhoriais além dos casos acima.; Atribuição territorial absolutamente precisa da Quinta do Cravel à Mafamude histórica.  
+
+---
