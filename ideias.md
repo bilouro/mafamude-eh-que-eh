@@ -212,7 +212,7 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente da 
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas: não depende apenas do santo, não depende apenas da noite de São João, não depende do museu, não depende da festa de rua genérica. Oferece um conceito claro, visual e cantável, centrado em Mafamude como terra que cresce sem perder a alma, o que dá ao compositor, à cenografia e ao figurino um eixo original e utilizável.
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer do que mais distingue Mafamude e do que o género das marchas mais recompensa publicamente: uma imagem central clara, identidade local legível, refrão de coro imediato e tradução forte em coreografia, figurino, cenografia, letra e musicalidade. Em Gaia, as marchas recentes mostram também a utilidade de um subtema muito reconhecível dentro de um quadro festivo forte; em Lisboa, a própria estrutura pública do concurso evidencia que a ideia tem de funcionar ao mesmo tempo em voz, corpo e imagem. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
 
