@@ -14,3 +14,12 @@ Com confirmação segura, posso indicar António Soares dos Reis, escultor, nasc
 **Pontos não confirmados:** A existência de outros artistas plásticos com ligação específica a Mafamude além de António Soares dos Reis.; Quais artistas terão efetivamente residido ou mantido atividade profissional em Mafamude sem que essa informação apareça claramente nas biografias de referência.  
 
 ---
+## Que escritores, poetas ou jornalistas estão associados a Mafamude?
+
+Com base apenas no que consigo confirmar com segurança, os nomes mais solidamente associados a Mafamude são Guerra Junqueiro e Ramalho Ortigão. Essa associação deve ser entendida com cautela: não encontrei base segura para os apresentar como naturais de Mafamude, mas sim como figuras ligadas ao meio cultural da Casa-Museu Teixeira Lopes, em Mafamude. Não consigo confirmar com a mesma segurança uma lista mais extensa de escritores, poetas ou jornalistas especificamente ligados à antiga freguesia.
+
+**Confiança:** Medium  
+**Fontes:** Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo; SIPA - Casa-Museu Teixeira Lopes; Dicionário Cronológico de Autores Portugueses; Guerra Junqueiro; Ramalho Ortigão  
+**Pontos não confirmados:** Uma lista exaustiva de escritores, poetas ou jornalistas naturais ou residentes em Mafamude.; Outros nomes por vezes referidos em contexto local ou museológico, sem confirmação independente adicional.  
+
+---

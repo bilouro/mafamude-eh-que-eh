@@ -84,7 +84,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 ## Arte e Cultura → [arte_cultura.md](arte_cultura.md)
 
 - [x] Que artistas plásticos nasceram, viveram ou trabalharam em Mafamude?
-- [ ] Que escritores, poetas ou jornalistas estão associados a Mafamude?
+- [x] Que escritores, poetas ou jornalistas estão associados a Mafamude?
 - [ ] Que músicos, bandas ou grupos musicais são originários de Mafamude?
 - [ ] Que murais, esculturas ou arte urbana existem no espaço público de Mafamude?
 - [ ] Que espólio fotográfico histórico existe sobre Mafamude — arquivo, colecções, fontes?
