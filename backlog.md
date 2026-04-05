@@ -117,7 +117,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que indústrias, fábricas ou armazéns existiram em Mafamude ao longo da história?
 - [x] Que comércio tradicional ainda existe ou existiu em Mafamude?
 - [x] Como afectou a proximidade ao Porto a economia e os hábitos de trabalho de Mafamude?
-- [ ] Como evoluiu a estrutura económica de Mafamude do séc. XIX até hoje?
+- [x] Como evoluiu a estrutura económica de Mafamude do séc. XIX até hoje?
 
 ---
 

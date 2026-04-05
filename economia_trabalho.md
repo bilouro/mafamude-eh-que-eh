@@ -41,3 +41,12 @@ De forma historicamente prudente, a proximidade ao Porto afectou Mafamude sobret
 **Pontos não confirmados:** Percentagens exatas de trabalhadores por sector em Mafamude; Data precisa em que a economia local passou a ser maioritariamente urbana; Peso relativo do emprego no Porto face ao emprego em Vila Nova de Gaia  
 
 ---
+## Como evoluiu a estrutura económica de Mafamude do séc. XIX até hoje?
+
+Em termos documentáveis, Mafamude passou de uma freguesia de base ainda marcadamente rural no século XIX para um espaço de transição periurbana no século XX e, finalmente, para uma área densamente urbanizada integrada na continuidade Gaia-Porto. Com o avanço da urbanização, a base agrária recuou e, ao que a documentação disponível permite concluir, ganharam peso a construção urbana, o comércio de proximidade, os serviços e as funções residenciais. Hoje, considerando o território histórico de Mafamude dentro da atual União das Freguesias de Mafamude e Vilar do Paraíso, a estrutura económica é sobretudo terciária e urbana. O ponto que exige mais cautela é a cronologia intermédia: não disponho de uma série paroquial contínua e segura que permita medir com precisão quando cada setor ultrapassou o anterior ou afirmar uma especialização industrial forte e própria de Mafamude.
+
+**Confiança:** Medium  
+**Fontes:** Portugal Antigo e Moderno; Dicionário Chorographico de Portugal Continental e Insular; Recenseamentos Gerais da População / Censos; Recenseamento Geral da Agricultura; Carta de Uso e Ocupação do Solo (COS); Plano Diretor Municipal de Vila Nova de Gaia  
+**Pontos não confirmados:** Percentagens setoriais para Mafamude no século XIX e na primeira metade do século XX.; Data exata em que a agricultura deixou de ter papel dominante na economia local.; Peso preciso da pequena indústria e das oficinas face ao comércio e aos serviços no século XX.  
+
+---
