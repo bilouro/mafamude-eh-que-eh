@@ -23,3 +23,11 @@ Com a cautela exigida pelas fontes que consigo confirmar, a coletividade mais se
 **Pontos não confirmados:** Lista completa das associações culturais e recreativas historicamente mais marcantes de Mafamude.; Existência e cronologia de uma filarmónica própria de Mafamude com destaque histórico seguro.; Hierarquia de importância entre as várias coletividades locais.  
 
 ---
+## Que grupos de teatro, ranchos folclóricos ou grupos corais existem ou existiram em Mafamude?
+
+Não posso confirmar com confiança, com base em evidência suficientemente verificada nesta resposta, quais foram ou são os grupos de teatro, ranchos folclóricos ou grupos corais de Mafamude. Para uma lista segura seria necessário cruzar, pelo menos, diretórios associativos da Câmara Municipal de Vila Nova de Gaia e da atual União das Freguesias de Mafamude e Vilar do Paraíso, imprensa local e documentação histórica de coletividades ou da paróquia. Sem esse controlo, qualquer enumeração nominal seria especulativa.
+
+**Confiança:** Low  
+**Pontos não confirmados:** Nomes exatos de grupos de teatro de Mafamude; Nomes exatos de ranchos folclóricos de Mafamude; Nomes exatos de grupos corais de Mafamude; Períodos de atividade e eventual continuidade institucional desses grupos  
+
+---
