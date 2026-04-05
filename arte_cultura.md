@@ -41,3 +41,12 @@ Com base nas fontes institucionais e patrimoniais que consigo sustentar com segu
 **Pontos não confirmados:** Murais ou intervenções urbanas recentes em Mafamude não ficaram independentemente confirmados.; Não ficou confirmada uma lista atualizada de esculturas de espaço público especificamente dentro dos limites de Mafamude.; A permanência e localização exata de eventuais obras de arte urbana continuam incertas sem verificação local.  
 
 ---
+## Que espólio fotográfico histórico existe sobre Mafamude — arquivo, colecções, fontes?
+
+Com segurança, não posso apontar um único 'arquivo fotográfico histórico de Mafamude' claramente autónomo e já identificado nas fontes institucionais mais evidentes. O que se consegue afirmar com maior firmeza é que o espólio existe de forma dispersa. As fontes mais importantes para o localizar são: o Arquivo Municipal Sophia de Mello Breyner, em Vila Nova de Gaia, como principal porta de entrada institucional; o SIPA, para fotografias de património edificado em Mafamude; o Centro Português de Fotografia, para fundos fotográficos de âmbito mais amplo que possam incluir Gaia; e a Biblioteca Nacional de Portugal, sobretudo para postais, álbuns e outra iconografia histórica. Poderão existir ainda coleções privadas, familiares, paroquiais ou associativas, mas não as posso confirmar aqui com confiança nem quantificar. A formulação historicamente mais rigorosa, portanto, é esta: há espólio fotográfico histórico sobre Mafamude, mas está disperso por várias instituições e a sua dimensão exata exige pesquisa direta de catálogo.
+
+**Confiança:** Medium  
+**Fontes:** Arquivo Municipal Sophia de Mello Breyner; Sistema de Informação para o Património Arquitectónico; Centro Português de Fotografia; Biblioteca Nacional de Portugal / Biblioteca Nacional Digital  
+**Pontos não confirmados:** Número total de fotografias históricas sobre Mafamude; Existência de um fundo autónomo intitulado exatamente 'Mafamude'; Inventário público e acessível de coleções privadas ou paroquiais  
+
+---

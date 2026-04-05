@@ -87,7 +87,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que escritores, poetas ou jornalistas estão associados a Mafamude?
 - [x] Que músicos, bandas ou grupos musicais são originários de Mafamude?
 - [x] Que murais, esculturas ou arte urbana existem no espaço público de Mafamude?
-- [ ] Que espólio fotográfico histórico existe sobre Mafamude — arquivo, colecções, fontes?
+- [x] Que espólio fotográfico histórico existe sobre Mafamude — arquivo, colecções, fontes?
 
 ---
 
