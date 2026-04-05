@@ -18,3 +18,4 @@
 | 10 | [Mafamude Tem Chão](marchas/marcha10.md) | Mafamude é cantada como terra de base funda e passo firme, onde memória, rua, fé |
 | 10 | [Mafamude Tem Chão](marchas/marcha10.md) | Mafamude surge como freguesia de base funda e passo firme: um chão vivo onde mem |
 | 11 | [Mafamude, Cedro ao Alto](marchas/marcha11.md) | Mafamude é cantada como um cedro popular de porte alto, extraído da toponímia re |
+| 11 | [Mafamude, Cedro ao Alto](marchas/marcha11.md) | Mafamude surge como um cedro popular: firme nas raízes, largo na memória e vivo  |
