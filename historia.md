@@ -32,3 +32,12 @@ Com a cautela necessária, o que se pode afirmar com segurança é que a Igreja 
 **Pontos não confirmados:** Ano exato da fundação da igreja; Eventual fundador ou primeira campanha construtiva; Cronologia precisa das fases mais antigas do edifício  
 
 ---
+## Como era Mafamude nos séculos XVII e XVIII — economia, população, estrutura social?
+
+Com prudência histórica, Mafamude nos séculos XVII e XVIII deve ser entendida sobretudo como uma freguesia rural ou periurbana da área de Gaia, ainda longe da urbanização posterior. A economia assentaria principalmente na exploração agrária e na sua articulação com os mercados próximos de Gaia e do Porto; é plausível admitir vinha, cereais, hortas e pequena criação, mas não é seguro afirmar a predominância exata de cada setor sem documentação económica local mais fina. Quanto à população, as melhores bases são os registos paroquiais e as Memórias Paroquiais de 1758, mas sem tratamento quantitativo direto dessas fontes não é metodologicamente correto fixar aqui totais de habitantes. Socialmente, o quadro mais sólido é o de uma comunidade típica do Antigo Regime nortenho: clero paroquial, proprietários e lavradores, caseiros ou foreiros, jornaleiros, criados e algum artesanato ou trabalho ligado à proximidade de Gaia e Porto. Em suma, Mafamude parece ter sido uma comunidade agrária integrada na órbita urbana vizinha, com sociedade hierarquizada e documentação suficiente para estudo, mas ainda insuficiente, sem análise direta das fontes, para uma descrição numérica fechada.
+
+**Confiança:** Medium  
+**Fontes:** Registos paroquiais de Mafamude (batismos, casamentos e óbitos); Memórias Paroquiais de 1758: freguesia de Mafamude; Corografia Portugueza e descripçam topografica do famoso reyno de Portugal; História de Portugal, vol. 4: O Antigo Regime (1620-1807)  
+**Pontos não confirmados:** Números exatos de população para o século XVII e para o conjunto do século XVIII.; Peso relativo da vinha, dos cereais e da horticultura na economia local.; Escala real das atividades não agrícolas e da dependência do mercado portuense.  
+
+---

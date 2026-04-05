@@ -19,7 +19,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Quais são as evidências documentais da presença árabe ou muçulmana em Mafamude (séc. X–XIII)?
 - [x] Como se desenvolveu Mafamude no período medieval (séc. XIII–XV) — documentos, propriedades, senhorios?
 - [x] Qual foi o papel da Igreja de São Cristóvão na história de Mafamude desde a sua fundação?
-- [ ] Como era Mafamude nos séculos XVII e XVIII — economia, população, estrutura social?
+- [x] Como era Mafamude nos séculos XVII e XVIII — economia, população, estrutura social?
 - [ ] Que impacto teve a industrialização do séc. XIX e início do séc. XX em Mafamude?
 - [ ] Que acontecimentos históricos marcantes (guerras, epidemias, cheias, conflitos) afectaram Mafamude?
 - [ ] Como se transformou Mafamude ao longo do séc. XX — urbanização, crescimento populacional, mudanças?
