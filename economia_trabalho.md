@@ -32,3 +32,12 @@ Com prudência histórica, não posso confirmar aqui uma lista segura de casas c
 **Pontos não confirmados:** Nomes de lojas antigas específicas de Mafamude.; Continuidade desses estabelecimentos até ao presente.; Datas exatas de fundação e encerramento.  
 
 ---
+## Como afectou a proximidade ao Porto a economia e os hábitos de trabalho de Mafamude?
+
+De forma historicamente prudente, a proximidade ao Porto afectou Mafamude sobretudo pela integração num mercado urbano mais vasto. O efeito mais seguro foi a passagem progressiva de uma economia mais local para uma economia dependente da expansão de Gaia e do Porto, com maior peso do trabalho assalariado, da construção, do comércio, dos transportes e dos serviços. Nos hábitos de trabalho, isso traduziu-se muito provavelmente em mais deslocações diárias, maior sujeição a horários regulares de emprego urbano e menor centralidade exclusiva dos ritmos agrícolas ou estritamente locais. O que não posso confirmar com igual segurança, sem estudo mais detalhado por fontes paroquiais e censitárias, é a proporção exacta de profissões ou o momento preciso em que essa mudança se tornou dominante.
+
+**Confiança:** Medium  
+**Fontes:** Recenseamentos Gerais da População; Plano Diretor Municipal de Vila Nova de Gaia; História do Porto  
+**Pontos não confirmados:** Percentagens exatas de trabalhadores por sector em Mafamude; Data precisa em que a economia local passou a ser maioritariamente urbana; Peso relativo do emprego no Porto face ao emprego em Vila Nova de Gaia  
+
+---
