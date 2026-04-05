@@ -46,7 +46,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que mercados, feiras ou espaços de comércio tradicional marcaram a vida de Mafamude?
 - [x] Que locais históricos de Mafamude foram demolidos ou transformados ao longo do séc. XX?
 - [x] O que revelam os nomes das ruas de Mafamude sobre a história e identidade local?
-- [ ] Que elementos do património imaterial (saberes, ofícios, práticas) estão associados a Mafamude?
+- [x] Que elementos do património imaterial (saberes, ofícios, práticas) estão associados a Mafamude?
 
 ---
 

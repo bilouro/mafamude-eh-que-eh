@@ -59,3 +59,12 @@ Os nomes das ruas de Mafamude revelam sobretudo uma identidade histórica compos
 **Pontos não confirmados:** Cronologia precisa da atribuição de cada nome de rua em Mafamude.; Percentagem de topónimos antigos face a designações comemorativas modernas.; Ligação direta de cada antropónimo da toponímia à história específica de Mafamude.  
 
 ---
+## Que elementos do património imaterial (saberes, ofícios, práticas) estão associados a Mafamude?
+
+Com a documentação que posso sustentar com mais segurança, os elementos do património imaterial mais claramente associados a Mafamude são sobretudo práticas religiosas e comunitárias ligadas à antiga paróquia de São Cristóvão de Mafamude: o culto do orago, as celebrações paroquiais e a sociabilidade devocional em torno da igreja. Não consegui confirmar com igual segurança saberes ou ofícios tradicionais exclusivos de Mafamude, nem um elemento especificamente mafamudense formalmente inventariado no quadro nacional do património cultural imaterial. Em suma: a associação mais segura é religioso-paroquial; quanto a ofícios e saberes próprios, isso permanece incerto.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758: São Cristóvão de Mafamude; Ficha SIPA da Igreja Paroquial de Mafamude (São Cristóvão); Inventário Coletivo dos Registos Paroquiais: Mafamude, São Cristóvão; Inventário Nacional do Património Cultural Imaterial  
+**Pontos não confirmados:** Forma histórica precisa e continuidade das festas de São Cristóvão ao longo do tempo.; Existência de ofícios tradicionais exclusivos de Mafamude documentalmente comprovados.; Existência de um elemento do património cultural imaterial inventariado especificamente como de Mafamude.  
+
+---
