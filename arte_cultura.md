@@ -23,3 +23,12 @@ Com base apenas no que consigo confirmar com segurança, os nomes mais solidamen
 **Pontos não confirmados:** Uma lista exaustiva de escritores, poetas ou jornalistas naturais ou residentes em Mafamude.; Outros nomes por vezes referidos em contexto local ou museológico, sem confirmação independente adicional.  
 
 ---
+## Que músicos, bandas ou grupos musicais são originários de Mafamude?
+
+Com segurança documental, o grupo musical que consigo confirmar como claramente ligado a Mafamude é o Orfeão de Mafamude. Não posso, com a mesma confiança, fornecer uma lista ampla de músicos individuais, bandas ou outros grupos musicais originários de Mafamude sem investigação adicional em fontes biográficas e arquivos locais.
+
+**Confiança:** Low  
+**Fontes:** Portal do Associativismo de Vila Nova de Gaia; Movimento Associativo; Orfeão de Mafamude  
+**Pontos não confirmados:** Uma lista exaustiva de músicos individuais naturais de Mafamude.; A identificação segura de outras bandas ou grupos musicais originários de Mafamude além do Orfeão de Mafamude.  
+
+---
