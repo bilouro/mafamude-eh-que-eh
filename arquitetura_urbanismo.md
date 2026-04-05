@@ -23,3 +23,12 @@ Com base documental segura, a casa mais claramente representativa da arquitectur
 **Pontos não confirmados:** Não confirmei com igual segurança uma lista extensa de outras casas ou solares específicos de Mafamude.; A aplicação do termo 'solar' a imóveis de Mafamude exige prova histórica própria e não deve ser inferida apenas pela aparência arquitectónica.; A Quinta do Cravel está identificada como quinta histórica relevante, mas a sua descrição arquitectónica detalhada requer consulta patrimonial adicional.  
 
 ---
+## Como se transformou o tecido urbano de Mafamude ao longo do séc. XX — bairros, demolições, expansão?
+
+De forma verificável, Mafamude transformou-se, ao longo do século XX, de freguesia ainda marcada por núcleos dispersos, quintas e terrenos agrícolas numa área urbana quase contínua com o centro de Gaia. O processo teve três traços principais: consolidação do edificado nos grandes eixos viários; expansão por loteamentos e urbanizações sobre antigo solo rural; e forte densificação, sobretudo na segunda metade do século, com edifícios multifamiliares e alguns conjuntos habitacionais. Em Mafamude, portanto, os 'bairros' foram apenas uma parte da mudança: o essencial foi a passagem de um espaço periurbano fragmentado para um tecido urbano consolidado. Quanto a demolições, a evidência geral permite falar sobretudo de demolições de substituição e de reconfiguração viária, mas não autoriza, sem pesquisa municipal mais fina, uma lista segura das principais operações nem dos bairros eventualmente desaparecidos.
+
+**Confiança:** Medium  
+**Fontes:** Recenseamentos Gerais da População / Censos; Carta Militar de Portugal (várias edições da área de Vila Nova de Gaia/Mafamude); Fotografia aérea histórica e ortofotomapas da área de Vila Nova de Gaia; Plano Diretor Municipal de Vila Nova de Gaia: relatórios e plantas de ordenamento  
+**Pontos não confirmados:** Lista completa dos bairros criados, remodelados ou desaparecidos em Mafamude ao longo do século XX.; Cronologia exata das principais demolições e substituições parcelares.; Peso relativo, caso a caso, da habitação pública, cooperativa e privada na expansão de Mafamude.  
+
+---

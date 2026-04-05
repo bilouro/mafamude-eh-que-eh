@@ -105,7 +105,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 - [x] Que estilos arquitectónicos predominam em Mafamude e que exemplos notáveis existem?
 - [x] Que casas típicas, villas, quintas ou solares são representativos da arquitectura de Mafamude?
-- [ ] Como se transformou o tecido urbano de Mafamude ao longo do séc. XX — bairros, demolições, expansão?
+- [x] Como se transformou o tecido urbano de Mafamude ao longo do séc. XX — bairros, demolições, expansão?
 - [ ] Que bairros históricos ou zonas com identidade própria existem dentro de Mafamude?
 - [ ] Como se manifesta a tensão entre o rural e o urbano na arquitectura e urbanismo de Mafamude?
 
