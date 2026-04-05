@@ -23,3 +23,12 @@ A relação histórica e administrativa entre Mafamude e a Câmara Municipal de 
 **Pontos não confirmados:** A data exata e a evolução detalhada da integração de Mafamude no concelho de Gaia em períodos anteriores à época contemporânea.; Alterações históricas específicas de limites territoriais internos, se existiram, entre Mafamude e freguesias vizinhas.  
 
 ---
+## O que distingue Mafamude das outras freguesias de Vila Nova de Gaia em termos de identidade e características?
+
+Mafamude distingue-se sobretudo pelo seu perfil urbano-central dentro de Vila Nova de Gaia. Historicamente, tem continuidade como paróquia antiga e, no presente, a documentação administrativa, estatística e urbanística mostra-a como uma área densamente urbanizada, fortemente ligada ao centro de Gaia e ao sistema metropolitano do Porto. Em comparação com freguesias mais periféricas, rurais, litorais ou de perfil mais marcadamente local, Mafamude caracteriza-se mais por centralidade residencial, serviços e mobilidade do que por isolamento territorial ou por uma especialização económica tradicional própria. Convém, porém, acrescentar que esta identidade não é absoluta nem totalmente separada das freguesias vizinhas do centro de Gaia, e que desde 2013 Mafamude já não constitui uma freguesia civil autónoma.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758: Paróquia de Mafamude; Lei n.º 11-A/2013; Carta Administrativa Oficial de Portugal; Censos 2011: Resultados definitivos; Plano Diretor Municipal de Vila Nova de Gaia; Rede em exploração / Estação de Santo Ovídio  
+**Pontos não confirmados:** Não existe um critério único e inteiramente objetivo para definir a 'identidade' de Mafamude face a todas as outras freguesias do concelho.; A ideia de uma personalidade cultural completamente singular de Mafamude não pode ser afirmada com segurança apenas com a documentação disponível.  
+
+---

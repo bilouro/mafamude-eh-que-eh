@@ -156,5 +156,5 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 - [x] Qual é a posição e o peso de Mafamude no contexto do município de Vila Nova de Gaia?
 - [x] Que relação histórica e administrativa existe entre Mafamude e a Câmara Municipal de Gaia?
-- [ ] O que distingue Mafamude das outras freguesias de Vila Nova de Gaia em termos de identidade e características?
+- [x] O que distingue Mafamude das outras freguesias de Vila Nova de Gaia em termos de identidade e características?
 - [ ] Como é que a fronteira entre Mafamude/Gaia e o Porto se manifesta na identidade local?
