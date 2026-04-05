@@ -32,3 +32,12 @@ Não posso, com segurança historiográfica, enumerar uma lista completa de irma
 **Pontos não confirmados:** Lista nominal das confrarias e irmandades antigas de Mafamude.; Existência, datas de fundação e duração de associações religiosas dos séculos XIX e XX na paróquia.; Distinção exacta, em Mafamude, entre confraria canonicamente erigida, irmandade, associação pia e simples grupo paroquial.  
 
 ---
+## Que santos, devoções ou cultos populares são específicos de Mafamude?
+
+Com base no que está documentalmente melhor sustentado, a devoção mais própria de Mafamude é a do Divino Salvador, que corresponde ao orago histórico da paróquia e da igreja matriz. Se a pergunta pretende saber se existe algum santo ou culto popular exclusivo de Mafamude, eu não o posso confirmar com confiança a partir das fontes reunidas. Em termos seguros, o que se pode afirmar é a centralidade da invocação do Divino Salvador; outros cultos especificamente mafamudenses permanecem por demonstrar.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758, entrada de Mafamude; Igreja Paroquial de Mafamude / Igreja do Divino Salvador; Paróquia do Divino Salvador de Mafamude; Portugal Antigo e Moderno, entrada 'Mafamude'  
+**Pontos não confirmados:** A existência de devoções populares exclusivas de Mafamude não ficou independentemente confirmada.; A identificação e antiguidade de eventuais cultos secundários exigem documentação paroquial ou confraternal mais detalhada.  
+
+---
