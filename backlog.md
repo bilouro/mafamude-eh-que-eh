@@ -143,7 +143,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 ## Marchas e São João → [marchas_sao_joao.md](marchas_sao_joao.md)
 
-- [ ] Qual é o histórico completo de participações de Mafamude no concurso de Marchas de São João de Gaia?
+- [x] Qual é o histórico completo de participações de Mafamude no concurso de Marchas de São João de Gaia?
 - [ ] Em que anos Mafamude ganhou ou foi premiada no concurso de marchas?
 - [ ] Que colectividades ou grupos organizaram as marchas de Mafamude ao longo dos anos?
 - [ ] Que temas, letras ou conceitos criativos foram usados em edições anteriores das marchas de Mafamude?
