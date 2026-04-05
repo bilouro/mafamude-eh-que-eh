@@ -29,7 +29,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 ## Pessoas Notáveis → [pessoas_notaveis.md](pessoas_notaveis.md)
 
-- [ ] Que artistas, escritores ou intelectuais nasceram ou viveram em Mafamude?
+- [x] Que artistas, escritores ou intelectuais nasceram ou viveram em Mafamude?
 - [ ] Que figuras políticas ou religiosas estão historicamente associadas a Mafamude?
 - [ ] Que desportistas notáveis são naturais ou estão associados a Mafamude?
 - [ ] Que personalidades populares, folclóricas ou lendárias fazem parte da memória colectiva de Mafamude?
