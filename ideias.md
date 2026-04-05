@@ -906,7 +906,7 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se com clareza da
 Diferenciação face a marchas já feitas: Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas gastas porque não depende apenas do arraial genérico, não vive só do santo, não transforma património em visita guiada e não se limita ao elogio abstracto do bairro. O que oferece de próprio é uma imagem forte, nocturna e muito marchável: Mafamude a acender-se janela em janela até ficar inteira na rua.
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a nova proposta deve nascer do material de Mafamude com mais peso identitário e melhor rendimento de desfile. A leitura do género ajuda a afinar a escolha: em Gaia, a edição de 2025 trabalhou um tema comum com subtemas por marcha, e em Lisboa o tema da Grande Marcha serve de inspiração a coreografias e figurinos, num universo em que letra, música, coreografia, cenografia e figurino pesam de forma decisiva. Isso favorece conceitos com imagem central simples, física, visual e imediatamente cantável. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
 
