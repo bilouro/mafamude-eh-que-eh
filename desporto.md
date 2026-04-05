@@ -32,3 +32,12 @@ Com segurança documental, consigo apontar sobretudo duas realidades em Mafamude
 **Pontos não confirmados:** Datas exatas de inauguração e eventuais fases construtivas das instalações referidas.; Existência, localização precisa e cronologia de campos de jogos ou recintos desportivos mais antigos hoje desaparecidos dentro dos limites de Mafamude.  
 
 ---
+## Que outras modalidades desportivas têm tradição em Mafamude para além do futebol?
+
+Com segurança documental, a modalidade que posso apontar como tendo tradição em Mafamude para além do futebol é sobretudo o basquetebol. É a prática extra-futebol mais claramente sustentada por fontes federativas e associativas no contexto local de Mafamude/Vila Nova de Gaia. Há indícios de outras modalidades no meio escolar e em equipamentos locais, mas não as consigo confirmar com a mesma confiança como tradições próprias e continuadas de Mafamude.
+
+**Confiança:** Medium  
+**Fontes:** Portal da Federação Portuguesa de Basquetebol; Portal da Associação de Basquetebol do Porto; Portal da Escola Secundária Almeida Garrett; Portal do Município de Vila Nova de Gaia  
+**Pontos não confirmados:** Uma lista mais ampla de modalidades com tradição especificamente mafamudense.; A antiguidade exata e a continuidade cronológica de outras práticas desportivas para além do basquetebol.  
+
+---

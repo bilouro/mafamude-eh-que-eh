@@ -137,7 +137,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que clubes de futebol existem ou existiram em Mafamude — história, fundação, conquistas?
 - [x] Que desportistas notáveis são naturais ou estão associados a Mafamude?
 - [x] Que instalações desportivas históricas existiram ou existem em Mafamude?
-- [ ] Que outras modalidades desportivas têm tradição em Mafamude para além do futebol?
+- [x] Que outras modalidades desportivas têm tradição em Mafamude para além do futebol?
 
 ---
 
