@@ -41,3 +41,12 @@ Com base no que está documentalmente melhor sustentado, a devoção mais própr
 **Pontos não confirmados:** A existência de devoções populares exclusivas de Mafamude não ficou independentemente confirmada.; A identificação e antiguidade de eventuais cultos secundários exigem documentação paroquial ou confraternal mais detalhada.  
 
 ---
+## Qual foi o papel da Igreja na vida social e cultural de Mafamude nos sécs. XIX e XX?
+
+Em Mafamude, a Igreja teve um papel importante na vida social e cultural dos séculos XIX e XX, mas com funções diferentes em cada período. No século XIX, a paróquia foi um eixo organizador da comunidade: enquadrava os principais ritos de passagem, conservava memória documental da população e estruturava parte do calendário coletivo através do culto e das festividades religiosas. No século XX, sobretudo depois das mudanças políticas e legais de 1911, a Igreja perdeu parte da antiga centralidade civil, mas continuou relevante na cultura local por meio da liturgia, da catequese, das festas, das procissões e do associativismo religioso. O que não posso confirmar com confiança, apenas com as fontes aqui reunidas, é a dimensão exata em Mafamude de obras assistenciais, escolas confessionais ou confrarias específicas ao longo de todo o período.
+
+**Confiança:** Medium  
+**Fontes:** Registos paroquiais de Mafamude; Sistema de Informação para o Património Arquitectónico: ficha da igreja paroquial de Mafamude; Lei da Separação do Estado das Igrejas; Concordata entre a Santa Sé e a República Portuguesa; História Religiosa de Portugal, vol. 3: Religião e Secularização; Dicionário de História Religiosa de Portugal  
+**Pontos não confirmados:** Escala e continuidade de obras de assistência social especificamente eclesiais em Mafamude; Identificação completa de confrarias ou associações católicas locais nos séculos XIX e XX; Cronologia detalhada das mudanças locais no papel da Igreja década a década  
+
+---
