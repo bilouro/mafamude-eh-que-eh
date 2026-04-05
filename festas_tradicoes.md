@@ -41,3 +41,12 @@ Não consigo confirmar com segurança, nesta resposta, uma lista de tradições 
 **Pontos não confirmados:** Nomes concretos de cantigas usadas em Mafamude.; Jogos populares especificamente atestados em Mafamude.; Costumes sazonais próprios e distintivos da localidade.  
 
 ---
+## Que tradições de Mafamude já desapareceram ao longo do séc. XX?
+
+Com base documental segura, eu não daria uma lista fechada de tradições de Mafamude desaparecidas ao longo do século XX. O que se pode sustentar com prudência é algo mais limitado: a urbanização muito intensa da antiga freguesia tornou provável o desaparecimento ou forte retração de costumes ligados à antiga sociabilidade rural e de lugar. Porém, para Mafamude especificamente, não consigo confirmar com confiança quais práticas concretas cessaram, nem quando, sem recorrer a documentação local mais fina, como imprensa de Gaia e do Porto, programas de festas, atas paroquiais, fotografia histórica e recolha oral criticamente tratada.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758: São Cristóvão de Mafamude; Recenseamentos Gerais da População, resultados por freguesia; MatrizPCI - Inventário Nacional do Património Cultural Imaterial; SIPA - Sistema de Informação para o Património Arquitectónico; Portugal Antigo e Moderno  
+**Pontos não confirmados:** Quais festas, romarias ou celebrações locais deixaram efetivamente de se realizar em Mafamude no século XX.; Se práticas como serões, desfolhadas, vindimas comunitárias ou outras formas de convívio rural estão documentalmente comprovadas para Mafamude, e não apenas para freguesias vizinhas.; A cronologia exata do desaparecimento de quaisquer tradições locais específicas.  
+
+---
