@@ -20,10 +20,9 @@ Fluxo (--ideia manual):
   - não toca em ideias.md
 
 Usage:
-    python marcha.py                        # todas as pendentes
-    python marcha.py --limit 2              # só as próximas 2 pendentes
-    python marcha.py --ideia "texto livre"  # ideia manual
-    python marcha.py --config config.ini
+    python src/marcha.py                        # todas as pendentes
+    python src/marcha.py --limit 2              # só as próximas 2 pendentes
+    python src/marcha.py --ideia "texto livre"  # ideia manual
 """
 import argparse
 import json
@@ -33,10 +32,13 @@ from configparser import ConfigParser
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+
 from git_helper import commit_and_push, pull
 from openai import OpenAI
 
-REPO_DIR = Path(__file__).parent
+REPO_DIR = Path(__file__).parent.parent
+SOBRE_DIR = REPO_DIR / "sobre_mafamude"
 MARCHAS_DIR = REPO_DIR / "marchas"
 MARCHAS_INDEX = REPO_DIR / "marchas_criadas.md"
 IDEIAS_FILE = REPO_DIR / "ideias.md"
@@ -46,9 +48,9 @@ IDEIAS_FILE = REPO_DIR / "ideias.md"
 # Config
 # ---------------------------------------------------------------------------
 
-def load_config(config_path: str = "config.ini") -> ConfigParser:
+def load_config(config_path: str = None) -> ConfigParser:
     config = ConfigParser()
-    config.read(config_path, encoding="utf-8")
+    config.read(config_path or str(REPO_DIR / "config.ini"), encoding="utf-8")
     return config
 
 
@@ -113,7 +115,7 @@ def parse_category_file(filepath: Path, category_title: str) -> dict:
 
 
 def parse_all_categories() -> list:
-    backlog_content = (REPO_DIR / "backlog.md").read_text(encoding="utf-8")
+    backlog_content = (SOBRE_DIR / "backlog.md").read_text(encoding="utf-8")
     categories = []
     seen = set()
 
@@ -122,7 +124,7 @@ def parse_all_categories() -> list:
         if m:
             title = m.group(1).strip()
             filename = m.group(2).strip()
-            filepath = REPO_DIR / filename
+            filepath = SOBRE_DIR / filename
             if filename in seen or not filepath.exists():
                 continue
             seen.add(filename)
@@ -506,7 +508,7 @@ def main():
     parser = argparse.ArgumentParser(description="Gerador de marchas — Mafamude")
     parser.add_argument("--ideia", "-i", default=None, help="Ideia criativa manual (texto livre)")
     parser.add_argument("--limit", "-n", type=int, default=None, help="Número máximo de ideias a processar")
-    parser.add_argument("--config", default="config.ini")
+    parser.add_argument("--config", default=str(REPO_DIR / "config.ini"))
     args = parser.parse_args()
 
     pull(str(REPO_DIR))

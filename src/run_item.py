@@ -3,9 +3,9 @@ run_item.py
 Processa UM item do backlog por execução.
 
 Usage:
-    python run_item.py --item 5
-    python run_item.py --next        # primeiro pendente
-    python run_item.py --list
+    python src/run_item.py --item 5
+    python src/run_item.py --next        # primeiro pendente
+    python src/run_item.py --list
 """
 import argparse
 import re
@@ -13,21 +13,20 @@ import sys
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+
 from git_helper import commit_and_push, pull
 from openai_client import ask, load_config
 
-REPO_DIR = Path(__file__).parent
+REPO_DIR = Path(__file__).parent.parent
+SOBRE_DIR = REPO_DIR / "sobre_mafamude"
 
 
 def parse_backlog() -> list:
     """
     Lê backlog.md e devolve lista plana de itens com metadados de categoria.
-    Formato esperado:
-        ## Título da Categoria → [ficheiro.md](ficheiro.md)
-        - [ ] Pergunta pendente
-        - [x] Pergunta concluída
     """
-    content = (REPO_DIR / "backlog.md").read_text(encoding="utf-8")
+    content = (SOBRE_DIR / "backlog.md").read_text(encoding="utf-8")
     items = []
     current_cat = None
     current_file = None
@@ -93,7 +92,7 @@ def md_header(item: dict) -> str:
 
 
 def mark_backlog(question: str):
-    path = REPO_DIR / "backlog.md"
+    path = SOBRE_DIR / "backlog.md"
     content = path.read_text(encoding="utf-8")
     escaped = re.escape(question)
     new = re.sub(rf"- \[ \] ({escaped})", r"- [x] \1", content, count=1)
@@ -103,9 +102,8 @@ def mark_backlog(question: str):
 def process_item(item: dict, n: int, total: int, config) -> bool:
     """
     Executa um item: pesquisa → guarda → marca backlog → commit+push.
-    Devolve True se concluído com sucesso.
     """
-    out_path = REPO_DIR / item["cat_file"]
+    out_path = SOBRE_DIR / item["cat_file"]
     question = item["question"]
 
     if not out_path.exists():
@@ -135,7 +133,7 @@ def process_item(item: dict, n: int, total: int, config) -> bool:
         f"Item {n}/{total} — {item['cat_title']}\n\n"
         f"Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>"
     )
-    commit_and_push(str(REPO_DIR), commit_msg, [str(out_path), str(REPO_DIR / "backlog.md")])
+    commit_and_push(str(REPO_DIR), commit_msg, [str(out_path), str(SOBRE_DIR / "backlog.md")])
 
     return True
 
@@ -145,7 +143,7 @@ def main():
     parser.add_argument("--item", type=int, help="Número do item a processar (1-based)")
     parser.add_argument("--next", action="store_true", help="Processar o primeiro item pendente")
     parser.add_argument("--list", action="store_true", help="Listar todos os itens")
-    parser.add_argument("--config", default="config.ini")
+    parser.add_argument("--config", default=str(REPO_DIR / "config.ini"))
     args = parser.parse_args()
 
     pull(str(REPO_DIR))

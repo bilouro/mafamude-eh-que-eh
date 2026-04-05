@@ -10,6 +10,9 @@ Usage:
 """
 import argparse
 import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
 
 from git_helper import pull
 from openai_client import load_config
@@ -21,7 +24,7 @@ def main():
     parser.add_argument("--category", "-c", help="Filtrar por categoria (cat_key, ex: gastronomia)")
     parser.add_argument("--count", "-n", type=int, help="Número máximo de itens a processar")
     parser.add_argument("--list", "-l", action="store_true", help="Listar categorias e progresso")
-    parser.add_argument("--config", default="config.ini")
+    parser.add_argument("--config", default=str(REPO_DIR / "config.ini"))
     args = parser.parse_args()
 
     pull(str(REPO_DIR))
