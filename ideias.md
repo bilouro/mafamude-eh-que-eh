@@ -312,3 +312,110 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das
 
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas: não depende do arraial genérico, não depende apenas do santo, não depende de inventário histórico nem de património transformado em visita guiada. O seu centro é muito específico e difícil de confundir com outra freguesia: Mafamude como nome que chama e freguesia que responde.
 ```
+
+- [ ]
+```text
+Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer do que Mafamude tem de mais visual, identitário e transformável em desfile. A leitura do género aconselha uma imagem mestra muito clara: em Gaia, as marchas públicas trabalham bem a lógica de tema forte e subtema reconhecível por marcha; em Lisboa, o próprio concurso evidencia a importância conjunta de coreografia, cenografia, figurino, letra, musicalidade, composição original e desfile. Isso favorece conceitos que se percebem logo à primeira vista e que dão refrão imediato. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
+
+titulo_provisorio: Mafamude, Jardim que Sai à Rua
+
+Oportunidades criativas identificadas:
+- usar uma camada muito própria de Mafamude: a convivência entre casas históricas, jardins, memória de quintas e malha urbana viva
+- transformar o que normalmente está por dentro de muros, portões e jardins em explosão popular de rua
+- construir uma marcha visualmente rica sem depender do arraial genérico
+- dar ao compositor um campo lexical quente e popular: jardim, flor, sombra, ferro, portão, muro, folha, cor, varanda, rua, povo
+- criar um refrão em que Mafamude não aparece como postal bonito, mas como terra que abre o peito e floresce em colectivo
+- aproveitar referências públicas reconhecíveis de Mafamude, como a Casa-Museu Teixeira Lopes, a Casa Barbot e Santo Ovídio, sem transformar a marcha numa visita guiada. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/museus/?utm_source=openai))
+
+Riscos de repetição a evitar:
+- não repetir o universo da escultura, atelier, mãos, barro, cinzel e obra colectiva, porque esse eixo já foi explorado
+- não repetir a dramaturgia do adro que cresce para avenida, porque esse arco espacial já foi trabalhado
+- não repetir a ideia do topónimo como motor principal sonoro da marcha
+- não cair numa marcha floral genérica que podia servir qualquer freguesia
+- não fazer Mafamude parecer apenas delicada, romântica ou decorativa; a imagem do jardim tem de ter povo, pulso e orgulho
+- não inventar tradições botânicas, feiras florais ou costumes locais que não estejam sustentados
+
+Título provisório: Mafamude, Jardim que Sai à Rua
+
+Conceito central: Mafamude é apresentada como uma freguesia que, mesmo urbanizada e viva no presente, ainda guarda por dentro jardins, casas, memórias de quintas, sombras antigas e recantos com alma. No São João, esse lado interior deixa de estar escondido: abre portões, atravessa os muros e vem inteiro para a rua, transformando-se em marcha, coro e orgulho popular.
+
+conceito_central: Mafamude como jardim interior de memória e vida, que no São João se abre e floresce em povo na rua.
+
+Ângulo criativo: A proposta não olha para Mafamude como museu nem como simples bairro em festa. O ângulo é este: por detrás da cidade quotidiana existe um Mafamude guardado por dentro, feito de jardins, casas, pátios, sombras e memória. A marcha encena o momento em que esse interior se revela ao povo e se torna espectáculo popular.
+
+angulo_criativo: transformar a memória escondida de jardins, casas e quintas de Mafamude numa saída festiva para a rua, como se a freguesia abrisse os seus portões e florescesse em marcha.
+
+Imagem mestra: Um grande portão abre-se. De dentro não sai silêncio nem contemplação: saem cor, folhas, ferro trabalhado, papel, luz, gente e voz. O jardim deixa de ser recato e passa a ser rua. No fim, percebe-se que o verdadeiro jardim de Mafamude não são apenas as casas e os recantos; é o seu povo quando marcha unido.
+
+imagem_mestra: portões e muros de Mafamude a abrirem-se para libertar um jardim popular de gente, cor e orgulho.
+
+Palavras-chave:
+- Mafamude
+- jardim
+- portão
+- muro
+- sombra
+- flor
+- rua
+- povo
+- cor
+- memória
+- casa
+- quintal
+- orgulho
+
+palavras_chave: [Mafamude, jardim, portão, muro, sombra, flor, rua, povo, cor, memória, casa, quintal, orgulho]
+
+Premissa: A letra e a encenação devem defender que Mafamude tem uma beleza própria que não é de postal vazio nem de decoração sem alma. É uma beleza habitada: feita de lugares com memória, de casas e jardins que resistem dentro da freguesia urbana, e sobretudo de pessoas que mantêm esse fundo vivo. A marcha nasce quando esse Mafamude interior se mostra, abre caminho e vem cantar cá fora.
+
+Porque funciona como marcha: Funciona porque oferece uma metáfora clara, popular e muito visual. Permite contraste dramático entre interior e exterior, sombra e luz, recato e explosão, muro e rua. Dá figurino, dá cenografia, dá vocabulário de refrão e permite um crescendo musical muito limpo: fechado no início, aberto no refrão. Além disso, afasta-se das soluções mais gastas de bairro em arraial ou de elogio abstracto à freguesia.
+
+Arco dramático sugerido:
+- Início: Mafamude aparece recolhida, como se guardasse um segredo por dentro dos seus muros, jardins e casas.
+- Desenvolvimento: começam a abrir-se sinais de vida; surgem sombras, folhas, ferro, varandas, passos e vozes.
+- Viragem: abre-se o portão simbólico de Mafamude; o que estava por dentro transborda para a rua.
+- Explosão de refrão: a freguesia floresce em colectivo e afirma-se como jardim vivo de gente.
+- Fecho: o desfile termina com Mafamude totalmente aberta, luminosa e orgulhosa, como se o bairro inteiro tivesse desabrochado.
+
+Elementos de Mafamude a integrar:
+- Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo, não pelo lado museológico, mas pelo imaginário de casa, jardim e memória artística enraizada em Mafamude. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/museus/?utm_source=openai))
+- Casa Barbot, como sinal visual de casa histórica e jardim escondido dentro da freguesia, útil para sustentar a imagem de elegância popularizada e portão que se abre. ([cm-gaia.pt](https://www.cm-gaia.pt/fotos/editor2/turismo/brochuras_desdobraveis/192510_folhetosturisticos_cmgaia2019_pt_v5_2020_jan_28_153901_r.pdf?utm_source=openai))
+- Santo Ovídio, como foco local reconhecível de encontro e pulsação comunitária, importante para fazer o conceito sair do património e entrar no povo. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2022/08/25/festas-em-honra-de-santo-ovidio/?utm_source=openai))
+- memória de quintas e casas antigas transformadas ou sobreviventes, tratada como fundo poético da marcha e não como inventário histórico fechado
+- Mafamude urbana de hoje, para que a ideia não seja nostálgica nem parada
+- se necessário, referências internas como Cedro, Laborim ou Monte da Virgem apenas como ecos de pertença, sem sobrecarregar a letra com enumerações
+
+Ganchos de refrão sugeridos:
+ganchos_de_refrao_sugeridos:
+- gancho_curto: Mafamude abre em flor
+  intencao: condensar abertura, beleza e explosão colectiva numa frase muito cantável
+  observacao: ideal para refrão principal com subida melódica clara
+- gancho_curto: Jardim que sai à rua
+  intencao: fixar a imagem mestra da marcha
+  observacao: funciona bem como segunda linha de refrão ou remate de estrofe
+- gancho_curto: Porta aberta, Mafamude
+  intencao: dar impulso rítmico e sensação de acolhimento popular
+  observacao: bom para chamada inicial ou resposta do coro
+- gancho_curto: Flor de povo, Mafamude
+  intencao: evitar o floral decorativo e trazer a imagem para a dimensão humana
+  observacao: usar como apoio, não necessariamente como slogan central
+
+Orientações para o compositor:
+orientacoes_para_o_compositor:
+- o_que_a_letra_deve_valorizar: a ideia de interior que se revela, beleza habitada, povo que floresce, orgulho local, mistura entre memória de casas/jardins e vida urbana presente
+- equilibrio_entre_historia_e_festa: a história deve servir apenas como perfume e lastro; a festa tem de comandar o andamento, o brilho e a comunicação imediata
+- tipo_de_refrao_desejado: refrão aberto, ascendente, luminoso, com Mafamude em lugar de destaque e uma imagem muito simples de abertura ou floração colectiva
+- estrutura_recomendada_da_marcha: primeira estrofe mais recolhida e imagética; segunda estrofe a abrir o espaço; ponte curta de libertação; refrão explosivo; repetição final reforçando Mafamude como jardim vivo de gente
+- observacoes_de_cantabilidade: frases curtas, vocabulário concreto, poucos ornamentos verbais, sílabas abertas em palavras como flor, rua, luz, povo; Mafamude deve cair em apoio melódico firme e orgulhoso
+- o_que_evitar_na_letra: excesso de delicadeza lírica, tom turístico, enumeração de património, metáforas demasiado finas ou literárias, clichés de primavera, frases que pareçam fado-canção em vez de marcha popular
+
+Potencial cénico:
+potencial_cenico:
+- cores_ou_ambientes_sugeridos: verde profundo, marfim, azul de azulejo, ferro escuro, terracota, apontamentos de vermelho popular e dourado quente para a explosão final
+- imagens_de_desfile: portões que se abrem, arcos vegetais estilizados, sombras que ganham cor, filas que passam de desenho fechado para frente larga e festiva, povo a “desabrochar” em coreografia
+- elementos_visuais_opcionais: motivos de ferro forjado, flores de papel tratadas com robustez popular, painéis de muro ou portão, leques ou adereços que sugiram folhas e luz sem excesso decorativo, apontamentos de varanda, pátio ou jardim reinterpretados para marcha
+
+Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das três direcções já exploradas. Não entra na metáfora da escultura e da oficina; não se organiza no eixo espacial do adro para a avenida; e não faz do nome Mafamude o motor principal da dramaturgia. O centro aqui é outro: o interior escondido da freguesia a sair para a rua. Isso dá um imaginário novo, um refrão novo e uma cenografia nova.
+
+Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas porque não depende apenas do santo, não depende apenas do arraial, não depende apenas do património artístico e não depende de exaltação vaga do bairro. O que a distingue é a imagem concreta e mafamudense de uma freguesia que abre os seus jardins interiores e se mostra em povo. Essa base é suficientemente popular para marchar e suficientemente própria para não soar intercambiável com outra freguesia.
+```
