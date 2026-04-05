@@ -125,7 +125,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 - [x] Qual é a história completa da Paróquia de São Cristóvão de Mafamude — fundação, párocos notáveis, momentos marcantes?
 - [x] Que outras capelas, cruzeiros ou locais de devoção existem ou existiram em Mafamude?
-- [ ] Que irmandades, confrarias ou associações religiosas actuaram em Mafamude ao longo da história?
+- [x] Que irmandades, confrarias ou associações religiosas actuaram em Mafamude ao longo da história?
 - [ ] Que santos, devoções ou cultos populares são específicos de Mafamude?
 - [ ] Qual foi o papel da Igreja na vida social e cultural de Mafamude nos sécs. XIX e XX?
 - [ ] Como se manifesta a religiosidade popular em Mafamude hoje — práticas, festas, devoções?

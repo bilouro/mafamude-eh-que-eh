@@ -23,3 +23,12 @@ Com a prudência exigida pelas fontes que consigo sustentar aqui, o outro local 
 **Pontos não confirmados:** Lista completa de outras capelas de Mafamude; Existência e identificação de cruzeiros específicos em Mafamude; Cronologia exata e eventual desaparecimento ou deslocação de todos os antigos locais de devoção  
 
 ---
+## Que irmandades, confrarias ou associações religiosas actuaram em Mafamude ao longo da história?
+
+Não posso, com segurança historiográfica, enumerar uma lista completa de irmandades, confrarias ou associações religiosas que tenham actuado em Mafamude ao longo de toda a sua história sem consulta directa da documentação local. A resposta prudente é esta: a confirmação nominal dessas entidades em Mafamude depende das Memórias Paroquiais de 1758, das visitações pastorais, dos livros da fábrica e de eventuais livros ou compromissos próprios das confrarias da paróquia de São Cristóvão de Mafamude. Assim, neste momento, não confirmo com confiança nomes concretos; qualquer lista mais específica ficaria por demonstrar documentalmente.
+
+**Confiança:** Low  
+**Fontes:** Memórias Paroquiais de 1758: freguesia de São Cristóvão de Mafamude; Registos paroquiais e descrições arquivísticas da paróquia de São Cristóvão de Mafamude; Visitações pastorais e documentação paroquial da Diocese do Porto; Inventário patrimonial da igreja paroquial de Mafamude  
+**Pontos não confirmados:** Lista nominal das confrarias e irmandades antigas de Mafamude.; Existência, datas de fundação e duração de associações religiosas dos séculos XIX e XX na paróquia.; Distinção exacta, em Mafamude, entre confraria canonicamente erigida, irmandade, associação pia e simples grupo paroquial.  
+
+---
