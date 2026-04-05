@@ -20,7 +20,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Como se desenvolveu Mafamude no período medieval (séc. XIII–XV) — documentos, propriedades, senhorios?
 - [x] Qual foi o papel da Igreja de São Cristóvão na história de Mafamude desde a sua fundação?
 - [x] Como era Mafamude nos séculos XVII e XVIII — economia, população, estrutura social?
-- [ ] Que impacto teve a industrialização do séc. XIX e início do séc. XX em Mafamude?
+- [x] Que impacto teve a industrialização do séc. XIX e início do séc. XX em Mafamude?
 - [ ] Que acontecimentos históricos marcantes (guerras, epidemias, cheias, conflitos) afectaram Mafamude?
 - [ ] Como se transformou Mafamude ao longo do séc. XX — urbanização, crescimento populacional, mudanças?
 - [ ] Que relação histórica existe entre Mafamude e Vila Nova de Gaia enquanto sede de município?

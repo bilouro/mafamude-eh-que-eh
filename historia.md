@@ -41,3 +41,12 @@ Com prudência histórica, Mafamude nos séculos XVII e XVIII deve ser entendida
 **Pontos não confirmados:** Números exatos de população para o século XVII e para o conjunto do século XVIII.; Peso relativo da vinha, dos cereais e da horticultura na economia local.; Escala real das atividades não agrícolas e da dependência do mercado portuense.  
 
 ---
+## Que impacto teve a industrialização do séc. XIX e início do séc. XX em Mafamude?
+
+Em termos historicamente mais seguros, a industrialização do século XIX e do início do século XX teve em Mafamude sobretudo um impacto demográfico e urbanístico. A freguesia cresceu em população, perdeu progressivamente parte do seu caráter rural e integrou-se cada vez mais no contínuo urbano de Vila Nova de Gaia e na área de influência do Porto. O efeito mais plausível foi a expansão de habitação, comércio, oficinas e serviços ligados à economia industrial regional, mais do que a afirmação inequívoca de Mafamude como grande polo fabril autónomo. A proximidade de áreas industriais gaienses, como as Devesas, ajuda a explicar essa transformação, mas o peso exato da indústria instalada dentro de Mafamude continua insuficientemente documentado nas fontes aqui reunidas.
+
+**Confiança:** Medium  
+**Fontes:** Recenseamentos Gerais da População; Portugal Antigo e Moderno; Dicionário Corográfico de Portugal Continental e Insular; Fábrica de Cerâmica e de Fundição das Devesas  
+**Pontos não confirmados:** Número exato de fábricas e operários em Mafamude no período em causa.; Identificação segura dos ramos industriais predominantes dentro da própria freguesia.; Medição quantitativa do efeito direto do polo das Devesas sobre Mafamude.  
+
+---
