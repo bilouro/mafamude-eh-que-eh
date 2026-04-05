@@ -41,3 +41,12 @@ Com prudência histórica, a resposta é esta: não encontrei, nas fontes de ref
 **Pontos não confirmados:** A existência de um crime famoso especificamente mafamudense com estatuto histórico seguro.; Narrativas locais sobre fundadores, mouros, assombrações, tesouros ou episódios extraordinários sem fonte identificável.; A existência de um cânone folclórico de Mafamude já fixado em estudo etnográfico sólido.  
 
 ---
+## Que superstições, crenças ou práticas populares estavam associadas à vida em Mafamude?
+
+Com a documentação segura que posso citar, não há base forte para listar um conjunto próprio de superstições exclusivamente mafamudenses. O que se pode dizer com prudência é que Mafamude terá provavelmente partilhado práticas populares comuns em Gaia e no Norte português: benzeduras, promessas aos santos, uso de água benta ou ramos bentos como proteção e crença no mau-olhado. Essas práticas estão bem documentadas em etnografia portuguesa e nortenha, mas, para Mafamude em particular, permanecem em grande parte não independentemente confirmadas por recolhas locais fortes.
+
+**Confiança:** Low  
+**Fontes:** Memórias Paroquiais de 1758: Mafamude; Etnografia Portuguesa; Contribuições para uma Mitologia Popular Portuguesa; Sons of Adam, Daughters of Eve: The Peasant Worldview of the Alto Minho  
+**Pontos não confirmados:** Superstições exclusivas de Mafamude; Rituais, fórmulas ou especialistas locais identificáveis; Cronologia exacta e continuidade histórica dessas práticas em Mafamude  
+
+---
