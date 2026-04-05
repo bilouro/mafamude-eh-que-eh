@@ -14,3 +14,12 @@ Com segurança documental, o clube de futebol que consigo identificar em Mafamud
 **Pontos não confirmados:** Lista exaustiva de todos os clubes de futebol que tenham existido em Mafamude.; Data de fundação do Clube de Futebol de Mafamude, sem apoio de documento primário aqui validado.; Palmarés detalhado de conquistas do clube.  
 
 ---
+## Que desportistas notáveis são naturais ou estão associados a Mafamude?
+
+Com o grau de prova exigido, não consigo confirmar com segurança uma lista de desportistas notáveis especificamente naturais ou claramente associados a Mafamude. O que as fontes institucionais permitem afirmar com segurança é mais limitado: há desportistas de grande notoriedade dados como naturais de Vila Nova de Gaia, incluindo Rui Jorge e Vítor Baía, mas essas fontes não bastam para os classificar como sendo de Mafamude em particular. Portanto, a ligação específica a Mafamude permanece, por agora, não confirmada caso a caso.
+
+**Confiança:** Medium  
+**Fontes:** Carta Administrativa Oficial de Portugal; Rui Jorge; Rui Jorge; Vítor Baía; Vítor Baía  
+**Pontos não confirmados:** Ligação residencial, escolar ou clubística de desportistas de Gaia a Mafamude.; Existência de outros desportistas notáveis explicitamente identificados em fontes sólidas como naturais de Mafamude.  
+
+---
