@@ -3,7 +3,7 @@
 > Cada ideia gerada pelo prompt criativo OpenAI.
 > Marcar `[x]` quando a marcha correspondente for criada.
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer dos eixos de Mafamude que têm mais força identitária e melhor rendimento de marcha: a presença cultural da Casa-Museu Teixeira Lopes/Galerias Diogo de Macedo em Mafamude, a raiz paroquial de São Cristóvão e a vitalidade festiva e comunitária ainda visível em torno de Santo Ovídio e do associativismo local. A leitura do género, olhando para Gaia e Lisboa, sugere que funcionam melhor temas com imagem central clara, facilmente traduzível em figurino, coreografia e refrão colectivo. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/museus/?utm_source=openai))
 
