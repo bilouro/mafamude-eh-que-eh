@@ -128,7 +128,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que irmandades, confrarias ou associações religiosas actuaram em Mafamude ao longo da história?
 - [x] Que santos, devoções ou cultos populares são específicos de Mafamude?
 - [x] Qual foi o papel da Igreja na vida social e cultural de Mafamude nos sécs. XIX e XX?
-- [ ] Como se manifesta a religiosidade popular em Mafamude hoje — práticas, festas, devoções?
+- [x] Como se manifesta a religiosidade popular em Mafamude hoje — práticas, festas, devoções?
 
 ---
 

@@ -50,3 +50,12 @@ Em Mafamude, a Igreja teve um papel importante na vida social e cultural dos sé
 **Pontos não confirmados:** Escala e continuidade de obras de assistência social especificamente eclesiais em Mafamude; Identificação completa de confrarias ou associações católicas locais nos séculos XIX e XX; Cronologia detalhada das mudanças locais no papel da Igreja década a década  
 
 ---
+## Como se manifesta a religiosidade popular em Mafamude hoje — práticas, festas, devoções?
+
+Hoje, a religiosidade popular em Mafamude manifesta-se sobretudo em torno da vida paroquial e de devoções locais. O que é mais seguro afirmar é que existe prática religiosa comunitária regular; São Cristóvão continua a ser a referência paroquial de Mafamude; e Santo Ovídio permanece uma devoção local muito visível, pela permanência do templo e do próprio topónimo. Em termos práticos, isso traduz-se em celebrações comunitárias do calendário católico, vida sacramental e festas/devoções locais quando são programadas pela paróquia ou pela comunidade. O que não consigo confirmar com igual segurança, por falta de estudo recente e independente, é a lista exata e a dimensão de todas as festas de rua, procissões ou promessas atualmente em vigor.
+
+**Confiança:** Medium  
+**Fontes:** Anuário Católico de Portugal; Diocese do Porto, diretório paroquial; Sistema de Informação para o Património Arquitectónico (SIPA), ficha da Igreja/Capela de Santo Ovídio, Vila Nova de Gaia; União das Freguesias de Mafamude e Vilar do Paraíso, informação institucional sobre património/localidade; Paróquia de Mafamude, avisos e agenda paroquial  
+**Pontos não confirmados:** A dimensão atual da participação popular nas festas religiosas de Mafamude.; A regularidade anual e a forma concreta de eventuais procissões ou arraiais ligados a devoções locais.; O peso relativo de outras devoções atuais para além de São Cristóvão e Santo Ovídio.  
+
+---
