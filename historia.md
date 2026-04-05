@@ -14,3 +14,12 @@ A evidência documental segura para Mafamude é fraca e sobretudo indireta. O pr
 **Pontos não confirmados:** Data exata da primeira menção documental de Mafamude.; Forma medieval inicial do topónimo que deva ser citada como primeira atestação segura.; Existência de qualquer documento dos séculos X-XIII que refira explicitamente população muçulmana em Mafamude.  
 
 ---
+## Como se desenvolveu Mafamude no período medieval (séc. XIII–XV) — documentos, propriedades, senhorios?
+
+Com prudência documental, Mafamude parece ter-se desenvolvido no período medieval sobretudo como uma comunidade paroquial e rural na órbita de Gaia, e não como um centro urbano autónomo. O dado mais seguro é a antiguidade da paróquia de São Cristóvão e a necessidade de procurar a sua história em documentação dispersa: róis eclesiásticos, inquirições, chancelarias e títulos fundiários. Quanto a propriedades e senhorios, eu não posso confirmar com confiança, a partir das fontes aqui mobilizadas, uma lista fechada de possuidores nem a existência de um senhorio dominante único. A formulação historicamente mais segura é esta: Mafamude tinha provavelmente uma estrutura agrária e paroquial antiga, com direitos e bens repartidos entre vários titulares, mas os nomes concretos dos proprietários, a extensão das terras e a cronologia do desenvolvimento local entre os séculos XIII e XV continuam por apurar mediante pesquisa direta em arquivo.
+
+**Confiança:** Low  
+**Fontes:** Portugaliae Monumenta Historica. Inquisitiones; Catálogo das igrejas, comendas e mosteiros que havia nos reinos de Portugal e Algarve, pelos anos de 1320 e 1321; SIPA - Igreja Paroquial de Mafamude / Igreja de São Cristóvão; Memórias Paroquiais de 1758: Mafamude; O Bispo D. Pedro e a Organização da Diocese do Porto  
+**Pontos não confirmados:** Primeira menção documental medieval exata de Mafamude.; Identificação segura dos principais senhorios e respetiva cronologia entre os séculos XIII e XV.; Inventário detalhado das propriedades medievais da localidade.  
+
+---
