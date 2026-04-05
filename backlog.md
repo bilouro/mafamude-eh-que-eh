@@ -22,7 +22,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Como era Mafamude nos séculos XVII e XVIII — economia, população, estrutura social?
 - [x] Que impacto teve a industrialização do séc. XIX e início do séc. XX em Mafamude?
 - [x] Que acontecimentos históricos marcantes (guerras, epidemias, cheias, conflitos) afectaram Mafamude?
-- [ ] Como se transformou Mafamude ao longo do séc. XX — urbanização, crescimento populacional, mudanças?
+- [x] Como se transformou Mafamude ao longo do séc. XX — urbanização, crescimento populacional, mudanças?
 - [ ] Que relação histórica existe entre Mafamude e Vila Nova de Gaia enquanto sede de município?
 
 ---

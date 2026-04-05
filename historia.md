@@ -59,3 +59,12 @@ Os acontecimentos historicamente mais sólidos com impacto em Mafamude são sobr
 **Pontos não confirmados:** Episódios militares ocorridos especificamente dentro de Mafamude.; Números de mortalidade local em Mafamude durante a pneumónica.; Confirmação de surtos de cólera em Mafamude com base documental direta.; Existência de uma cheia histórica especificamente atribuível a Mafamude.  
 
 ---
+## Como se transformou Mafamude ao longo do séc. XX — urbanização, crescimento populacional, mudanças?
+
+Em termos historicamente seguros, Mafamude transformou-se, ao longo do século XX, de um espaço ainda com componentes periurbanas e áreas abertas numa freguesia fortemente urbanizada de Vila Nova de Gaia. A mudança foi sobretudo visível na segunda metade do século: a população cresceu de forma marcada, o tecido construído tornou-se muito mais contínuo e ganharam peso a habitação, os equipamentos, o comércio e os serviços. A melhor leitura é a de integração progressiva de Mafamude na expansão urbana e metropolitana de Gaia e do Porto. O que não deve ser afirmado com excesso de certeza, sem estudo mais fino, é a cronologia exata de cada fase interna da urbanização ou o peso preciso de cada causa.
+
+**Confiança:** Medium  
+**Fontes:** Recenseamentos da População: séries históricas para a freguesia de Mafamude; Fotografia aérea histórica do território continental (voo de 1947-1948) e cartografia histórica consultável; Plano Diretor Municipal de Vila Nova de Gaia; A Rua da Estrada  
+**Pontos não confirmados:** Os números exatos da população por década não são apresentados aqui, embora existam nas séries censitárias.; O peso relativo da migração, do crescimento natural e de cada infraestrutura concreta na transformação de Mafamude permanece por quantificar nesta resposta.; A velocidade da urbanização em cada zona da antiga freguesia não foi aqui medida de forma parcelar.  
+
+---
