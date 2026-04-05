@@ -4,6 +4,12 @@ Este ficheiro fornece instruções e contexto ao Claude Code para trabalhar nest
 
 ---
 
+## Regras de execução
+
+**NUNCA executar comandos em background.** Todos os comandos devem correr em foreground, com output visível em tempo real. Não usar `run_in_background`, `&`, `nohup` ou equivalentes.
+
+---
+
 ## Scope — projectos a trabalhar
 
 Quando trabalhar com Claude Code, focar **apenas**:
