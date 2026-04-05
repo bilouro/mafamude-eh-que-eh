@@ -594,7 +594,7 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas gastas porque não depende do arraial genérico, não depende apenas do santo, não depende de património convertido em visita guiada e não cai em exaltação vaga do bairro. A sua força está numa imagem popular e específica: Mafamude como freguesia onde toda a gente dá aqui e onde, ao dar aqui, se faz povo.
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer daquilo que melhor serve uma marcha popular: uma imagem central clara, um mecanismo forte para refrão e uma ideia que se deixe traduzir em letra, musicalidade, coreografia, figurino e cenografia. A leitura do género, olhando para Gaia e Lisboa, confirma precisamente isso: em Gaia houve tema comum com subtemas para cada marcha na edição de 2025, e em Lisboa o tema da Grande Marcha serve de inspiração às coreografias e aos figurinos, havendo ainda classificações específicas para coreografia, cenografia, figurino, letra, musicalidade e desfile. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
 
