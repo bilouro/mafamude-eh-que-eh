@@ -32,3 +32,11 @@ Com segurança documental, o nome individual que posso apontar é Rui Jorge, ant
 **Pontos não confirmados:** Não confirmo aqui, com a mesma segurança, outros nomes individuais além de Rui Jorge.; Não confirmo uma lista fechada de desportistas naturais de Mafamude com base apenas nas fontes consultadas nesta resposta.  
 
 ---
+## Que personalidades populares, folclóricas ou lendárias fazem parte da memória colectiva de Mafamude?
+
+Não posso indicar com segurança nomes de personalidades populares, folclóricas ou lendárias que façam parte da memória colectiva de Mafamude com base em documentação sólida e independentemente confirmável. Este ponto permanece incerto. Para uma resposta mais segura, seria necessário um levantamento dirigido de monografias locais, imprensa de Vila Nova de Gaia, arquivos associativos, recolhas etnográficas e testemunhos orais datados e cruzados.
+
+**Confiança:** Low  
+**Pontos não confirmados:** Nomes concretos de figuras populares locais.; Eventuais personagens lendárias associadas especificamente a Mafamude.; O grau real da sua presença na memória colectiva da freguesia.  
+
+---
