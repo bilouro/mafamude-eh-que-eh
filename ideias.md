@@ -688,3 +688,117 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das
 
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas. A diferenciação, por isso, é preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas porque não depende apenas do santo, não vive de património transformado em visita guiada, não assenta no arraial genérico e não cai na exaltação vaga do bairro. O que a distingue é a frase-base muito forte e muito marchável: Mafamude bate certo. Isso dá ao compositor, ao encenador e ao figurinista um eixo simples, popular, visual e musicalmente fértil.
 ```
+
+- [ ]
+```text
+Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer de um eixo que seja ao mesmo tempo muito popular, muito visual e realmente mafamudense. A leitura do género confirma que as marchas funcionam melhor quando assentam numa imagem central clara, com utilidade imediata para letra, coreografia, figurino e refrão; em Gaia, a edição de 2025 trabalhou um tema comum com subtemas por marcha, e em Lisboa as marchas continuam a ser assumidas como símbolo de identidade, pertença e orgulho. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
+
+Oportunidades criativas identificadas:
+- usar Mafamude como freguesia de colectividades, sinais e pertenças visíveis, em vez de cair no bairro genérico em festa
+- transformar a força comunitária de Mafamude numa imagem cénica imediata: estandartes, bandeiras, emblemas, cores e sinais levantados na rua
+- aproveitar o facto de a Festa de Santo Ovídio integrar momentos dedicados às colectividades e ao folclore local, o que dá base real a uma ideia de Mafamude que se apresenta ao mundo pelos seus grupos, pela sua gente e pelos seus símbolos vivos ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2023/09/05/festas-de-santo-ovidio-mafamude-4-dia/?utm_source=openai))
+- ligar São Cristóvão, Santo Ovídio, associativismo, folclore, desporto e orgulho local sem transformar a marcha numa lista de instituições ([mafamude.porto.ecclesia.pt](https://mafamude.porto.ecclesia.pt/?utm_source=openai))
+- criar um refrão muito marchável a partir de verbos físicos e colectivos: levantar, erguer, trazer, mostrar, ir à frente
+
+Riscos de repetição a evitar:
+- não repetir a marcha genérica de arraial e rua sem imagem própria
+- não voltar ao universo já explorado da escultura, oficina, barro, cinzel, obra e mãos
+- não repetir a expansão espacial do adro para a avenida
+- não repetir o topónimo como motor principal sonoro da ideia
+- não repetir jardim, retrato, revelação, encontro ou compasso como eixo central
+- não transformar a proposta numa parada institucional, fria ou burocrática
+- não cair em heráldica pesada ou linguagem militar; o estandarte aqui é popular, afectivo e festivo
+
+Título provisório:
+Mafamude Levanta Estandartes
+
+titulo_provisorio: Mafamude Levanta Estandartes
+
+Conceito central:
+Mafamude é apresentada como uma freguesia que se reconhece e se mostra através dos seus sinais colectivos. Cada lugar, cada memória e cada grupo traz a sua cor, o seu pano, o seu emblema humano. Na noite de São João, esses sinais não aparecem dispersos: levantam-se todos e fazem um só orgulho de Mafamude.
+
+conceito_central: Mafamude como freguesia que sobe à rua de estandarte erguido, transformando a pluralidade das suas pertenças num só corpo popular.
+
+Ângulo criativo:
+Em vez de representar Mafamude por um único monumento, por um postal ou por uma metáfora mais abstracta, a proposta representa-a como desfile de pertenças vivas. O centro não é a coisa exibida; é o gesto de levantar. Mafamude não surge apenas como terra com memória. Surge como terra que levanta os seus sinais, os seus grupos e o seu nome com brio popular.
+
+angulo_criativo: usar a imagem do estandarte popular para dizer que Mafamude se faz de várias pertenças visíveis, todas erguidas pela mesma gente.
+
+Imagem mestra:
+Primeiro vêem-se panos fechados, fitas recolhidas e emblemas ainda por abrir. Depois começam a erguer-se, de vários pontos de Mafamude, diferentes cores e sinais. No momento do refrão, todos esses estandartes alinham-se e percebe-se que o grande estandarte final não pertence a um grupo isolado: pertence a Mafamude inteira.
+
+imagem_mestra: uma rua de Mafamude onde vários estandartes sobem ao mesmo tempo até formarem um grande céu de cor, orgulho e pertença.
+
+Palavras-chave:
+- Mafamude
+- estandarte
+- bandeira
+- emblema
+- colectividades
+- São Cristóvão
+- Santo Ovídio
+- folclore
+- bairro
+- orgulho
+- cor
+- rua
+
+palavras_chave: [Mafamude, estandarte, bandeira, emblema, colectividades, São Cristóvão, Santo Ovídio, folclore, bairro, orgulho, cor, rua]
+
+Premissa:
+A letra e a encenação devem defender que Mafamude não se resume a uma só imagem. Tem raiz paroquial viva em São Cristóvão, vida festiva reconhecível em torno de Santo Ovídio e tecido associativo real, com grupos e protocolos públicos que mostram continuidade comunitária; essa matéria permite transformar a freguesia numa grande frente de símbolos vivos, sem inventar tradições que não estejam confirmadas. ([mafamude.porto.ecclesia.pt](https://mafamude.porto.ecclesia.pt/?utm_source=openai)) A ideia forte é esta: cada pedaço de Mafamude traz o seu sinal, mas no São João todos esses sinais sobem juntos.
+
+Porque funciona como marcha:
+Funciona porque tem imagem imediata, vocabulário corporal e grande fertilidade cénica. “Levantar”, “erguer”, “mostrar” e “ir à frente” são verbos de muita força marchável. A proposta dá ao compositor um refrão claro e ascendente, à coreografia um gesto colectivo muito legível e ao figurino uma base visual consistente. Além disso, encaixa bem na lógica pública das marchas, que valorizam identidade local, leitura instantânea do tema e forte capacidade de desfile. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
+
+Arco dramático sugerido:
+- Início: Mafamude aparece recolhida, como se os seus sinais ainda estivessem dobrados.
+- Desenvolvimento: surgem diferentes pulsões da freguesia — fé, colectividade, folclore, rua, orgulho local.
+- Viragem: os estandartes começam a levantar-se e a alinhar-se.
+- Explosão de refrão: Mafamude afirma-se inteira, de estandarte erguido.
+- Fecho: a marcha termina com sensação de frente unida, como se a freguesia inteira marchasse por baixo do mesmo pano simbólico.
+
+Elementos de Mafamude a integrar:
+- São Cristóvão de Mafamude, como referência comunitária viva e fundo de continuidade local ([mafamude.porto.ecclesia.pt](https://mafamude.porto.ecclesia.pt/?utm_source=openai))
+- Santo Ovídio, como foco festivo e espaço onde as colectividades ganham visibilidade pública ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2023/09/05/festas-de-santo-ovidio-mafamude-4-dia/?utm_source=openai))
+- Grupo de Danças e Cantares de Mafamude, como sinal de cultura popular activa e útil para sustentar a ideia de emblema vivo ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2022/09/01/xxi-festival-de-folclore-do-grupo-de-dancas-e-cantares-de-mafamude/?utm_source=openai))
+- Centro Recreativo de Mafamude e a própria ligação pública a “Marchas”, útil para reforçar que a imagem do estandarte não é abstracta mas nasce de chão associativo real ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/protocolos-com-entidades/?utm_source=openai))
+- tecido local de clubes e grupos apoiados pela junta, sem necessidade de os enumerar em excesso na letra ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/protocolos-com-entidades/?utm_source=openai))
+- Santo Ovídio e Largo Estevão Torres como imaginário de apresentação pública, desde que tratados poeticamente e não como mapa seco ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2022/09/01/xxi-festival-de-folclore-do-grupo-de-dancas-e-cantares-de-mafamude/?utm_source=openai))
+
+Ganchos de refrão sugeridos:
+ganchos_de_refrao_sugeridos:
+- gancho_curto: Levanta, Mafamude
+  intencao: criar um arranque imediato, físico e colectivo
+  observacao: muito útil como primeiro impacto do refrão, com resposta forte do coro
+- gancho_curto: De estandarte erguido
+  intencao: fixar a imagem mestra da marcha
+  observacao: ideal como segunda linha ou remate de refrão
+- gancho_curto: Mafamude vai à frente
+  intencao: dar impulso, brio e projecção popular
+  observacao: bom para acentuação marcial sem perder alegria festiva
+- gancho_curto: Uma só bandeira, tanta gente
+  intencao: humanizar o conceito e mostrar unidade na pluralidade
+  observacao: usar como apoio, não necessariamente como slogan principal
+
+Orientações para o compositor:
+orientacoes_para_o_compositor:
+- o_que_a_letra_deve_valorizar: orgulho local, gesto de erguer, vida colectiva, sinais de pertença, alegria de rua, dignidade popular de Mafamude
+- equilibrio_entre_historia_e_festa: a história deve entrar apenas como lastro comunitário; a festa e o brio colectivo têm de comandar a marcha
+- tipo_de_refrao_desejado: refrão aberto, ascendente, muito coral, com Mafamude em posição forte e verbo de acção logo no impacto
+- estrutura_recomendada_da_marcha: abertura com sinais ainda recolhidos; desenvolvimento com levantamento progressivo; ponte curta de preparação; refrão explosivo; fecho com reforço de unidade e orgulho
+- observacoes_de_cantabilidade: frases curtas, verbos físicos, sílabas abertas, boa sustentação da palavra Mafamude e muito espaço para resposta do coro
+- o_que_evitar_na_letra: enumeração de colectividades, tom de protocolo, excesso de brasões ou termos heráldicos, linguagem demasiado solene, clichés de arraial sem marca própria e qualquer formulação que pudesse servir outra freguesia quase sem mudar palavras
+
+Potencial cénico:
+potencial_cenico:
+- cores_ou_ambientes_sugeridos: vermelho profundo, azul-noite, marfim, dourado quente e apontamentos de verde ou cobre para enriquecer os estandartes
+- imagens_de_desfile: panos que se abrem, fitas que sobem, alas que entram com sinais diferentes e acabam alinhadas, frente final muito larga como grande bandeira humana
+- elementos_visuais_opcionais: estandartes estilizados, emblemas abstractos, lenços, faixas, varas leves, trabalho de mangas e braços que simule o acto de erguer, sem cair em literalismo pesado ou militarizado
+
+Diferenciação face a ideias anteriores:
+Esta proposta afasta-se claramente das ideias já trabalhadas. Não faz de Mafamude uma obra plástica, nem uma expansão do adro para a avenida, nem um nome que chama, nem um jardim escondido, nem um retrato que ganha cor, nem simples ponto de encontro, nem pulso ou compasso colectivo. O seu centro é outro: a freguesia a apresentar-se por sinais levantados. A dramaturgia deixa de ser oficina, crescimento, eco, floração, revelação, convergência ou ritmo; passa a ser elevação simbólica e orgulho exposto.
+
+Diferenciação face a marchas já feitas:
+Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas gastas porque não depende apenas do santo, não depende do arraial genérico, não depende de património transformado em visita guiada e não vive só de exaltação vaga do bairro. O que oferece de próprio é uma imagem muito utilizável e pouco banal: Mafamude a levantar os seus estandartes humanos e a transformar essa pluralidade num só brio popular.
+```
