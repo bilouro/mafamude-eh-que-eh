@@ -31,3 +31,12 @@ Não posso, com segurança histórica, listar nesta resposta nomes concretos de 
 **Pontos não confirmados:** Nomes específicos de estabelecimentos históricos de Mafamude.; Datas de abertura, encerramento ou continuidade de casas antigas.; Quais desses estabelecimentos ainda existem atualmente.  
 
 ---
+## Que produtos locais — peixe do Douro, vinho de Gaia, hortícolas — estão associados à gastronomia de Mafamude?
+
+Com rigor histórico, eu não diria que 'peixe do Douro, vinho de Gaia e hortícolas' sejam todos, no mesmo grau, produtos identitários de Mafamude. A ligação mais sólida é a do vinho associado a Gaia, mas sobretudo como vinho do Douro armazenado, envelhecido e comerciado em Gaia, não como vinho próprio de Mafamude. Os hortícolas são a associação local mais plausível para Mafamude, por integração no espaço agrícola e de abastecimento de Gaia, embora eu não consiga confirmar uma especialidade hortícola mafamudense concreta. Já o peixe do Douro pertence mais seguramente à gastronomia ribeirinha do Douro e de Gaia em sentido amplo do que a uma tradição especificamente documentada de Mafamude.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758; Instituto dos Vinhos do Douro e do Porto (portal institucional); O vinho do Porto; Recenseamento Agrícola; Carta Administrativa Oficial de Portugal; Cozinha Tradicional Portuguesa  
+**Pontos não confirmados:** Quais hortícolas concretos eram reputados como típicos de Mafamude.; Existência de pratos mafamudenses especificamente ligados ao peixe do Douro.; Qualquer produção vínica própria de Mafamude que justifique a expressão 'vinho de Gaia' em sentido estritamente local.  
+
+---

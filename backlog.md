@@ -55,7 +55,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Quais são os pratos típicos e tradicionais da zona de Mafamude e da orla ribeirinha de Gaia?
 - [x] Que doces, pães ou confeitaria são ou foram tradicionais em Mafamude?
 - [x] Que tascas, cafés, tabernas ou restaurantes históricos existiram ou existem em Mafamude?
-- [ ] Que produtos locais — peixe do Douro, vinho de Gaia, hortícolas — estão associados à gastronomia de Mafamude?
+- [x] Que produtos locais — peixe do Douro, vinho de Gaia, hortícolas — estão associados à gastronomia de Mafamude?
 - [ ] Que festas ou feiras gastronómicas acontecem ou aconteceram em Mafamude?
 
 ---
