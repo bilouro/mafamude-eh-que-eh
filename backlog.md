@@ -96,7 +96,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que lendas locais existem em Mafamude — sobre o rio, a igreja, lugares ou personagens?
 - [x] Que histórias de bairro ou memórias colectivas são transmitidas oralmente em Mafamude?
 - [x] Que personagens populares, excêntricos ou pitorescos fazem parte da memória de Mafamude?
-- [ ] Que acontecimentos insólitos, crimes famosos ou episódios marcantes fazem parte do folclore de Mafamude?
+- [x] Que acontecimentos insólitos, crimes famosos ou episódios marcantes fazem parte do folclore de Mafamude?
 - [ ] Que superstições, crenças ou práticas populares estavam associadas à vida em Mafamude?
 
 ---

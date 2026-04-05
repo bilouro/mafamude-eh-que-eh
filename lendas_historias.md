@@ -32,3 +32,12 @@ Com base em fontes seguras que posso invocar aqui com prudência, não consigo c
 **Pontos não confirmados:** Quaisquer nomes, alcunhas ou episódios transmitidos oralmente em Mafamude sem confirmação documental independente.; A existência de uma lista localmente reconhecida e historicamente comprovada de "figuras típicas" de Mafamude.  
 
 ---
+## Que acontecimentos insólitos, crimes famosos ou episódios marcantes fazem parte do folclore de Mafamude?
+
+Com prudência histórica, a resposta é esta: não encontrei, nas fontes de referência mais seguras sobre Mafamude, um conjunto bem documentado de crimes famosos ou de acontecimentos insólitos que possa ser apresentado com segurança como folclore próprio da localidade. O que surge com mais consistência é antes a tradição explicativa em torno do nome Mafamude, por vezes ligado a origem árabe ou islâmica; isso deve ser tratado como hipótese toponímica e memória local, não como episódio histórico comprovado. Se houver histórias mafamudenses de crimes, casos extraordinários ou lendas de bairro, eu não as consigo confirmar com confiança sem pesquisa dirigida em imprensa antiga de Gaia e do Porto, processos judiciais e recolha oral.
+
+**Confiança:** Low  
+**Fontes:** Memórias Paroquiais de 1758, freguesia de Mafamude; Portugal Antigo e Moderno, verbete Mafamude; Grande Enciclopédia Portuguesa e Brasileira, verbete Mafamude; Dicionário Onomástico Etimológico da Língua Portuguesa  
+**Pontos não confirmados:** A existência de um crime famoso especificamente mafamudense com estatuto histórico seguro.; Narrativas locais sobre fundadores, mouros, assombrações, tesouros ou episódios extraordinários sem fonte identificável.; A existência de um cânone folclórico de Mafamude já fixado em estudo etnográfico sólido.  
+
+---
