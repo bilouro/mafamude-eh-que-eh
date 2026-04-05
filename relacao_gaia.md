@@ -32,3 +32,12 @@ Mafamude distingue-se sobretudo pelo seu perfil urbano-central dentro de Vila No
 **Pontos não confirmados:** Não existe um critério único e inteiramente objetivo para definir a 'identidade' de Mafamude face a todas as outras freguesias do concelho.; A ideia de uma personalidade cultural completamente singular de Mafamude não pode ser afirmada com segurança apenas com a documentação disponível.  
 
 ---
+## Como é que a fronteira entre Mafamude/Gaia e o Porto se manifesta na identidade local?
+
+A leitura historicamente mais segura é que, em Mafamude, a fronteira com o Porto se manifesta menos como uma separação urbana ou cultural rígida e mais como uma distinção de pertença municipal. Ou seja: o quotidiano insere Mafamude na área urbana do Porto, mas a identificação cívica continua a ser de Gaia, com uma camada local própria de Mafamude. Como Mafamude não é a frente ribeirinha diretamente oposta ao Porto, essa condição fronteiriça tende a ser vivida de forma mais metropolitana do que ribeirinha.
+
+**Confiança:** Medium  
+**Fontes:** Lei n.º 11-A/2013; Carta Administrativa Oficial de Portugal (CAOP); Censos 2021: Resultados definitivos; Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar; A Rua da Estrada  
+**Pontos não confirmados:** Não está aqui demonstrado, por estudo direto de campo, um padrão único de autoidentificação dos moradores de Mafamude.; A intensidade dessa identidade fronteiriça não pode ser quantificada com segurança apenas com as fontes usadas.  
+
+---
