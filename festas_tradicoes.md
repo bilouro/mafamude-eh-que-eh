@@ -23,3 +23,12 @@ Com prudência histórica, eu não afirmaria hoje um repertório de tradições 
 **Pontos não confirmados:** Arraiais identificáveis por nome ou lugar dentro de Mafamude; Existência de fogueira pública regular em Mafamude; Costumes exclusivos ou distintivos da freguesia  
 
 ---
+## Que romarias, procissões ou festas religiosas marcavam o calendário de Mafamude?
+
+Com base nas fontes mais seguras que consigo sustentar, a devoção mais claramente ligada a festa ou romaria em Mafamude é a do Senhor do Bonfim, centrada na capela/santuário homónimo. Santo Ovídio foi também um foco religioso histórico muito importante de Mafamude e deve ter marcado o calendário devocional local, embora as fontes aqui reunidas confirmem melhor a importância do culto do que o detalhe exato das suas procissões anuais. Para além destes dois núcleos, não consigo confirmar com confiança, em fontes fortes e independentes, uma lista completa de todas as romarias, procissões ou festas religiosas que marcaram Mafamude ao longo do tempo.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758: Mafamude; Capela do Senhor do Bonfim; Capela de Santo Ovídio; Portugal Antigo e Moderno, verbete "Mafamude"  
+**Pontos não confirmados:** datas exatas anuais das festas; lista completa das procissões locais; continuidade do mesmo calendário religioso em todos os períodos históricos  
+
+---
