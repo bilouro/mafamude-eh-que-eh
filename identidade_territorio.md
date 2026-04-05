@@ -14,3 +14,12 @@ De forma cautelosa, "Mafamude" deve ser entendido como topónimo de origem árab
 **Pontos não confirmados:** A primeira ocorrência documental datada do topónimo.; A sequência completa e cronologicamente segura das grafias medievais.; A identificação absolutamente definitiva do antropónimo árabe de base sem exame diplomático mais estreito.  
 
 ---
+## Quais são as fronteiras geográficas actuais de Mafamude e como evoluíram historicamente?
+
+Em termos administrativos estritos, Mafamude não tem hoje fronteiras próprias autónomas: desde 2013 integra a União das Freguesias de Mafamude e Vilar do Paraíso, em Vila Nova de Gaia. Assim, a fronteira oficialmente vigente é a da própria união de freguesias, tal como consta da cartografia administrativa atual. Se a pergunta se refere ao território histórico de Mafamude, esse corresponde à antiga freguesia civil ainda existente até 2013 e identificável na cartografia oficial anterior à reforma. Quanto à evolução histórica, o que se pode afirmar com segurança é que Mafamude está documentada pelo menos em 1758 como freguesia, manteve-se como unidade paroquial/civil de Gaia na época contemporânea e perdeu autonomia administrativa própria com a reorganização de 2013. Para um traçado exato e comparado das fronteiras em cada época, é necessário recorrer à cartografia oficial de cada momento; com as fontes aqui reunidas, não é seguro afirmar uma continuidade rigorosa e inalterada dos limites desde períodos mais antigos.
+
+**Confiança:** Medium  
+**Fontes:** Lei n.º 11-A/2013; Carta Administrativa Oficial de Portugal; Carta Administrativa Oficial de Portugal; Censos 2011: Resultados definitivos; Memórias Paroquiais de 1758: Mafamude  
+**Pontos não confirmados:** O traçado pormenorizado, por arruamentos ou marcos físicos atuais, da antiga fronteira de Mafamude.; A evolução exata dos limites antes da época moderna e a eventual existência de alterações intermédias não documentadas nesta resposta.  
+
+---
