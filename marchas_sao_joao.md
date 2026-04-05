@@ -13,3 +13,12 @@ Não posso fornecer com confiança um histórico completo das participações de
 **Pontos não confirmados:** Anos concretos de participação de Mafamude; Número total de participações; Classificações e prémios obtidos; Identificação exata das entidades que representaram Mafamude em cada edição  
 
 ---
+## Em que anos Mafamude ganhou ou foi premiada no concurso de marchas?
+
+Não consigo confirmar com segurança em que anos Mafamude ganhou ou foi premiada no 'concurso de marchas', porque a pergunta não identifica o certame exato nem o tipo de prémio, e não disponho aqui de uma série documental anual validada. Se estiver a referir-se às Marchas Populares de Gaia, a resposta segura exige confirmação edição a edição em classificações oficiais, programas municipais, atas de júri e imprensa contemporânea. Se quiser, posso tentar responder de forma rigorosa se indicar qual concurso é e, idealmente, o intervalo de anos.
+
+**Confiança:** Low  
+**Fontes:** Marchas Populares de Gaia; Arquivo Municipal Sophia de Mello Breyner Andresen  
+**Pontos não confirmados:** Os anos exatos em que Mafamude venceu.; Os anos exatos em que Mafamude recebeu prémios parcelares.; Se o concurso referido é o certame municipal de Gaia ou outro concurso de marchas.  
+
+---
