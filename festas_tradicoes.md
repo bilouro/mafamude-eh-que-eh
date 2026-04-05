@@ -50,3 +50,12 @@ Com base documental segura, eu não daria uma lista fechada de tradições de Ma
 **Pontos não confirmados:** Quais festas, romarias ou celebrações locais deixaram efetivamente de se realizar em Mafamude no século XX.; Se práticas como serões, desfolhadas, vindimas comunitárias ou outras formas de convívio rural estão documentalmente comprovadas para Mafamude, e não apenas para freguesias vizinhas.; A cronologia exata do desaparecimento de quaisquer tradições locais específicas.  
 
 ---
+## Que festas de bairro ou eventos comunitários existem actualmente em Mafamude?
+
+Não posso confirmar com segurança, a partir de fontes institucionais estáveis e sem uma consulta datada muito recente, uma lista fechada de festas de bairro ou eventos comunitários que existam atualmente em Mafamude. O que se pode afirmar com confiança é que a programação local, quando existe, é normalmente divulgada pela União das Freguesias de Mafamude e Vilar do Paraíso e pela Câmara Municipal de Vila Nova de Gaia. Se indicar um ano, mês ou evento específico, a resposta pode ser dada de forma mais segura e verificável.
+
+**Confiança:** Low  
+**Fontes:** Lei n.º 11-A/2013; União das Freguesias de Mafamude e Vilar do Paraíso; Câmara Municipal de Vila Nova de Gaia; Carta Administrativa Oficial de Portugal  
+**Pontos não confirmados:** Quais são, neste momento, as festas de bairro concretas em Mafamude.; Se determinadas festas tradicionais continuam ativas no presente ano.; A periodicidade exata e o caráter anual de cada evento comunitário local.  
+
+---

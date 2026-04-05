@@ -67,7 +67,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que romarias, procissões ou festas religiosas marcavam o calendário de Mafamude?
 - [x] Que tradições populares (cantigas, jogos, costumes sazonais) existiam em Mafamude?
 - [x] Que tradições de Mafamude já desapareceram ao longo do séc. XX?
-- [ ] Que festas de bairro ou eventos comunitários existem actualmente em Mafamude?
+- [x] Que festas de bairro ou eventos comunitários existem actualmente em Mafamude?
 
 ---
 
