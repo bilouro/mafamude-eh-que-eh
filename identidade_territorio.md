@@ -23,3 +23,12 @@ Em termos administrativos estritos, Mafamude não tem hoje fronteiras próprias 
 **Pontos não confirmados:** O traçado pormenorizado, por arruamentos ou marcos físicos atuais, da antiga fronteira de Mafamude.; A evolução exata dos limites antes da época moderna e a eventual existência de alterações intermédias não documentadas nesta resposta.  
 
 ---
+## Qual o papel do Rio Douro na identidade histórica e quotidiana de Mafamude?
+
+O rio Douro teve um papel importante na identidade histórica e quotidiana de Mafamude, mas sobretudo de forma indireta. Mafamude deve ser entendida no contexto de Vila Nova de Gaia, cuja história urbana, comercial e simbólica depende fortemente do Douro e da relação com o Porto. Assim, o rio ajudou a moldar Mafamude menos como frente ribeirinha própria e mais como parte de um espaço urbano articulado pela margem sul do Douro. No quotidiano, isso traduziu-se principalmente em mobilidade entre Gaia e Porto, proximidade a atividades económicas estruturadas pela zona ribeirinha e inserção numa paisagem urbana marcada pelo rio. O que não posso confirmar com confiança, sem investigação local mais detalhada, é que o Douro tenha definido de modo direto e singular toda a identidade própria de Mafamude.
+
+**Confiança:** Medium  
+**Fontes:** Carta Administrativa Oficial de Portugal; Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar; A History of the Port Wine Trade and Its People; Ponte Luiz I  
+**Pontos não confirmados:** A proporção de moradores de Mafamude historicamente dependentes de profissões diretamente ligadas ao Douro não está aqui demonstrada.; Não identifiquei, com base suficiente, práticas quotidianas especificamente mafamudenses que possam ser atribuídas exclusivamente ao rio.  
+
+---
