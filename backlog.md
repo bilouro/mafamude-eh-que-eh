@@ -9,7 +9,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Qual a origem e evolução do nome "Mafamude" — étimo árabe, formas medievais documentadas?
 - [x] Quais são as fronteiras geográficas actuais de Mafamude e como evoluíram historicamente?
 - [x] Qual o papel do Rio Douro na identidade histórica e quotidiana de Mafamude?
-- [ ] Quais são o brasão, símbolos oficiais e lema da freguesia de Mafamude?
+- [x] Quais são o brasão, símbolos oficiais e lema da freguesia de Mafamude?
 - [ ] Como evoluiu a organização administrativa de Mafamude desde 1834 até à união de freguesias?
 
 ---

@@ -32,3 +32,12 @@ O rio Douro teve um papel importante na identidade histórica e quotidiana de Ma
 **Pontos não confirmados:** A proporção de moradores de Mafamude historicamente dependentes de profissões diretamente ligadas ao Douro não está aqui demonstrada.; Não identifiquei, com base suficiente, práticas quotidianas especificamente mafamudenses que possam ser atribuídas exclusivamente ao rio.  
 
 ---
+## Quais são o brasão, símbolos oficiais e lema da freguesia de Mafamude?
+
+Com segurança, posso afirmar que os símbolos oficiais de uma freguesia portuguesa são o brasão, a bandeira e o selo. No caso de Mafamude, não devo indicar a composição exata do brasão sem o respetivo documento heráldico específico, porque não o consigo confirmar aqui com confiança. Quanto a lema oficial, não encontrei confirmação segura de que existisse, e o lema não integra os símbolos oficiais previstos na lei. Convém ainda notar que Mafamude, desde 2013, integra a União das Freguesias de Mafamude e Vilar do Paraíso.
+
+**Confiança:** Medium  
+**Fontes:** Lei n.º 53/91, de 7 de agosto; Lei n.º 11-A/2013, de 28 de janeiro; Carta Administrativa Oficial de Portugal  
+**Pontos não confirmados:** A blasonação exata do brasão da antiga freguesia de Mafamude.; A existência de um lema oficialmente aprovado para Mafamude.  
+
+---
