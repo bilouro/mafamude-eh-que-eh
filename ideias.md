@@ -106,7 +106,7 @@ Diferenciação face a ideias anteriores: Não foram fornecidas ideias anteriore
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas. A diferenciação preventiva desta ideia assenta em quatro pontos: não depende de slogan vazio; não usa apenas a noite de São João como cenário; não se fecha numa narrativa religiosa; e transforma um património cultural real de Mafamude num conceito popular, visual e marchável, com identidade suficiente para compositor, figurino e encenação. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/museus/?utm_source=openai))
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer de um contraste muito próprio de Mafamude: a permanência documental de núcleos e lugares como Santo Ovídio, Laborim e Monte da Virgem, ao mesmo tempo que Mafamude participa do centro urbano e cívico de Gaia. Olhando para a linguagem pública das marchas, tanto em Lisboa como em Gaia, percebe-se que os conceitos mais férteis são os que se deixam traduzir em figurino, coreografia, cenografia e refrão colectivo, sempre com forte orgulho de bairro/freguesia. A melhor leitura criativa, aqui, é transformar Mafamude num lugar de passagem viva entre raiz antiga e cidade presente. ([egeac.pt](https://egeac.pt/wp-content/uploads/2024/06/festas24-marchaspopulares-revista-web.pdf))
 
