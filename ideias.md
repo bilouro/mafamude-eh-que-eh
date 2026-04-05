@@ -313,7 +313,7 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas, por isso a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas: não depende do arraial genérico, não depende apenas do santo, não depende de inventário histórico nem de património transformado em visita guiada. O seu centro é muito específico e difícil de confundir com outra freguesia: Mafamude como nome que chama e freguesia que responde.
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer do que Mafamude tem de mais visual, identitário e transformável em desfile. A leitura do género aconselha uma imagem mestra muito clara: em Gaia, as marchas públicas trabalham bem a lógica de tema forte e subtema reconhecível por marcha; em Lisboa, o próprio concurso evidencia a importância conjunta de coreografia, cenografia, figurino, letra, musicalidade, composição original e desfile. Isso favorece conceitos que se percebem logo à primeira vista e que dão refrão imediato. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
 
