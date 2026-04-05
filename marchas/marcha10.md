@@ -8,16 +8,16 @@
 
 ## Conceito
 
-**Conceito central:** Mafamude é cantada como terra de base funda e passo firme, onde memória, rua, fé e transformação urbana assentam no mesmo chão popular.
+**Conceito central:** Mafamude surge como freguesia de base funda e passo firme: um chão vivo onde memória, fé, cultura e bairro sustentam a marcha e levantam o povo em São João.
 
-**Ângulo criativo:** Usar o chão como imagem física e emocional de Mafamude: não como pavimento literal, mas como sinal de pertença, firmeza, raiz e avanço colectivo em noite de São João.
+**Ângulo criativo:** Usar o chão como imagem física e emocional de pertença, firmeza e continuidade, ligando a raiz antiga de Mafamude à sua força urbana e comunitária de hoje.
 
 **Ideia de origem:**
-> Mafamude como freguesia de chão vivo, onde a memória local sustenta o passo colectivo e dá à terra uma força popular própria, com um refrão assente na frase-identidade 'Mafamude tem chão'.
+> Ideia de Mafamude como freguesia de chão vivo, onde pertença, pedra, passo, raiz e transformação urbana se unem num refrão-identidade forte: “Mafamude tem chão”.
 
-**Modo de aproveitamento:** integral
+**Modo de aproveitamento:** parcial
 
-**Conceito final adoptado:** A marcha apresenta Mafamude como lugar de base firme: o chão guarda memória antiga, reconhece marcos vivos como São Cristóvão, Santo Ovídio e a Casa-Museu, e transforma essa base num passo coral de desfile.
+**Conceito final adoptado:** Adoptei integralmente o eixo simbólico do chão e o título proposto, mas filtrei os elementos factuais mais cantáveis para construir uma marcha de passo firme, coral e muito centrada na pertença mafamudense.
 
 ---
 
@@ -25,77 +25,76 @@
 
 ### Estrofe 1
 
-No teu chão mora a memória  
+Nesta pedra há voz guardada  
 *(regular)*  
-pedra viva, antiga voz  
-*(8 tempos, boa projecção)*  
-São Cristóvão guarda o passo  
+há memória a resistir  
 *(regular)*  
-que inda marcha entre nós  
-*(8 tempos, fecho limpo)*  
+São Cristóvão dá-te a guarda  
+*(8 tempos, apoio central)*  
+para o povo prosseguir  
+*(regular)*  
 
 ### Estrofe 2
 
-Santo Ovídio acende a noite  
+Santo Ovídio chama a rua  
+*(8 tempos, boa projecção)*  
+logo a rua dá sinal  
 *(regular)*  
-e a rua fica a brilhar  
-*(8 tempos, boa oralidade)*  
-na Casa-Museu repousa  
+quando um bairro pisa certo  
 *(regular)*  
-o que o povo quer guardar  
-*(8 tempos, respiração natural)*  
+faz-se um corpo popular  
+*(ataque forte no final)*  
 
 ### Estrofe 3
 
-Do caminho fez-se cidade  
+Casa-Museu guarda o tempo  
+*(8 tempos, boa dicção)*  
+e a cidade cresce assim  
 *(regular)*  
-sem perder casa e quintal  
-*(8 tempos, imagem simples)*  
-hoje Mafamude faz-se rua  
+Mafamude cresce inteira  
 *(8 tempos, ataque forte no topónimo)*  
-numa frente popular  
+sem perder o que já foi  
 *(regular)*  
 
 ### Refrão
 
-Mafamude tem chão  
-*(8 tempos, ataque forte no topónimo)*  
-chão firme no coração  
-*(8 tempos, apoio coral)*  
-quando o povo acerta o passo  
+Ai, Mafamude tem chão  
+*(8 tempos, gancho principal)*  
+chão de pedra e coração  
 *(regular)*  
-vai Mafamude em canção  
-*(8 tempos, fecho cantável)*  
+quando o povo marca o passo  
+*(8 tempos, boa resposta coral)*  
+vai à frente em São João  
+*(fecho forte de refrão)*  
 
 ### Final
 
-Mafamude tem chão  
-*(8 tempos, ataque forte no topónimo)*  
+Ai, Mafamude tem chão  
+*(repetição eficaz)*  
 chão de brio e tradição  
-*(8 tempos, boa projecção)*  
-quando o povo acerta o passo  
 *(regular)*  
-é Mafamude em São João  
-*(8 tempos, fecho de desfile)*  
+São Cristóvão dá-te a raiz  
+*(8 tempos, apoio central)*  
+e rebentas no São João  
+*(fecho festivo)*  
 
 ---
 
 ## Elementos de Mafamude utilizados
 
-- **São Cristóvão** — Surge como guardião simbólico do passo e da continuidade comunitária de Mafamude.
-- **Santo Ovídio** — Aparece como foco de luz e presença pública que acende a noite e leva Mafamude à rua.
-- **Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo** — É usada como casa de memória cultural, sem regressar ao campo metafórico da escultura e do atelier.
-- **Transformação de espaço antigo para freguesia urbana e central** — É condensada na passagem 'Do caminho fez-se cidade', ligando passado e presente sem cronologia escolar.
-- **Sobreposição de matriz antiga com rua urbana atual** — Aparece em imagens como chão, pedra, casa, quintal e rua, para traduzir continuidade vivida.
+- **São Cristóvão de Mafamude** — Usado como raiz comunitária e guarda simbólica da memória local, sem afirmar datas ou rituais não confirmados.
+- **Santo Ovídio** — Surge como foco público e reconhecível de rua e convocação popular dentro de Mafamude.
+- **Casa-Museu Teixeira Lopes** — Aparece como lugar que guarda tempo e memória cultural, sem regressar ao tema escultórico das marchas anteriores.
+- **Transformação de Mafamude em freguesia urbana e central** — Foi convertida em imagem simples de crescimento contínuo: Mafamude cresce inteira sem perder a base.
 
 ---
 
 ## Fontes consultadas
 
 - [Marchas de São João Gaia 25](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai) _noticia_
-- [Paróquia de Mafamude](https://mafamude.porto.ecclesia.pt/?utm_source=openai) _outro_
+- [Paróquia de Mafamude](https://mafamude.porto.ecclesia.pt/?utm_source=openai) _arquivo_
 - [Festas em Honra de Santo Ovídio](https://www.mafamudevilarparaiso.pt/2022/08/25/festas-em-honra-de-santo-ovidio/?utm_source=openai) _noticia_
-- [Museus - União das Freguesias de Mafamude e Vilar do Paraíso](https://www.mafamudevilarparaiso.pt/museus/?utm_source=openai) _outro_
+- [Museus - União das Freguesias de Mafamude e Vilar do Paraíso](https://www.mafamudevilarparaiso.pt/museus/?utm_source=openai) _arquivo_
 
 ---
 
@@ -108,5 +107,5 @@ quando o povo acerta o passo
 ---
 
 <!-- METADATA
-{"titulo": "Mafamude Tem Chão", "ano": 2026, "origem": "Mafamude", "tema": "Mafamude é cantada como terra de base funda e passo firme, onde memória, rua, fé e transformação urbana assentam no mesmo chão popular.", "letra": "Estrofe 1:\nNo teu chão mora a memória\npedra viva, antiga voz\nSão Cristóvão guarda o passo\nque inda marcha entre nós\n\nEstrofe 2:\nSanto Ovídio acende a noite\ne a rua fica a brilhar\nna Casa-Museu repousa\no que o povo quer guardar\n\nEstrofe 3:\nDo caminho fez-se cidade\nsem perder casa e quintal\nhoje Mafamude faz-se rua\nnuma frente popular\n\nRefrão:\nMafamude tem chão\nchão firme no coração\nquando o povo acerta o passo\nvai Mafamude em canção\n\nFinal:\nMafamude tem chão\nchão de brio e tradição\nquando o povo acerta o passo\né Mafamude em São João", "observacoes": "Usar o chão como imagem física e emocional de Mafamude: não como pavimento literal, mas como sinal de pertença, firmeza, raiz e avanço colectivo em noite de São João."}
+{"titulo": "Mafamude Tem Chão", "ano": 2026, "origem": "Mafamude", "tema": "Mafamude surge como freguesia de base funda e passo firme: um chão vivo onde memória, fé, cultura e bairro sustentam a marcha e levantam o povo em São João.", "letra": "Estrofe 1:\nNesta pedra há voz guardada\nhá memória a resistir\nSão Cristóvão dá-te a guarda\npara o povo prosseguir\n\nEstrofe 2:\nSanto Ovídio chama a rua\nlogo a rua dá sinal\nquando um bairro pisa certo\nfaz-se um corpo popular\n\nEstrofe 3:\nCasa-Museu guarda o tempo\ne a cidade cresce assim\nMafamude cresce inteira\nsem perder o que já foi\n\nRefrão:\nAi, Mafamude tem chão\nchão de pedra e coração\nquando o povo marca o passo\nvai à frente em São João\n\nFinal:\nAi, Mafamude tem chão\nchão de brio e tradição\nSão Cristóvão dá-te a raiz\ne rebentas no São João", "observacoes": "Usar o chão como imagem física e emocional de pertença, firmeza e continuidade, ligando a raiz antiga de Mafamude à sua força urbana e comunitária de hoje."}
 -->

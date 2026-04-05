@@ -16,3 +16,4 @@
 | 8 | [Mafamude Levanta Estandartes](marchas/marcha08.md) | Mafamude sobe à rua de estandarte erguido, juntando fé, folclore, grupos e memór |
 | 9 | [Mafamude, Janela em Janela](marchas/marcha09.md) | Mafamude acende-se de dentro para fora: a noite começa nas casas, passa pelas ja |
 | 10 | [Mafamude Tem Chão](marchas/marcha10.md) | Mafamude é cantada como terra de base funda e passo firme, onde memória, rua, fé |
+| 10 | [Mafamude Tem Chão](marchas/marcha10.md) | Mafamude surge como freguesia de base funda e passo firme: um chão vivo onde mem |
