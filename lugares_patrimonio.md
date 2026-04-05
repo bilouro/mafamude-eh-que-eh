@@ -50,3 +50,12 @@ Com base apenas no que consigo confirmar com segurança, o exemplo mais nítido 
 **Pontos não confirmados:** Lista nominativa de edifícios históricos demolidos em Mafamude no século XX.; Datas e circunstâncias de demolição de quintas e casas antigas específicas.  
 
 ---
+## O que revelam os nomes das ruas de Mafamude sobre a história e identidade local?
+
+Os nomes das ruas de Mafamude revelam sobretudo uma identidade histórica composta por várias camadas. Em termos cautelosos, eles podem indicar três coisas: primeiro, a persistência de algumas memórias locais ou territoriais quando a designação remete para lugares, devoções ou referências descritivas; segundo, a ação da memória pública moderna, quando os arruamentos recebem nomes honoríficos ou cívicos; terceiro, a integração de Mafamude no centro urbano de Vila Nova de Gaia, onde a toponímia deixa de ser apenas local e passa também a exprimir escolhas municipais e nacionais. Portanto, a leitura mais segura é esta: a toponímia de Mafamude não revela uma identidade única e contínua, mas sim a sobreposição de memória local antiga com processos posteriores de urbanização e homenagem pública. O que não posso confirmar com confiança, sem estudo documental rua a rua, é a antiguidade exata de cada nome e o peso relativo de cada camada histórica.
+
+**Confiança:** Medium  
+**Fontes:** GeoPortal do Município de Vila Nova de Gaia; Pesquisa de Códigos Postais; Opúsculos, vol. III: Onomatologia; Dicionário Onomástico Etimológico da Língua Portuguesa  
+**Pontos não confirmados:** Cronologia precisa da atribuição de cada nome de rua em Mafamude.; Percentagem de topónimos antigos face a designações comemorativas modernas.; Ligação direta de cada antropónimo da toponímia à história específica de Mafamude.  
+
+---
