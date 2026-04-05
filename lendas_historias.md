@@ -14,3 +14,12 @@ Com o estado da documentação que consigo confirmar com segurança, não há um
 **Pontos não confirmados:** Existência de lendas orais ainda vivas mas não publicadas em fontes fiáveis.; Qualquer narrativa específica sobre o rio, fundação da igreja, túneis, tesouros, mouras, milagres ou personagens locais de Mafamude.  
 
 ---
+## Que histórias de bairro ou memórias colectivas são transmitidas oralmente em Mafamude?
+
+Com prudência histórica, a resposta é: eu não encontro base documental segura para enumerar histórias de bairro oralmente transmitidas especificamente em Mafamude como um conjunto confirmado. O que se pode dizer, de forma apenas provável, é que a memória colectiva local poderá incidir sobre a antiga configuração rural da freguesia, a vida paroquial e festiva, lugares e edifícios marcantes, e as mudanças trazidas pela urbanização de Gaia no século XX. Mas, sem recolhas orais identificadas e criticamente trabalhadas, isso não deve ser apresentado como tradição oral comprovada de Mafamude.
+
+**Confiança:** Low  
+**Fontes:** Memórias Paroquiais de 1758: Mafamude; Portugal Antigo e Moderno; Arquivo Municipal Sophia de Mello Breyner Andresen; Sistema de Informação para o Património Arquitectónico; União das Freguesias de Mafamude e Vilar do Paraíso  
+**Pontos não confirmados:** Quais são exactamente as histórias de bairro hoje transmitidas em Mafamude.; A antiguidade e a difusão real dessas memórias entre os moradores.; Se existem lendas ou narrativas locais específicas já publicadas com base documental suficiente.  
+
+---
