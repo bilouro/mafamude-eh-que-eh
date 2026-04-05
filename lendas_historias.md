@@ -23,3 +23,12 @@ Com prudência histórica, a resposta é: eu não encontro base documental segur
 **Pontos não confirmados:** Quais são exactamente as histórias de bairro hoje transmitidas em Mafamude.; A antiguidade e a difusão real dessas memórias entre os moradores.; Se existem lendas ou narrativas locais específicas já publicadas com base documental suficiente.  
 
 ---
+## Que personagens populares, excêntricos ou pitorescos fazem parte da memória de Mafamude?
+
+Com base em fontes seguras que posso invocar aqui com prudência, não consigo confirmar com confiança nomes concretos de personagens populares, excêntricos ou pitorescos que façam parte, de forma documentalmente estabelecida, da memória de Mafamude. Isso não significa que tais figuras não tenham existido na tradição local; significa apenas que, sem cruzamento de hemeroteca, arquivos associativos e paroquiais e testemunhos orais criticamente verificados, seria imprudente apresentar nomes ou episódios como factos históricos confirmados.
+
+**Confiança:** Low  
+**Fontes:** Memórias Paroquiais de 1758: Mafamude; Portugal Antigo e Moderno, verbete "Mafamude"; Grande Enciclopédia Portuguesa e Brasileira, verbete "Mafamude"; Dicionário Corográfico de Portugal Continental e Insular, verbete "Mafamude"  
+**Pontos não confirmados:** Quaisquer nomes, alcunhas ou episódios transmitidos oralmente em Mafamude sem confirmação documental independente.; A existência de uma lista localmente reconhecida e historicamente comprovada de "figuras típicas" de Mafamude.  
+
+---
