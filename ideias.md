@@ -689,7 +689,7 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente das
 Diferenciação face a marchas já feitas: Não foram fornecidas marchas já feitas. A diferenciação, por isso, é preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas porque não depende apenas do santo, não vive de património transformado em visita guiada, não assenta no arraial genérico e não cai na exaltação vaga do bairro. O que a distingue é a frase-base muito forte e muito marchável: Mafamude bate certo. Isso dá ao compositor, ao encenador e ao figurinista um eixo simples, popular, visual e musicalmente fértil.
 ```
 
-- [ ]
+- [x]
 ```text
 Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer de um eixo que seja ao mesmo tempo muito popular, muito visual e realmente mafamudense. A leitura do género confirma que as marchas funcionam melhor quando assentam numa imagem central clara, com utilidade imediata para letra, coreografia, figurino e refrão; em Gaia, a edição de 2025 trabalhou um tema comum com subtemas por marcha, e em Lisboa as marchas continuam a ser assumidas como símbolo de identidade, pertença e orgulho. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
 
