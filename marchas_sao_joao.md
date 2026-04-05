@@ -22,3 +22,11 @@ Não consigo confirmar com segurança em que anos Mafamude ganhou ou foi premiad
 **Pontos não confirmados:** Os anos exatos em que Mafamude venceu.; Os anos exatos em que Mafamude recebeu prémios parcelares.; Se o concurso referido é o certame municipal de Gaia ou outro concurso de marchas.  
 
 ---
+## Que colectividades ou grupos organizaram as marchas de Mafamude ao longo dos anos?
+
+Não posso confirmar com confiança, apenas com base em evidência historicamente segura disponível neste contexto, que colectividades ou grupos organizaram as marchas de Mafamude ao longo dos anos. Para responder com rigor, seria necessário verificar a organização ano a ano em programas das festas, jornais locais e arquivos de associações de Mafamude e de Vila Nova de Gaia.
+
+**Confiança:** Low  
+**Pontos não confirmados:** Lista cronológica dos organizadores.; Identificação nominal de cada colectividade responsável.; Mudanças de organização entre diferentes anos ou décadas.  
+
+---

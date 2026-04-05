@@ -145,7 +145,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 - [x] Qual é o histórico completo de participações de Mafamude no concurso de Marchas de São João de Gaia?
 - [x] Em que anos Mafamude ganhou ou foi premiada no concurso de marchas?
-- [ ] Que colectividades ou grupos organizaram as marchas de Mafamude ao longo dos anos?
+- [x] Que colectividades ou grupos organizaram as marchas de Mafamude ao longo dos anos?
 - [ ] Que temas, letras ou conceitos criativos foram usados em edições anteriores das marchas de Mafamude?
 - [ ] Qual é o formato e critérios do concurso Marchas de São João de Vila Nova de Gaia?
 - [ ] Como se compara o concurso de Gaia com as Marchas de Santo António de Lisboa em termos de formato e tradição?
