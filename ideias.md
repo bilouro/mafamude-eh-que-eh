@@ -1108,3 +1108,98 @@ Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente de 
 
 Diferenciação face a marchas já feitas: Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas saturadas porque não depende apenas do santo, não vive do arraial genérico, não transforma património em visita guiada e não cai em exaltação abstracta do bairro. O que oferece de distintivo é um emblema muito concreto e pouco banal dentro de Mafamude: o Cedro como sinal toponímico e afectivo convertido em grande imagem de marcha. Isso dá ao compositor, ao figurinista e ao encenador um eixo novo, identitário, visual e muito utilizável.
 ```
+
+- [ ]
+```text
+Leitura da direcção inicial: Como o campo inicial vem vazio, a proposta deve nascer dos sinais de Mafamude com maior rendimento de rua, de coro e de imagem. A leitura pública do género confirma que a marcha ganha força quando parte de um tema muito legível, com identidade local clara e tradução imediata em letra, figurino, cenografia e coreografia. Em Mafamude, o peso público de Santo Ovídio, a presença das colectividades nas festas, a utilização do Largo Estevão Torres para momentos de folclore e a própria ressonância autárquica da expressão Feira Antiga nesse largo abrem um caminho novo e popular para o conceito. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
+
+Oportunidades criativas identificadas:
+- transformar Mafamude numa praça viva, em vez de mais uma freguesia apenas em festa
+- usar a imagem da feira e do pregão como mecanismo musical, coral e cénico
+- dar ao compositor um refrão de chamada-resposta muito popular, sem repetir a ideia do topónimo como único motor
+- cruzar fé, colectividades, cultura popular, memória artística e vida urbana como se cada uma montasse a sua banca de identidade
+- aproveitar Santo Ovídio e o Largo Estevão Torres como chão simbólico de apresentação pública, sem fazer da marcha um mapa
+- explorar um imaginário de toldos, cor, vozes, banca, roda, tabuleiro, azáfama e orgulho local
+- usar a feira como metáfora de Mafamude a mostrar-se inteira, e não como afirmação fechada de um passado documentalmente total
+
+Riscos de repetição a evitar:
+- não repetir o bairro genérico em arraial
+- não voltar aos campos já explorados: oficina, escultura, adro/avenida, nome que chama, jardim, retrato, encontro, compasso, estandarte, janela, chão ou cedro
+- não transformar a ideia numa feira medieval caricatural
+- não inventar uma tradição histórica contínua de feira local que o material recebido não comprova por si só
+- não encher a letra de produtos, bancas e pregões literais ao ponto de perder Mafamude humana
+- não diluir Mafamude em Gaia; a praça é mafamudense, mesmo quando comunica centralidade urbana
+
+Título provisório: Mafamude Dá Pregão
+
+titulo_provisorio: Mafamude Dá Pregão
+
+Conceito central: Mafamude é apresentada como freguesia que sabe vir à praça e mostrar o que tem de mais seu. Não põe à venda mercadoria; põe à vista identidade. Cada memória, cada lugar e cada colectividade entra como se abrisse a sua banca de cor e de voz, até que a freguesia inteira se transforma numa grande feira popular de pertença.
+
+conceito_central: Mafamude como praça viva onde a identidade local se anuncia em pregão, se mostra em cor e se confirma em coro.
+
+Ângulo criativo: Em vez de tratar Mafamude como postal, monumento ou simples bairro em festa, a proposta trata-a como acto de apresentação pública. Mafamude não aparece só a dançar; aparece a dar pregão de si própria. O foco está no gesto popular de abrir, chamar, mostrar e afirmar. A feira aqui é imagem cénica e emocional, não reconstituição histórica rígida.
+
+angulo_criativo: usar a metáfora da praça e do pregão para fazer de Mafamude uma freguesia que expõe com orgulho a sua voz colectiva.
+
+Imagem mestra: Um grande toldo abre-se em Mafamude. De dentro não saem mercadorias, mas sinais vivos da freguesia: fé, folclore, memória, bairro, colectividades, cor e povo. As vozes começam separadas, como pequenos pregões. No refrão, tudo se junta e a praça inteira passa a ter um só nome: Mafamude.
+
+imagem_mestra: Mafamude a abrir a sua grande praça popular, onde cada banca é uma voz e o conjunto vira marcha.
+
+Palavras-chave:
+palavras_chave: [Mafamude, praça, pregão, feira, toldo, banca, voz, cor, orgulho, Santo Ovídio, colectividades, povo]
+
+Premissa: A letra e a encenação devem defender que Mafamude é terra de presença pública forte. Há um lastro comunitário real em torno de São Cristóvão, Santo Ovídio, do Grupo de Danças e Cantares de Mafamude, do Centro Recreativo de Mafamude e da Casa-Museu Teixeira Lopes em Mafamude; esse lastro permite construir uma marcha em que a freguesia se apresenta como praça viva de muitos sinais, sem cair em inventário seco. A ideia não precisa de afirmar uma cronologia exacta de feira antiga; basta assumir que Mafamude tem voz, lugar e matéria humana para se mostrar como grande praça popular. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/protocolos-com-entidades/?utm_source=openai))
+
+Porque funciona como marcha: Funciona porque tem teatralidade imediata e grande potencial de refrão. O pregão é ritmo, chamada, resposta, repetição e memória oral. A praça é figura clara de desfile. O conceito permite começo de expectativa, desenvolvimento de azáfama, explosão coral e fecho muito afirmativo. Além disso, diferencia-se bem de soluções saturadas de arraial genérico, porque Mafamude não surge apenas a festejar: surge a apresentar-se em público, com brio próprio.
+
+Arco dramático sugerido:
+- Início: a praça ainda está por abrir; há sinais de preparação, panos, vozes curtas, expectativa.
+- Desenvolvimento: começam a aparecer bancas simbólicas de Mafamude, cada uma trazendo um rosto da freguesia.
+- Viragem: os pregões deixam de estar soltos e começam a responder uns aos outros.
+- Explosão de refrão: Mafamude toma conta da praça e dá o seu grande pregão colectivo.
+- Fecho: a praça inteira vira povo unido; já não há bancas separadas, há uma só Mafamude em voz alta.
+
+Elementos de Mafamude a integrar:
+- Santo Ovídio, como foco público e festivo muito reconhecível em Mafamude, com festas locais e presença destacada das colectividades
+- Largo Estevão Torres, como espaço de apresentação pública e de folclore integrado nas festas de Santo Ovídio
+- São Cristóvão de Mafamude, como raiz comunitária e emocional
+- Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo, como sinal de memória cultural concreta em Mafamude
+- Grupo de Danças e Cantares de Mafamude e Centro Recreativo de Mafamude, como prova de corpo associativo e performativo vivo
+- ecos de Laborim ou de outras zonas internas, se servirem para dar capilaridade local, sem transformar a letra numa enumeração
+- a ideia de Feira Antiga apenas como ressonância e imaginário local de praça, não como facto histórico totalizante a martelar. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2022/08/25/festas-em-honra-de-santo-ovidio/?utm_source=openai))
+
+Ganchos de refrão sugeridos:
+ganchos_de_refrao_sugeridos:
+- gancho_curto: Dá pregão, Mafamude
+  intencao: criar assinatura muito popular, com verbo de acção forte e espaço para resposta do coro
+  observacao: deve ser o eixo principal do refrão, com acento claro no topónimo
+- gancho_curto: Vem à praça, Mafamude
+  intencao: reforçar a imagem mestra e puxar a marcha para a rua
+  observacao: excelente como primeira chamada ou segunda linha de refrão
+- gancho_curto: Abre o toldo do orgulho
+  intencao: ligar abertura cénica e afirmação identitária
+  observacao: bom para ponte antes da explosão principal, não necessariamente como slogan central
+- gancho_curto: Toda a praça é tua voz
+  intencao: transformar o espaço público em extensão do coro mafamudense
+  observacao: usar como remate ou resposta, evitando tom demasiado lírico
+
+Orientações para o compositor:
+orientacoes_para_o_compositor:
+- o_que_a_letra_deve_valorizar: Mafamude em acto de se mostrar, orgulho local, vozes populares, apresentação pública da freguesia, colectividades, praça e energia humana
+- equilibrio_entre_historia_e_festa: usar a história apenas como pano de fundo e ressonância; a festa, a rua e o pregão têm de mandar na pulsação da marcha
+- tipo_de_refrao_desejado: refrão de chamada-resposta, muito coral, curto, com verbo forte logo no impacto e Mafamude em posição de destaque
+- estrutura_recomendada_da_marcha: abertura curta de preparação da praça; estrofe de aparecimento das vozes; segunda estrofe de crescimento e azáfama; ponte de chamada; refrão explosivo; fecho com repetição reforçada do gancho principal
+- observacoes_de_cantabilidade: privilegiar frases curtas, sílabas abertas, verbos físicos como abrir, mostrar, chamar, trazer, dar; evitar linguagem descritiva longa; Mafamude deve cair em apoio melódico seguro e orgulhoso
+- o_que_evitar_na_letra: medievalismo de fantasia, caricatura de mercado, enumeração de produtos, folclorismo pesado, tom turístico, inventário de instituições e qualquer frase que pudesse servir a outra freguesia quase sem mudar palavras
+
+Potencial cénico:
+potencial_cenico:
+- cores_ou_ambientes_sugeridos: vermelho popular, azul-noite, linho cru, dourado quente, apontamentos de verde e terracota para dar corpo de praça e festa
+- imagens_de_desfile: toldos que abrem, alas como bancas simbólicas, tabuleiros de cor, frentes que se respondem como pregões, desenho final de praça cheia e unida
+- elementos_visuais_opcionais: riscas de toldo, cestos ou tabuleiros estilizados, fitas suspensas, placas gráficas abstractas de banca, aventais ou lenços tratados com robustez popular, evitando literalismo excessivo
+
+Diferenciação face a ideias anteriores: Esta proposta afasta-se claramente de todas as linhas já trabalhadas. Não faz de Mafamude uma obra, nem um crescimento espacial, nem um nome-sonoridade, nem jardim, nem retrato, nem simples ponto de encontro, nem compasso, nem estandarte, nem casa acesa, nem chão, nem árvore-emblema. O seu centro é outro: praça e pregão. A dramaturgia deixa de ser expansão, revelação, acendimento, firmeza ou verticalidade e passa a ser apresentação pública, azáfama e voz colectiva.
+
+Diferenciação face a marchas já feitas: Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas gastas porque não depende só do santo, não vive do arraial genérico, não cai na exaltação abstracta do bairro e não transforma o património em visita guiada. O que oferece de distintivo é uma imagem muito marchável e pouco usada no histórico recebido: Mafamude a dar pregão de si própria, convertendo praça, colectividade e orgulho num só corpo de desfile.
+```
