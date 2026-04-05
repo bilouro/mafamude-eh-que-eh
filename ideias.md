@@ -802,3 +802,106 @@ Esta proposta afasta-se claramente das ideias já trabalhadas. Não faz de Mafam
 Diferenciação face a marchas já feitas:
 Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas gastas porque não depende apenas do santo, não depende do arraial genérico, não depende de património transformado em visita guiada e não vive só de exaltação vaga do bairro. O que oferece de próprio é uma imagem muito utilizável e pouco banal: Mafamude a levantar os seus estandartes humanos e a transformar essa pluralidade num só brio popular.
 ```
+
+- [ ]
+```text
+Leitura da direcção inicial: Como o campo inicial vem vazio, a melhor via é procurar um eixo muito visual, nocturno e coral que nasça da Mafamude habitada, e não do arraial genérico. A leitura do género ajuda: em Gaia, as marchas podem partir de um tema comum com subtemas por marcha; em Lisboa, o concurso valoriza explicitamente coreografia, figurino, cenografia, letra e música. Isso favorece conceitos com imagem mestra simples, desdobrável e imediatamente legível em desfile. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
+
+Oportunidades criativas identificadas:
+- transformar Mafamude numa freguesia que se revela de dentro para fora, em vez de apenas aparecer já pronta na rua
+- usar a noite e a luz como motor popular, criando progressão dramática clara para a marcha
+- trabalhar uma cadeia de janelas, peitoris, varandas e vozes que se acendem umas às outras, sugerindo vizinhança, pertença e presença colectiva
+- integrar sinais reais de Mafamude sem inventário pesado: a vida comunitária de São Cristóvão, a visibilidade pública de Santo Ovídio, a memória de casa e atelier da Casa-Museu Teixeira Lopes/Galerias Diogo de Macedo e o lastro das colectividades locais, incluindo o Grupo de Danças e Cantares de Mafamude. ([mafamude.porto.ecclesia.pt](https://mafamude.porto.ecclesia.pt/?utm_source=openai))
+
+Riscos de repetição a evitar:
+- não cair na imagem demasiado típica da rapariga à janela ou da varanda fadista, que desviaria Mafamude para um imaginário pouco próprio
+- não repetir a festa de rua genérica sem imagem central forte
+- não voltar aos campos já explorados: oficina/escultura, adro/avenida, nome que chama, jardim escondido, retrato, encontro, compasso ou estandarte
+- não transformar a luz em mero efeito decorativo; a luz tem de significar gente dentro, casa viva, freguesia acordada
+- não sugerir como tradição confirmada um repertório joanino especificamente mafamudense que o material factual não comprova
+
+Título provisório:
+Mafamude, Janela em Janela
+
+titulo_provisorio: Mafamude, Janela em Janela
+
+Conceito central: Mafamude surge como uma freguesia que se mostra por camadas de vida. Primeiro vê-se a casa, a janela, o sinal de presença. Depois percebe-se que cada luz acesa é uma voz. Quando essas vozes se somam, Mafamude inteira deixa de ser apenas cenário nocturno e transforma-se em marcha popular.
+
+conceito_central: Mafamude como freguesia que se acende de dentro para fora, até a sua vida doméstica e comunitária se tornar coro, rua e orgulho.
+
+Ângulo criativo: Em vez de apresentar Mafamude por um monumento, por um santo isolado ou por uma metáfora abstracta, a proposta mostra-a como território habitado. O foco está no instante em que o que é íntimo se torna colectivo: a luz da janela passa para a rua, a rua passa para o desfile, e o desfile passa a ser a própria freguesia em voz alta.
+
+angulo_criativo: usar a imagem de janelas acesas e de luzes em cadeia para dizer que Mafamude é uma terra de presença humana contínua, que no São João se revela toda ao mesmo tempo.
+
+Imagem mestra: Cai a noite. Em vários pontos de Mafamude começam a acender-se janelas. Não são luzes soltas: cada uma traz um rosto, uma casa, um pedaço de bairro. Aos poucos, essas luzes descem simbolicamente à rua e ganham corpo humano. No refrão, já não há apenas janelas acesas; há Mafamude inteira iluminada em gente.
+
+imagem_mestra: uma sequência de janelas de Mafamude a acender-se até formar uma grande frente popular de luz, voz e orgulho.
+
+Palavras-chave:
+- Mafamude
+- janela
+- peitoril
+- luz
+- noite
+- vizinhança
+- casa
+- rua
+- voz
+- bairro
+- acender
+- orgulho
+
+palavras_chave: [Mafamude, janela, peitoril, luz, noite, vizinhança, casa, rua, voz, bairro, acender, orgulho]
+
+Premissa: A letra e a encenação devem defender que Mafamude não é apenas passagem nem apenas memória; é presença humana visível. Há um Mafamude de dentro, feito de casas, vizinhos, rotina, fé, cultura e encontro comunitário. A marcha encena o momento em que esse Mafamude interior se acende todo e vem para a rua, sem perder intimidade nem ganhar tom turístico. A beleza não está na arquitectura por si só; está no sinal de vida que ela contém.
+
+Porque funciona como marcha: Funciona porque oferece um mecanismo simples e forte: uma luz chama outra, uma voz soma-se a outra, uma frente abre a seguinte. Isso dá progressão musical, refrão de verbo activo e grande clareza cénica. Também funciona porque respeita a lógica pública do género, em que o tema precisa de render simultaneamente em letra, música, figurino, cenografia e coreografia. ([gaiacultura.pt](https://www.gaiacultura.pt/pt/agenda-cultural/marchas-de-sao-joao-gaia-25/?utm_source=openai))
+
+Arco dramático sugerido:
+- Início: noite pousada sobre Mafamude; atmosfera mais recolhida, quase de expectativa.
+- Desenvolvimento: começam a surgir sinais de vida nas janelas, nas casas e nos vários pontos da freguesia.
+- Viragem: as luzes deixam de estar separadas; respondem umas às outras e criam corrente colectiva.
+- Explosão de refrão: Mafamude acende-se toda e desce à rua em povo.
+- Fecho: sensação de freguesia inteira acordada, luminosa e orgulhosa, como se nenhuma janela tivesse ficado apagada.
+
+Elementos de Mafamude a integrar:
+- São Cristóvão de Mafamude, como raiz comunitária viva e presença continuada da paróquia. ([mafamude.porto.ecclesia.pt](https://mafamude.porto.ecclesia.pt/?utm_source=openai))
+- Santo Ovídio, como foco público e festivo reconhecível, com lugar de destaque para as colectividades. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2023/09/05/festas-de-santo-ovidio-mafamude-4-dia/?utm_source=openai))
+- Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo, não para regressar ao tema da escultura, mas para reforçar a ideia de casa habitada, interior com memória e luz cultural própria. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/museus/?utm_source=openai))
+- Grupo de Danças e Cantares de Mafamude e tecido associativo local, como prova de que Mafamude não é silêncio atrás de paredes; é comunidade que aparece e se mostra. ([mafamudevilarparaiso.pt](https://www.mafamudevilarparaiso.pt/2022/09/01/xxi-festival-de-folclore-do-grupo-de-dancas-e-cantares-de-mafamude/?utm_source=openai))
+- referências internas como Santo Ovídio, Laborim ou Monte da Virgem podem entrar apenas como ecos de pertença, nunca como enumeração seca
+
+Ganchos de refrão sugeridos:
+ganchos_de_refrao_sugeridos:
+- gancho_curto: Acende, Mafamude
+  intencao: criar comando directo, popular e imediatamente coral
+  observacao: excelente para refrão principal, com subida melódica clara na palavra acende
+- gancho_curto: Janela em janela
+  intencao: fixar a imagem mestra da marcha numa fórmula curta e memorizável
+  observacao: funciona bem como segunda linha de refrão ou resposta do coro
+- gancho_curto: De luz em luz, Mafamude
+  intencao: dar sensação de corrente, crescimento e união progressiva
+  observacao: muito útil para ponte antes da explosão principal
+- gancho_curto: Quem mora em ti vem cantar
+  intencao: humanizar o conceito e ligar casa, povo e rua
+  observacao: usar como apoio emocional, não necessariamente como slogan central
+
+Orientações para o compositor:
+orientacoes_para_o_compositor:
+- o_que_a_letra_deve_valorizar: presença humana, vizinhança, sinal de casa viva, orgulho mafamudense, passagem do íntimo ao colectivo, noite que se ilumina em povo
+- equilibrio_entre_historia_e_festa: a história deve entrar apenas como espessura de casas, lugares e memória; a festa tem de mandar no andamento, no brilho e na comunicação imediata
+- tipo_de_refrao_desejado: refrão ascendente, muito coral, baseado num verbo de acção simples e numa imagem visual clara
+- estrutura_recomendada_da_marcha: abertura mais contida e nocturna; estrofe de acendimento progressivo; segunda estrofe já com vida de rua; ponte curta de encadeamento; refrão explosivo; fecho com repetição reforçada do nome Mafamude
+- observacoes_de_cantabilidade: usar frases curtas, palavras concretas, vogais abertas e verbos físicos como acender, abrir, vir, cantar; evitar construções demasiado literárias; Mafamude deve cair em apoio melódico seguro e orgulhoso
+- o_que_evitar_na_letra: clichés de janela lisboeta, excesso de romantização doméstica, linguagem turística, enumeração de património, abstração excessiva, nostalgia parada e qualquer verso que pudesse servir outra freguesia quase sem mudar palavras
+
+Potencial cénico:
+potencial_cenico:
+- cores_ou_ambientes_sugeridos: azul-noite, âmbar, marfim quente, vermelho popular, ouro de luz e pequenos apontamentos escuros para valorizar o efeito de acendimento
+- imagens_de_desfile: frentes que começam mais fechadas e sombreadas e vão ganhando brilho; quadros ou molduras de janela estilizadas; alas que se iluminam por sequência; sensação de bairro acordado em cadeia
+- elementos_visuais_opcionais: caixilhos leves, lanternas, pequenos pontos de luz, leques ou adereços que abram como janelas, tratamento gráfico de peitoril e varanda sem literalismo pesado, evitando qualquer cenografia demasiado residencial ou caricatural
+
+Diferenciação face a ideias anteriores: Esta proposta afasta-se com clareza das ideias já trabalhadas. Não regressa à oficina nem à escultura; não repete a expansão do adro para a avenida; não usa o topónimo como motor principal; não trabalha o jardim escondido; não recorre ao retrato; não se organiza pela convergência, pelo compasso ou pelo estandarte. O eixo agora é outro: presença doméstica que se torna presença popular. O movimento nasce da luz e da vizinhança, não do objecto, do slogan ou da geografia pura.
+
+Diferenciação face a marchas já feitas: Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas gastas porque não depende apenas do arraial genérico, não vive só do santo, não transforma património em visita guiada e não se limita ao elogio abstracto do bairro. O que oferece de próprio é uma imagem forte, nocturna e muito marchável: Mafamude a acender-se janela em janela até ficar inteira na rua.
+```
