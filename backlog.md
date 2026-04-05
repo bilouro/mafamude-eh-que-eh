@@ -73,7 +73,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 ## Associações e Colectividades → [associacoes_colectividades.md](associacoes_colectividades.md)
 
-- [ ] Que clubes desportivos existem ou existiram em Mafamude — história, fundação, modalidades?
+- [x] Que clubes desportivos existem ou existiram em Mafamude — história, fundação, modalidades?
 - [ ] Que associações culturais, recreativas ou filarmónicas marcaram a vida de Mafamude?
 - [ ] Que grupos de teatro, ranchos folclóricos ou grupos corais existem ou existiram em Mafamude?
 - [ ] Que movimentos de moradores, associações de bairro ou organizações cívicas actuaram em Mafamude?
