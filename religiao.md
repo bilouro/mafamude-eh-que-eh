@@ -14,3 +14,12 @@ Não posso dar, com segurança, uma 'história completa' da Paróquia de São Cr
 **Pontos não confirmados:** Data exata de fundação ou ereção canónica da paróquia.; Lista de párocos notáveis e respetiva cronologia.; Cronologia completa das obras, reedificações e reformas da igreja paroquial.  
 
 ---
+## Que outras capelas, cruzeiros ou locais de devoção existem ou existiram em Mafamude?
+
+Com a prudência exigida pelas fontes que consigo sustentar aqui, o outro local de devoção de Mafamude que posso apontar com mais segurança é Santo Ovídio, historicamente associado a capela ou templo dessa invocação e preservado na toponímia local. Fora desse caso, não posso confirmar com confiança uma lista segura e completa de outras capelas, cruzeiros ou pequenos lugares de culto de Mafamude sem pesquisa adicional em documentação paroquial, memórias paroquiais, visitas pastorais e inventários patrimoniais.
+
+**Confiança:** Low  
+**Fontes:** Portugal antigo e moderno; Dicionário Corográfico de Portugal Continental e Insular  
+**Pontos não confirmados:** Lista completa de outras capelas de Mafamude; Existência e identificação de cruzeiros específicos em Mafamude; Cronologia exata e eventual desaparecimento ou deslocação de todos os antigos locais de devoção  
+
+---
