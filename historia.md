@@ -68,3 +68,12 @@ Em termos historicamente seguros, Mafamude transformou-se, ao longo do século X
 **Pontos não confirmados:** Os números exatos da população por década não são apresentados aqui, embora existam nas séries censitárias.; O peso relativo da migração, do crescimento natural e de cada infraestrutura concreta na transformação de Mafamude permanece por quantificar nesta resposta.; A velocidade da urbanização em cada zona da antiga freguesia não foi aqui medida de forma parcelar.  
 
 ---
+## Que relação histórica existe entre Mafamude e Vila Nova de Gaia enquanto sede de município?
+
+A relação histórica mais segura é esta: Vila Nova de Gaia é a sede do município, enquanto Mafamude é uma freguesia histórica desse mesmo concelho. Portanto, Mafamude não substituiu juridicamente Vila Nova de Gaia como sede municipal. O que ocorreu foi uma integração urbana progressiva: com o crescimento da cidade-sede, Mafamude ficou ligada ao espaço central de Gaia e passou a associar-se, na prática, ao seu centro cívico e administrativo. Em suma, a relação entre ambas é de inclusão e de urbanização da sede municipal sobre território ligado a Mafamude, não de mudança do nome jurídico da sede.
+
+**Confiança:** Medium  
+**Fontes:** Lei n.º 11-A/2013; Carta Administrativa Oficial de Portugal; SIPA - ficha dos Paços do Concelho de Vila Nova de Gaia; Portal institucional da Câmara Municipal de Vila Nova de Gaia; Portugal Antigo e Moderno  
+**Pontos não confirmados:** A data exata em que a centralidade administrativa de Gaia se fixou no setor de Mafamude.; A delimitação paroquial histórica precisa de todo o eixo cívico da sede municipal.  
+
+---
