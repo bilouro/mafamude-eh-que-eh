@@ -41,3 +41,12 @@ A resposta mais segura é prudente: não consigo confirmar, com base robusta, um
 **Pontos não confirmados:** Existência de uma feira periódica formal de Mafamude com nome e calendário próprios.; Identificação do mercado municipal mais usado pelos moradores de Mafamude em cada período histórico.; Eventuais feiras associadas a festas religiosas locais na área de Santo Ovídio ou da freguesia.  
 
 ---
+## Que locais históricos de Mafamude foram demolidos ou transformados ao longo do séc. XX?
+
+Com base apenas no que consigo confirmar com segurança, o exemplo mais nítido em Mafamude é a antiga Casa e Ateliê de António Teixeira Lopes, na Quinta do Cedro, transformados em museu municipal no século XX. Também é segura a conclusão de que Mafamude sofreu uma profunda transformação urbana no mesmo período, com desaparecimento de parte do antigo tecido de quintas e casas. Contudo, eu não consigo aqui nomear, com rigor suficiente, quais desses imóveis históricos foram efetivamente demolidos caso a caso. Portanto, a resposta historicamente prudente é: há transformações bem documentadas; uma lista segura de demolições específicas exige consulta do arquivo municipal, cadastro e cartografia histórica detalhada.
+
+**Confiança:** Medium  
+**Fontes:** Casa-Museu Teixeira Lopes / Casa e Ateliers de António Teixeira Lopes; Casa-Museu Teixeira Lopes; Carta Militar de Portugal; Ortofotomapas e cartografia oficial recente  
+**Pontos não confirmados:** Lista nominativa de edifícios históricos demolidos em Mafamude no século XX.; Datas e circunstâncias de demolição de quintas e casas antigas específicas.  
+
+---
