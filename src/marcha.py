@@ -376,6 +376,9 @@ def update_index(result: dict, n: int):
         MARCHAS_INDEX.write_text(header, encoding="utf-8")
 
     row = f"| {n} | [{titulo}]({link}) | {conceito} |\n"
+    # Evitar entradas duplicadas
+    if MARCHAS_INDEX.exists() and link in MARCHAS_INDEX.read_text(encoding="utf-8"):
+        return
     with open(MARCHAS_INDEX, "a", encoding="utf-8") as f:
         f.write(row)
 
