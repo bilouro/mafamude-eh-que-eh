@@ -164,4 +164,4 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Canados, Vasilhas de leite, Herança agrícola, como e em quais circustâncias eram usados no passado.
 - [x] Tradição de Escultores
 - [x] Tradição de Mulheres lavadeiras 
-- [ ] Quais eram as profissões mais comuns em Gaia no passado?
+- [x] Quais eram as profissões mais comuns em Gaia no passado?

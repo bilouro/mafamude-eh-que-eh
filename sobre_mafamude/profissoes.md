@@ -25,3 +25,12 @@ A formulação mais prudente é esta: a imagem das 'mulheres lavadeiras' encaixa
 **Pontos não confirmados:** Existência de uma tradição distintiva e documentada exclusivamente de Mafamude.; Locais concretos, datas e continuidade histórica dessa prática em Mafamude.; Eventual existência de lavadouros, topónimos ou episódios locais diretamente ligados a lavadeiras sem documentação específica adicional.  
 
 ---
+## Quais eram as profissões mais comuns em Gaia no passado?
+
+Em termos gerais, e sobretudo se pensarmos entre os séculos XIX e primeira metade do XX, as profissões mais comuns em Gaia parecem ter pertencido a quatro grandes grupos: 1) agricultura, com lavradores e jornaleiros; 2) atividades ligadas ao vinho do Porto, como trabalhadores de armazém, carregadores, tanoeiros, transportadores e comércio associado; 3) ofícios manuais e da construção, como pedreiros, carpinteiros e ferreiros; 4) em zonas específicas, profissões marítimo-fluviais, como barqueiros, marinheiros e pescadores. Para Mafamude em particular, eu não confirmaria uma ordem exata sem consulta direta de recenseamentos por freguesia.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758; Inquérito Industrial de 1881; Recenseamento Geral da População em 1 de Dezembro de 1900; Recenseamento Geral da População em 1 de Dezembro de 1911; X Recenseamento Geral da População no Continente e Ilhas Adjacentes em 12 de Dezembro de 1940  
+**Pontos não confirmados:** A hierarquia exata das profissões por freguesia, incluindo Mafamude.; Percentagens ou rankings numéricos sem extração direta das tabelas censitárias.; Uma resposta única válida para todos os séculos e para todo o concelho sem distinções internas.  
+
+---
