@@ -19,3 +19,4 @@
 | 11 | [Mafamude, Cedro ao Alto](marchas/marcha11.md) | Mafamude é cantada como um cedro popular de porte alto, extraído da toponímia re |
 | 12 | [Mafamude Dá Pregão](marchas/marcha12.md) | Mafamude surge como praça viva onde a identidade local se anuncia em pregão, se  |
 | 13 | [Mafamude Dá Fruto](marchas/marcha13.md) | Mafamude é cantada como terra de continuidade fecunda: das antigas quintas e do  |
+| 14 | [Mafamude, Pedra e Voz](marchas/marcha14.md) | Transformar a memória escultórica de Mafamude numa marcha em que a pedra, as mão |
