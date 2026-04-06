@@ -161,7 +161,7 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 
 ## Profissões → [profissoes.md](profissoes.md)
 
-- [ ] Canados, Vasilhas de leite, Herança agrícola, como e em quais circustâncias eram usados no passado.
+- [x] Canados, Vasilhas de leite, Herança agrícola, como e em quais circustâncias eram usados no passado.
 - [ ] Tradição de Escultores
 - [ ] Tradição de Mulheres lavadeiras 
 - [ ] Quais eram as profissões mais comuns em Gaia no passado?
