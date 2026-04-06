@@ -1316,3 +1316,18 @@ Esta proposta afasta-se claramente das anteriores porque não regressa à oficin
 Diferenciação face a marchas já feitas:
 Como a lista de marchas_ja_feitas vem vazia, a diferenciação só pode ser preventiva. Ainda assim, esta ideia protege-se bem contra fórmulas gastas porque não depende só do santo, não vive do arraial genérico, não transforma património em visita guiada e não se limita a elogio abstracto do bairro. O que oferece de próprio é uma imagem forte, quente e marchável: Mafamude não apenas festeja — Mafamude dá fruto.
 ```
+
+- [ ]
+```text
+Usar o tema: a tradição de ter os escultores em gaia. Seu papel, sua história.  
+```
+
+- [ ]
+```text
+Usar o tema: a tradição de ter as lavadeiras em gaia. Seu papel, sua história.  
+```
+
+- [ ]
+```text
+Usar o tema: a tradição de ter as lavadeiras, escultores e outras profissoes em gaia no passado. Seu papel, sua história.  
+```

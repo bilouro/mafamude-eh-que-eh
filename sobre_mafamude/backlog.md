@@ -158,3 +158,10 @@ Cada item é uma pesquisa a fazer via OpenAI (com acesso à internet). Marcar `[
 - [x] Que relação histórica e administrativa existe entre Mafamude e a Câmara Municipal de Gaia?
 - [x] O que distingue Mafamude das outras freguesias de Vila Nova de Gaia em termos de identidade e características?
 - [x] Como é que a fronteira entre Mafamude/Gaia e o Porto se manifesta na identidade local?
+
+## Profissões → [profissoes.md](profissoes.md)
+
+- [ ] Canados, Vasilhas de leite, Herança agrícola, como e em quais circustâncias eram usados no passado.
+- [ ] Tradição de Escultores
+- [ ] Tradição de Mulheres lavadeiras 
+- [ ] Quais eram as profissões mais comuns em Gaia no passado?
