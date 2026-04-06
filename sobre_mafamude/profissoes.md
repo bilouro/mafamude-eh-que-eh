@@ -7,3 +7,12 @@ Com prudência, o mais seguro é dizer que os canados, quando associados a vasil
 **Pontos não confirmados:** Uso específico documentado em Mafamude.; Capacidade exata do "canado" no contexto local.; Material e tipologia próprios das peças usadas em Mafamude.  
 
 ---
+## Tradição de Escultores
+
+Se a pergunta se refere a Mafamude, há base documental para falar, com prudência, de uma tradição escultórica local sobretudo ligada ao núcleo de António Teixeira Lopes e ao património hoje representado pela Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo, em Vila Nova de Gaia. Isso sustenta uma associação histórica real entre o lugar e a escultura, especialmente nos séculos XIX-XX. O que não posso afirmar com segurança, com as fontes aqui mobilizadas, é que Mafamude tenha sido de forma contínua e desde épocas mais antigas um centro amplo e generalizado de escultores.
+
+**Confiança:** Medium  
+**Fontes:** Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo; Casa-Museu Teixeira Lopes; A Arte em Portugal no Século XIX  
+**Pontos não confirmados:** A extensão dessa tradição à totalidade da freguesia de Mafamude.; A existência de uma continuidade comprovada anterior ao século XIX.; A identificação de um grupo profissional local amplo para além do núcleo mais claramente documentado.  
+
+---
