@@ -16,7 +16,6 @@ Uma marcha popular completa — letra, música, coreografia, figurinos e cenogra
 
 ## Explorar
 
-- [Ideias de marcha](ideias.md) — conceitos criativos gerados e em avaliação
 - [Marchas criadas](marchas_criadas.md) — letras completas prontas para trabalho musical
 
 ---
