@@ -16,3 +16,12 @@ Se a pergunta se refere a Mafamude, há base documental para falar, com prudênc
 **Pontos não confirmados:** A extensão dessa tradição à totalidade da freguesia de Mafamude.; A existência de uma continuidade comprovada anterior ao século XIX.; A identificação de um grupo profissional local amplo para além do núcleo mais claramente documentado.  
 
 ---
+## Tradição de Mulheres lavadeiras
+
+A formulação mais prudente é esta: a imagem das 'mulheres lavadeiras' encaixa bem na história social tradicional de Vila Nova de Gaia e da região do Porto, onde a lavagem de roupa em espaços públicos de água foi durante muito tempo uma prática feminina comum e, por vezes, um ofício. No entanto, com base nas fontes seguras aqui usadas, não posso confirmar com confiança uma tradição própria e singular de lavadeiras especificamente de Mafamude. Se existe essa memória local, ela deve ser tratada, por agora, como plausível mas ainda não demonstrada documentalmente para Mafamude em particular.
+
+**Confiança:** Medium  
+**Fontes:** Etnografia Portuguesa; Arquitectura Popular em Portugal; Senhoras e Mulheres na Sociedade Portuguesa do Século XIX; SIPA - Sistema de Informação para o Património Arquitectónico  
+**Pontos não confirmados:** Existência de uma tradição distintiva e documentada exclusivamente de Mafamude.; Locais concretos, datas e continuidade histórica dessa prática em Mafamude.; Eventual existência de lavadouros, topónimos ou episódios locais diretamente ligados a lavadeiras sem documentação específica adicional.  
+
+---
