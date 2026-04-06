@@ -34,3 +34,12 @@ Em termos gerais, e sobretudo se pensarmos entre os séculos XIX e primeira meta
 **Pontos não confirmados:** A hierarquia exata das profissões por freguesia, incluindo Mafamude.; Percentagens ou rankings numéricos sem extração direta das tabelas censitárias.; Uma resposta única válida para todos os séculos e para todo o concelho sem distinções internas.  
 
 ---
+## Quais eram as profissões mais comuns em Gaia no passado?
+
+Com cautela, a resposta mais segura é esta: em Gaia, sobretudo entre os séculos XVIII e o início do século XX, as profissões mais comuns não foram as mesmas em todo o território. Em muitas zonas do concelho predominavam trabalhos agrícolas, como lavradores e jornaleiros. Nas áreas ribeirinhas tinham grande peso pescadores e barqueiros. E, na frente do Douro, foram muito importantes os ofícios ligados ao vinho do Porto, como trabalhadores de armazém, tanoeiros, transportadores e pessoal do comércio do vinho. Também aparecem com frequência ofícios artesanais e da construção, como carpinteiros, pedreiros e ferreiros. Para Mafamude em particular, é prudente não assumir automaticamente o mesmo perfil profissional da zona ribeirinha de Gaia.
+
+**Confiança:** Medium  
+**Fontes:** Memórias Paroquiais de 1758; Recenseamentos Gerais da População de Portugal; História do Vinho do Porto; Historic Centre of Porto, Luiz I Bridge and Monastery of Serra do Pilar; Sistema de Informação para o Património Arquitectónico: fichas sobre caves e armazéns do vinho do Porto em Vila Nova de Gaia; Port and the Douro  
+**Pontos não confirmados:** A hierarquia exata das profissões mais frequentes em Gaia sem delimitar um período preciso.; A distribuição específica das profissões em Mafamude sem recorrer a fontes locais mais finas.  
+
+---
