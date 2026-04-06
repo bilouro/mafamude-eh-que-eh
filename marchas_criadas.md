@@ -22,3 +22,4 @@
 | 14 | [Mafamude, Pedra e Voz](marchas/marcha14.md) | Transformar a memória escultórica de Mafamude numa marcha em que a pedra, as mão |
 | 14 | [Mafamude Dá Figura](marchas/marcha14.md) | Mafamude é celebrada como lugar de memória escultórica, onde a arte deu rosto ao |
 | 15 | [Mafamude, Lenço Branco](marchas/marcha15.md) | O lenço branco das lavadeiras é transformado em bandeira popular de Mafamude: da |
+| 16 | [Mafamude Mostra as Mãos](marchas/marcha16.md) | Mafamude é cantada através das mãos que a fizeram crescer: mãos da terra, mãos d |
